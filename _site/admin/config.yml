@@ -23,7 +23,7 @@ collections:
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
           - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
-  - name: 'paginas'
+  - name: 'paginas_insular'
     label: 'Páginas Insular'
     editor:
       preview: false
@@ -35,7 +35,7 @@ collections:
           - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
           - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
       - label: 'Laboratório'
-        name: 'laboratorio
+        name: 'laboratorio'
         file: '_data/laboratorio.yml'
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}

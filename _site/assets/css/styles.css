@@ -10,7 +10,7 @@ body { font-family: "Sequel Sans Roman Body"; overflow-x: hidden; color: black; 
 
 .bg-white { background-color: white; }
 
-.bg-red { background-color: #e64d3c; }
+.bg-red { background-color: #fff22d; }
 
 .bg-black { background-color: black; }
 
@@ -28,7 +28,7 @@ p { line-height: 1.6em; }
 
 .border-dark { border-color: black !important; }
 
-.border-red { border-color: #e64d3c !important; }
+.border-red { border-color: #fff22d !important; }
 
 .object-fit-cover { object-fit: cover; }
 
@@ -36,7 +36,7 @@ p { line-height: 1.6em; }
 
 .max-height-60 { max-height: 60vh; }
 
-.text-red { color: #e64d3c; }
+.text-red { color: #fff22d; }
 
 .text-white { color: white; }
 
@@ -48,7 +48,7 @@ p { line-height: 1.6em; }
 
 .navbar-container { position: sticky; top: 0; left: 0; z-index: 6; width: 100%; transition: 0.2s; }
 
-.nav-active { text-align: center; text-decoration: underline; text-decoration-color: #e64d3c; }
+.nav-active { text-align: center; text-decoration: underline; text-decoration-color: #fff22d; }
 
 .nav-shadow { transition: 0.2s; background-color: white; }
 
@@ -77,9 +77,9 @@ p { line-height: 1.6em; }
 
 .nav-item-first { font-size: 1.8em; }
 
-.switch-button { background-color: #e64d3c; border: 2px solid #e64d3c; border-radius: 50%; text-align: center; margin-bottom: 2vh; }
+.switch-button { background-color: #fff22d; border: 2px solid #fff22d; border-radius: 50%; text-align: center; margin-bottom: 2vh; }
 
-.switch-button:hover { background-color: transparent !important; border: 2px solid #e64d3c; color: #e64d3c; }
+.switch-button:hover { background-color: transparent !important; border: 2px solid #fff22d; color: #fff22d; }
 
 .switch-btn-insular { border: 2px solid black; }
 
@@ -89,9 +89,9 @@ p { line-height: 1.6em; }
 
 .insular-full-width { width: 100%; margin-left: 0; }
 
-@media only screen and (min-width: 1024px) { .nav-flex { display: flex; } .lg-full-width { width: 100%; } .language { position: absolute; top: 10px; right: 20px; } .nav-item { font-size: 1.3vw; padding: 1px 10px 3px 10px; } .nav-item-first { font-size: 1.3vw; padding: 1px 10px 3px 0px; } .nav-active { border-radius: 50%; border: 2px solid #e64d3c; padding: 1px 10px 3px 10px; text-decoration: none; } .smallLogo { width: 24%; transition: 0.85s; } .navbar-container { min-height: 20vh; } }
+@media only screen and (min-width: 1024px) { .nav-flex { display: flex; } .lg-full-width { width: 100%; } .language { position: absolute; top: 10px; right: 20px; } .nav-item { font-size: 1.3vw; padding: 1px 10px 3px 10px; } .nav-item-first { font-size: 1.3vw; padding: 1px 10px 3px 0px; } .nav-active { border-radius: 50%; border: 2px solid #fff22d; padding: 1px 10px 3px 10px; text-decoration: none; } .smallLogo { width: 24%; transition: 0.85s; } .navbar-container { min-height: 20vh; } }
 
-@media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; width: 100% !important; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; border-left: 2px solid black; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; height: 100vh; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } .fuso-insular-nav-mobile { flex-direction: column; } .insular-section { width: 100%; margin-left: 0; } .navbar-btn-mobile { background-color: #e64d3c !important; color: black !important; border: 2px solid #e64d3c; } }
+@media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; width: 100% !important; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; border-left: 2px solid black; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; height: 100vh; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } .fuso-insular-nav-mobile { flex-direction: column; } .insular-section { width: 100%; margin-left: 0; } .navbar-btn-mobile { background-color: #fff22d !important; color: black !important; border: 2px solid #fff22d; } }
 
 .partners-logo-footer { height: 44px; mix-blend-mode: multiply; }
 
@@ -109,11 +109,15 @@ p { line-height: 1.6em; }
 
 .insular-title { font-size: 3.5em; margin-bottom: 0; margin-top: 10px; }
 
-.esfera-1 { width: 20%; float: right; margin-bottom: -14%; z-index: 2; position: relative; mix-blend-mode: multiply; }
+.esfera-1 { width: 50%; float: right; margin-bottom: -14%; z-index: 2; position: relative; mix-blend-mode: multiply; }
 
-.esfera-2 { width: 20%; margin-top: -10%; mix-blend-mode: multiply; }
+.esfera-2 { width: 48%; margin-top: -7%; margin-left: 5%; mix-blend-mode: multiply; }
 
 .esfera-3 { width: 20%; float: right; z-index: 2; mix-blend-mode: multiply; height: 100%; margin-left: -5%; }
+
+.z-10 { z-index: 10 !important; }
+
+.z-0 { z-index: 0 !important; }
 
 a { text-decoration: none; color: inherit; }
 
@@ -127,13 +131,13 @@ a:hover { color: inherit; }
 
 .underline { text-decoration: underline; }
 
-.online-btn { border: 1px solid #e64d3c; border-radius: 50%; padding: 15px 20px 7px 20px; font-size: 2em; }
+.online-btn { border: 1px solid #fff22d; border-radius: 50%; padding: 15px 20px 7px 20px; font-size: 2em; }
 
-.online-btn:hover { color: #e64d3c; }
+.online-btn:hover { color: #fff22d; }
 
 @media only screen and (min-width: 600px) { .desktop { display: block; } .mobile { display: none; } .w-70 { width: 70%; } }
 
-@media only screen and (max-width: 600px) { .desktop { display: none !important; } .mobile { display: block !important; } .hero-insular { width: 100%; } .insular-title { font-size: 1.5em; } .esfera-insular-mobile { width: 35%; margin-bottom: -5px; } .font-larger { font-size: 1.5em; } .mobile-45-logo { height: 44vh; } .esfera-1 { width: 35%; margin-bottom: -30%; float: left; } .fuso-index-dates { margin-top: -18%; } .fuso-banner { height: auto; } .fuso-insular-banner { padding-bottom: 15vh !important; } .title2-size { font-size: 12vw; } }
+@media only screen and (max-width: 600px) { .desktop { display: none !important; } .mobile { display: block !important; } .hero-insular { width: 100%; } .insular-title { font-size: 1.5em; } .esfera-insular-mobile { width: 55%; margin-bottom: -5px; } .font-larger { font-size: 1.5em; } .mobile-45-logo { height: 44vh; } .esfera-1 { width: 100%; float: left; } .fuso-index-dates { margin-top: -18%; } .fuso-banner { height: auto; } .fuso-insular-banner { padding-bottom: 15vh !important; } .title2-size { font-size: 12vw; } }
 
 .partners-logo { width: 30%; mix-blend-mode: multiply; }
 
@@ -149,11 +153,11 @@ a:hover { color: inherit; }
 
 @media only screen and (max-width: 1024px) { .open-call-img { width: 100%; } .sticky-btn-opencall, .sticky-btn { width: -webkit-fit-content; padding: 0 15px; } .lab-img { border: 2px solid black; } }
 
-@media only screen and (min-width: 1024px) { .open-call-img { height: 80vh; } .w-xl-50 { width: 50%; } .about-left { width: 57%; margin-right: 3rem; } .about-right { padding-right: 18vw; } .esfera-about-right { width: 20%; float: right; z-index: 2; position: absolute; right: 12vw; } .overflow-scroll { overflow: scroll !important; height: 80vh; } .partners-logo { width: 10%; } }
+@media only screen and (min-width: 1024px) { .open-call-img { height: 80vh; } .w-xl-50 { width: 50%; } .about-left { width: 57%; margin-right: 3rem; } .about-right { padding-right: 18vw; } .esfera-about-right { width: 22%; float: right; z-index: 2; position: absolute; right: 2vw; top: 50%; } .overflow-scroll { overflow: scroll !important; height: 80vh; } .partners-logo { width: 10%; } }
 
-.switch-btn-insular { background-color: black; color: #e64d3c; }
+.switch-btn-insular { background-color: black; color: #fff22d; }
 
-.border-red { border: 2px solid #e64d3c; }
+.border-red { border: 2px solid #fff22d; }
 
 .fuso-programs { display: grid; grid-template-columns: 1fr 1fr; }
 
@@ -163,7 +167,7 @@ a:hover { color: inherit; }
 
 .programa-container { height: 50vh; }
 
-.hover-red:hover { color: #e64d3c; text-decoration: underline; }
+.hover-red:hover { color: #fff22d; text-decoration: underline; }
 
 .hover-white:hover { color: white; }
 
@@ -191,7 +195,7 @@ a:hover { color: inherit; }
 
 .flex-artistas-insular { max-height: 45vh; }
 
-.artist-btn:hover { color: #e64d3c; }
+.artist-btn:hover { color: #fff22d; }
 
 .curator-btn { cursor: pointer; }
 
