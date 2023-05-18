@@ -1,0 +1,52 @@
+.fuso-programs
+    display: grid
+    grid-template-columns: 1fr 1fr
+    
+.gradient
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0))
+    height: 100%
+
+.event-grid
+    display: grid
+    grid-template-columns: 1fr 1fr
+
+.programa-container
+    height: 50vh
+
+.hover-red:hover
+    color: $red
+    text-decoration: underline
+    
+
+.hover-white:hover
+    color: white
+
+.programa-margin
+        margin-bottom: 5rem !important
+
+@media only screen and (max-width: 330px) 
+    .w-md-25
+        font-size: 0.9rem
+
+@media only screen and (max-width: 600px) 
+    .fuso-programs
+        display: block
+
+    .programa-container
+        height: 32vh
+
+    .programa-info h5
+        font-size: 1em
+
+    .data-programa
+        width: 40%
+
+@media only screen and (min-width: 600px) 
+    .w-15 
+        width: 16%
+
+    .w-7
+        width: 7%
+
+    .w-md-25
+        width: 70%

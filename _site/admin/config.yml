@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "assets/img"
+
+
+collections:
+  - name: 'paginas'
+    label: 'Páginas Fuso'
+    editor:
+      preview: false
+    files:
+      - label: 'Sobre'
+        name: 'sobre'
+        file: '_data/sobre-fuso.yml'
+        fields: 
+          - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
+          - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
+      - label: 'Open Call'
+        name: 'open_call'
+        file: '_data/open-call.yml'
+        fields: 
+          - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
+          - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
+  - name: 'paginas'
+    label: 'Páginas Insular'
+    editor:
+      preview: false
+    files:
+      - label: 'Sobre'
+        name: 'sobre'
+        file: '_data/sobre-insular.yml'
+        fields: 
+          - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
+          - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
+      - label: 'Laboratório'
+        name: 'laboratorio
+        file: '_data/laboratorio.yml'
+        fields: 
+          - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
+          - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}

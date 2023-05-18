@@ -1,0 +1,38 @@
+---
+layout: fuso-insular-eng
+---
+<style>
+    .artist-btn:hover {
+        color: white;
+        cursor: pointer;
+    }
+</style>
+<div class="d-md-flex flex-row-reverse mx-4 mb-3 py-2">
+    <div class="w-md-50 desktop">
+        <div class="flex-artistas flex-artistas-insular">
+            {% for artist in site.data.insular_artists.artistas %}
+            <a class="artist-btn" data-artist="{{artist.title | slugify }}"><u>{{ artist.title }}</u></a>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="w-md-50 me-5">
+        {% for artist in site.data.insular_artists.artistas %}
+            <div id="{{artist.title | slugify}}" class="artist-text">
+                <p class="text-uppercase artist-name">{{ artist.title }}</p>
+                <div class="artist-bio">{{artist.bio_eng}}</div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+    $('.artist-text').first().show();
+    $('.artist-btn').first().addClass('text-white');
+    $('.artist-btn').click(function() {
+        const artist = '#' + $(this).data('artist');
+        $('.artist-text').hide();
+        $(artist).toggle();
+        $('.artist-btn').removeClass('text-white');
+        $(this).toggleClass('text-white');
+    });
+</script>

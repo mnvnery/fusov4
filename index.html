@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class="desktop">
+    <div class="d-flex flex-column justify-content-between vh-100 index-container">
+        <a href="{{site.baseurl}}/fuso" class="h-100 d-flex align-items-center"><div class="fuso-banner px-4 pt-2 w-100">
+            <img src="{{site.baseurl}}/assets/img/esfera_coral_3.gif" alt="Esfera" class="esfera-1">
+            <img src="{{site.baseurl}}/assets/img/hero-title.svg" alt="Fuso 25-29 August" class="w-100 link-hover">
+            <img src="{{site.baseurl}}/assets/img/esfera_coral_2.gif" alt='Esfera' class="esfera-2">
+        </div></a>
+        <a href="{{site.baseurl}}/fuso-insular"><div class="fuso-insular-banner bg-red d-flex align-items-center justify-content-between py-5 px-4 border-top border-dark border-3">
+            <img src="{{site.baseurl}}/assets/img/hero-insular.svg" alt="Fuso 25-29 August" class="hero-insular">
+            <span class="font-rossa insular-title">I</span>
+            <span class="font-rossa insular-title">N</span>
+            <span class="font-rossa insular-title">S</span>
+            <span class="font-rossa insular-title">U</span>
+            <span class="font-rossa insular-title">L</span>
+            <span class="font-rossa insular-title">A</span>
+            <span class="font-rossa insular-title">R</span>
+        </div></a>
+    </div>
+</div>
+<div class="mobile">
+    <div class="d-flex flex-column justify-content-between vh-100 index-container">
+        <a href="{{site.baseurl}}/fuso">
+        <div class="fuso-banner px-4 pt-2">
+            <img src="{{site.baseurl}}/assets/img/esfera_coral_3.gif" alt="Esfera" class="esfera-1">
+            <div class="d-flex align-items-center justify-content-center w-100">
+                <img src="{{site.baseurl}}/assets/img/logo-45.svg" alt="Fuso 25-29 August" class="mobile-45-logo link-hover">
+            </div>
+            <div class="fuso-index-dates font-larger float-end text-end mb-4">23 — <br>28 Agosto</div>
+        </div></a>
+        <a href="{{site.baseurl}}/fuso-insular"><div class="fuso-insular-banner bg-red d-flex flex-column py-5 px-4 border-top border-dark border-3">
+            <img src="{{site.baseurl}}/assets/img/logo.svg" alt="Fuso 25-29 August" class="hero-insular">
+            <div class="d-flex align-items-center justify-content-between">
+                <span class="font-rossa insular-title">I</span>
+                <span class="font-rossa insular-title">N</span>
+                <span class="font-rossa insular-title">S</span>
+                <span class="font-rossa insular-title">U</span>
+                <span class="font-rossa insular-title">L</span>
+                <span class="font-rossa insular-title">A</span>
+                <span class="font-rossa insular-title">R</span>
+            </div>
+            <div class="d-flex justify-content-between align-items-end">
+                <div class="font-larger">27 — <br>30 Outubro</div>
+                <img src="{{site.baseurl}}/assets/img/esfera_preta_3.gif" alt="esfera" class="multiply esfera-insular-mobile">
+            </div>
+        </div>
+        </a>
+    </div>
+</div>
+<script>
+if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+    if (!user) {
+        window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+        });
+    }
+    });
+}
+</script>

@@ -1,0 +1,63 @@
+---
+layout: parceiros
+financiamento:
+- '/assets/img/reptcultura.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/5-edp.jpg'
+- '/assets/img/4-maat.jpg'
+institucional:
+- '/assets/img/3-EGEAC.jpg'
+partner:
+- '/assets/img/arco.jpg'
+media:
+- '/assets/img/antena1.png'
+hosts:
+- '/assets/img/castelosjorge.png'
+- '/assets/img/4-maat.jpg'
+- '/assets/img/6-museu-marioneta.jpg'
+- '/assets/img/3-mnac.jpg'
+- '/assets/img/trienalarqlisboa.png'
+---
+<h4 class="p-4 capitalize">PARCEIROS</h4>
+<div class="d-flex flex-column flex-xl-row align-items-xl-center border-top border-bottom border-dark">
+    <h5 class="p-4 pb-0 pb-xl-4 ">Financiamento</h5>
+    <div class="ps-4 ps-xl-0 d-flex align-items-center flex-wrap pe-3 w-100">
+        {% for logo in site.data.parceiros.financiamento %}
+        <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Financiamento" class="partners-logo">
+        {% endfor %}
+    </div>
+</div>
+<div class="d-flex flex-column flex-xl-row align-items-xl-center border-bottom border-dark">
+    <h5 class="p-4 pb-0 pb-xl-4 capitalize">Parceria Institucional</h5>
+    <div class="ps-xl-0 d-flex align-items-center flex-wrap w-100">
+        {% for logo in site.data.parceiros.institucional %}
+        <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Parceria Institucional" class="partners-logo">
+        {% endfor %}
+    </div>
+</div>
+<div class="d-flex flex-column flex-xl-row align-items-xl-center border-bottom border-dark">
+    <h5 class="p-4 pb-0 pb-xl-4 capitalize">Parceria</h5>
+    <div class="ps-xl-0 d-flex align-items-center flex-wrap pe-3 w-100">
+        {% for logo in site.data.parceiros.partner %}
+        <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Parceria" class="partners-logo">
+        {% endfor %}
+    </div>
+</div>
+<div class="d-flex flex-column flex-xl-row align-items-xl-center border-bottom border-dark">
+    <h5 class="p-4 pb-0 pb-xl-4 capitalize">Apoio à Divulgação</h5>
+    <div class="ps-4 ps-xl-0 d-flex align-items-center flex-wrap pe-3 w-100">
+    {% for logo in site.data.parceiros.media %}
+    <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Apoio" class="partners-logo">
+    {% endfor %}
+    </div>
+</div>
+<div class="d-flex flex-column flex-xl-row align-items-xl-center border-bottom border-dark">
+    <h5 class="p-4 pb-0 pb-xl-4 capitalize">Acolhimento</h5>
+    <div class="ps-4 ps-xl-0 d-flex align-items-center flex-wrap pe-3 w-100">
+        {% for logo in site.data.parceiros.hosts %}
+        <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Acolhimento" class="partners-logo">
+        {% endfor %}
+    </div>
+</div>
+
+<div class="mb-5 pb-5"></div>

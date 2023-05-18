@@ -1,0 +1,54 @@
+---
+layout: fuso
+---
+{% assign page_session = site.fuso_programs | where:'path', page.programa | first %}
+<div class="mx-4 mb-3">
+    <div class="h-100 me-3">
+        <div class="position-relative">
+            <img src="{{site.baseurl}}/{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover mb-3 max-height-60">
+            <p class="position-absolute bottom-0 left-0 text-white px-2 py-1"></p>
+        </div>
+        <div class="d-md-flex">
+            <h5 class="me-md-4 w-15">
+                <span class="text-uppercase">{{page.title }}</span><br>
+                {{page.artista}}
+            </h5>
+            <div class="d-flex justify-content-md-center w-15">
+                <div class="me-4 text-smaller">
+                    {{ page_session.data }} Agosto<br>
+                    às {{ page_session.horas }}
+                </div>
+                <div class="me-4 text-smaller">
+                    <u>Local</u> <br>
+                    <div class="hover-red">{{ page_session.local }}</div>
+                </div>
+            </div>
+            <div class="me-md-4 text-smaller">
+                <u>Curadoria</u> {{ page_session.curadoria }}<br>
+                <u>Sessão</u> <a href="{{site.baseurl}}{{page_session.url}}" class="hover-red">{{page_session.title}}</a>
+            </div>
+            <div class="ms-auto w-md-50 mt-3 mt-md-0 text-smaller">
+                {{page.sinopse}}
+            </div>
+        </div>
+    </div>
+</div>
+<div class="border border-top border-black"></div>
+<h5 class="text-center mt-3 mb-4">NESTA SESSÃO</h5>
+<div class="event-grid mx-2 mb-5 pb-3 pb-md-0">
+    {% assign these_events = site.fuso_eventos | where:'programa', page_session.path %}
+    {% for evento in these_events  %}
+        {% if evento.title != page.title %}
+        <div class="border border-red mx-2 mb-5 programa-container programa-margin">
+            <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+            <div class="d-flex mt-2">
+                <h5 class="text-uppercase me-5">{{ evento.title }}</h5>
+                <h5>{{ evento.artista }}</h5>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+<script>
+    $(".pages-nav").append('<a href="{{site.baseurl}}/fuso_events/{{page.slug}}" class="font-mesclo mx-xl-0 nav-item language">eng</a>')
+</script>

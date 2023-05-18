@@ -1,0 +1,66 @@
+// curators
+.h-25vh
+    height: 25vh
+
+.curators-position
+    object-position: 100% 20%
+
+.curators-position-insular
+    object-position: 100% 40%
+
+.curator-text
+    display: none
+    position: relative
+    z-index: 2
+
+.curators-intro
+    position: relative
+    z-index: 2
+
+.curators-esfera
+    position: absolute
+    z-index: 0
+    top: 45%
+    right: 2vw
+    width: 18%
+
+// artistas
+.flex-artistas
+    display: flex
+    flex-direction: column
+    flex-wrap: wrap
+    max-height: 70vh
+
+.flex-artistas-insular
+    max-height: 45vh
+    
+.artist-btn:hover
+    color: $red
+
+.curator-btn
+    cursor: pointer
+
+
+@media only screen and (max-width: 600px) 
+    .artist-name
+        text-decoration: underline
+
+    .artist-bio
+        margin-bottom: 2em
+
+    .event-grid
+        display: block
+
+    .curator-title
+        text-transform: uppercase
+
+    .curators-esfera
+        display: none
+
+@media only screen and (min-width: 600px) 
+    .artist-text 
+        display: none
+
+    .w-md-50
+        width: 50% !important
+

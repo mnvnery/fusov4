@@ -1,0 +1,12 @@
+producao:
+- '/assets/img/producao.png'
+financiamento:
+- '/assets/img/financing.png'
+institucional:
+- '/assets/img/institutional.png'
+partner:
+- '/assets/img/partner.png'
+media:
+- '/assets/img/media-partner.png'
+hosts:
+- '/assets/img/hosts.png'

@@ -1,0 +1,38 @@
+---
+layout: fuso-eng
+intro: "Every year we invite Portuguese and international curators, who put together an exclusive program for FUSO. Each curator is responsible for one of the screening sessions of the festival, and presents a selection of works chosen according to a proposed theme. The sessions are preceded by a conversation between the curator and the moderator, in order to enrich the audience's knowledge. The daily interaction of curators and artists during the festival week provides for the meeting and establishment of numerous partnerships, generating a network of connections and collaborations."
+---
+<div class="d-md-flex flex-row-reverse mx-3 mb-3 py-2">
+    <div class="w-md-50 mx-1 mx-md-3 p-relative">
+        <p>CURATORS E MODERATORS</p>
+        <div class="me-md-5 curators-intro">{{page.intro}}</div>
+        {% for curator in site.data.fuso_curators.curadores %}
+            <div id="{{curator.title | slugify }}" class="curator-text">{{curator.bio_eng}}</div>
+        {% endfor %}
+        <img src="/assets/img/esfera_coral_3.gif" alt="Esfera" class="curators-esfera">
+    </div>
+    <div class="w-md-50 mt-4 mt-md-0">
+        <div class="event-grid">
+            {% for curator in site.data.fuso_curators.curadores %}
+            <div class="curator-btn mx-md-2" data-curator="{{curator.title | slugify }}">
+                    <img src="{{site.baseurl}}/{{curator.retrato}}" alt="{{curator.title}}" class="w-100 programa-container h-25vh object-fit-cover curators-position saturate">
+                <p class="mb-1 curator-title">{{ curator.title }}</p>
+                <div class="mobile">{{ curator.bio_eng }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<script>
+    if($(window).width() > 600) {
+        $('.curator-btn').click(function() {
+            const curator = '#' + $(this).data('curator');
+            $('.curator-text').hide();
+            $(curator).toggle();
+            $('.curators-position').removeClass('border-red');
+            $(this).children('img').toggleClass('border-red');
+            $('.curators-intro').hide();
+        });
+    }
+</script>

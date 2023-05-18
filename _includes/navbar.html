@@ -1,0 +1,29 @@
+<div class="p-4 pb-3 pb-xl-0 mb-0 d-flex align-items-start align-items-center justify-content-between align-items-xl-start flex-xl-column navbar-container bg-white ps-xl">
+    <a href="{{site.baseurl}}/" class="w-100"><img src="{{ site.baseurl }}/assets/img/logo.svg" alt="Fuso" class="site-title {% if page.url == '/fuso/' %} w-100 {% endif %}"></a>
+    <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
+        <div class="nav-flex align-items-center">
+        {% for nav in site.data.navigation-fuso limit:1 %}
+            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item-first {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
+            <div class="mx-1 desktop-nav">/</div>
+        {% endfor %}
+        {% for nav in site.data.navigation-fuso offset:1 %}
+            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
+            <div class="mx-1 desktop-nav">/</div>
+        {% endfor %}
+        </div>
+        <br class="mobile-nav">
+        <a href="{{ site.baseurl }}/fuso-insular/"><div class="switch-button pt-1 px-lg-3">FUSO <span class="font-rossa">INSULAR</span></div></a>
+        <br class="mobile-nav">
+        {% assign match = site.data.nav-matches | where: "pt-version", page.url %}
+        {% for nav in match %}
+        <a href="{{site.baseurl}}{{ nav.eng-version }}" class="font-mesclo mx-xl-0 nav-item language">eng</a>
+        {% endfor %}
+    </div>
+    <div class="mobile-nav ms-4">
+        <div id="close-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>

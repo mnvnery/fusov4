@@ -1,0 +1,44 @@
+title: Fuso 2022
+description: >- # this means to ignore newlines until "baseurl:"
+  Created in 2009, FUSO is the only open-air video art festival in Lisbon, in unique spaces such as gardens and museum cloisters. With free admission, the festival welcomes artists, curators, the general public and Portuguese institutions involved in this artistic practice.
+url: "https://fusovideoarte.com/" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+permalink: pretty 
+plugins:
+  - jekyll-feed
+
+sass:
+  sass_dir: _sass
+
+
+collections:
+  fuso_programs: 
+    output: true
+  fuso_eventos:
+    output: true
+  programs_eng:
+    output: true
+  fuso_events:
+    output: true
+  insular_programas:
+    output: true
+  insular_eventos:
+    output: true
+  insular_events:
+    output: true
+  insular_programs:
+    output: true
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
