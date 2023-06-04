@@ -31,7 +31,7 @@ collections:
           - {label: 'Intro ENG', name: intro_eng, widget: markdown, modes: [rich_text]}
           - label: 'Curadores'
             name: curadores
-            widget: object
+            widget: list
             summary: '{{fields.title}}'
             fields:
               - {name: title, widget: string, label: 'Nome'}
@@ -43,8 +43,8 @@ collections:
         file: '_data/fuso_artists.yml'
         fields: 
           - label: 'Artists'
-            name: artists
-            widget: object
+            name: artistas
+            widget: list
             summary: '{{fields.title}}'
             fields:
               - {name: title, widget: string, label: 'Nome'}
@@ -76,7 +76,7 @@ collections:
           - {label: 'Intro ENG', name: intro_eng, widget: markdown, modes: [rich_text]}
           - label: 'Curadores'
             name: curadores
-            widget: object
+            widget: list
             summary: '{{fields.title}}'
             fields:
               - {name: title, widget: string, label: 'Nome'}
@@ -88,8 +88,8 @@ collections:
         file: '_data/insular_artists.yml'
         fields: 
           - label: 'Artists'
-            name: artists
-            widget: object
+            name: artistas
+            widget: list
             summary: '{{fields.title}}'
             fields:
               - {name: title, widget: string, label: 'Nome'}
