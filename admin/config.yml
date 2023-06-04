@@ -39,7 +39,7 @@ collections:
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
               - {name: retrato, widget: image, label: 'Retrato'}
       - label: 'Artists'
-        name: artists
+        name: artistas
         file: '_data/fuso_artists.yml'
         fields: 
           - label: 'Artists'
@@ -84,7 +84,7 @@ collections:
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
               - {name: retrato, widget: image, label: 'Retrato'}
       - label: 'Artists'
-        name: artists
+        name: artistas
         file: '_data/insular_artists.yml'
         fields: 
           - label: 'Artists'
