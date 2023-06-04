@@ -50,7 +50,7 @@ collections:
               - {name: title, widget: string, label: 'Nome'}
               - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
-              - {name: retrato, widget: image, label: 'Retrato'}
+              
   - name: 'paginas_insular'
     label: 'Páginas Insular'
     editor:
@@ -95,7 +95,6 @@ collections:
               - {name: title, widget: string, label: 'Nome'}
               - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
-              - {name: retrato, widget: image, label: 'Retrato'}
   - name: 'fuso_programs'
     label: 'Programas Fuso'
     folder: '_fuso_programs'

@@ -13,7 +13,7 @@ layout: fuso
         {% for artist in site.data.fuso_artists.artistas %}
             <div id="{{artist.title | slugify}}" class="artist-text">
                 <p class="text-uppercase artist-name">{{ artist.title }}</p>
-                <div class="artist-bio">{{artist.bio_pt}}</div>
+                <div class="artist-bio">{{artist.bio_pt | markdownify }}</div>
             </div>
         {% endfor %}
     </div>
