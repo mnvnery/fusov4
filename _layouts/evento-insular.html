@@ -28,7 +28,7 @@ layout: fuso-insular
                 <u>Sessão</u> <a href="{{site.baseurl}}{{page_session.url}}" class="hover-white">{{page_session.title}}</a>
             </div>
             <div class="ms-auto w-md-50 mt-3 mt-md-0 text-smaller">
-                {{page.sinopse}}
+                {{page.sinopse | markdownify}}
             </div>
         </div>
     </div>

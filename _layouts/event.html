@@ -28,7 +28,7 @@ layout: fuso-eng
                 <u>Session</u> <a href="{{site.baseurl}}{{page_session.url}}" class="hover-red">{{page_session.title_eng}}</a>
             </div>
             <div class="ms-auto w-md-50 mt-3 mt-md-0 text-smaller">
-                {{ page.sinopse_eng }}
+                {{ page.sinopse_eng | markdownify }}
             </div>
         </div>
     </div>
