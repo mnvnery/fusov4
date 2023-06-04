@@ -129,7 +129,7 @@ collections:
       - {name: title, widget: string, label: 'Titulo'}
       - {name: title_eng, widget: string, label: 'Title ENG'}
       - {name: artista, widget: string, label: 'Artista'}
-      - {name: programa, label: 'Programa', widget: relation, collection: 'fuso_programs', search_fields: ['title'], value_field: ' _fuso_programs/{{filename}}.{{extension}}', display_fields: ['title']}
+      - {name: programa, label: 'Programa', widget: relation, collection: 'fuso_programs', search_fields: ['title'], value_field: '_fuso_programs/{{filename}}.{{extension}}', display_fields: ['title']}
       - {name: ano, widget: string, required: false, label: 'Ano'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
       - {name: hora, widget: string, required: false, label: 'Hora'}
@@ -171,7 +171,7 @@ collections:
       - {name: title, widget: string, label: 'Titulo'}
       - {name: title_eng, widget: string, label: 'Title ENG'}
       - {name: artista, widget: string, label: 'Artista'}
-      - {name: programa, label: 'Programa', widget: relation, collection: 'insular_programs', search_fields: ['title'], value_field: ' _insular_programs/{{filename}}.{{extension}}', display_fields: ['title']}
+      - {name: programa, label: 'Programa', widget: relation, collection: 'insular_programs', search_fields: ['title'], value_field: '_insular_programs/{{filename}}.{{extension}}', display_fields: ['title']}
       - {name: ano, widget: string, required: false, label: 'Ano'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
       - {name: hora, widget: string, required: false, label: 'Hora'}
