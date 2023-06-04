@@ -22,7 +22,7 @@ layout: fuso
     <div class="ms-md-3 w-md-50">
         <h5 class="text-uppercase">{{page.title }}</h5>
         <br>
-        {{page.texto_curatorial}}
+        {{page.texto_curatorial | markdownify }}
     </div>
 </div>
 {% unless page.title == 'WARM UP FUSO Resiliência.  Esperança. Comunidade.' %}

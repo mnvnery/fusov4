@@ -23,7 +23,7 @@ layout: fuso-insular-eng
     <div class="ms-md-3 w-md-50">
         <h5 class="text-uppercase">{{page.title_eng }}</h5>
         <br>
-        {{page.texto_curatorial_eng}}
+        {{page.texto_curatorial_eng | markdownify}}
     </div>
 </div>
 {% unless page.title == "WARM UP FUSO Resiliência.  Esperança. Comunidade." %}
