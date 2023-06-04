@@ -23,6 +23,34 @@ collections:
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
           - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
+      - label: 'Curadores'
+        name: curadores
+        file: '_data/fuso_curators.yml'
+        fields: 
+          - {label: 'Intro', name: intro_pt, widget: markdown, modes: [rich_text]}
+          - {label: 'Intro ENG', name: intro_eng, widget: markdown, modes: [rich_text]}
+          - label: 'Curadores'
+            name: curadores
+            widget: object
+            summary: '{{fields.title}}'
+            fields:
+              - {name: title, widget: string, label: 'Nome'}
+              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
+              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
+              - {name: retrato, widget: image, label: 'Retrato'}
+      - label: 'Artists'
+        name: artists
+        file: '_data/fuso_artists.yml'
+        fields: 
+          - label: 'Artists'
+            name: artists
+            widget: object
+            summary: '{{fields.title}}'
+            fields:
+              - {name: title, widget: string, label: 'Nome'}
+              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
+              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
+              - {name: retrato, widget: image, label: 'Retrato'}
   - name: 'paginas_insular'
     label: 'Páginas Insular'
     editor:
@@ -40,3 +68,99 @@ collections:
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
           - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
+      - label: 'Curadores'
+        name: curadores
+        file: '_data/insular_curators.yml'
+        fields: 
+          - {label: 'Intro', name: intro_pt, widget: markdown, modes: [rich_text]}
+          - {label: 'Intro ENG', name: intro_eng, widget: markdown, modes: [rich_text]}
+          - label: 'Curadores'
+            name: curadores
+            widget: object
+            summary: '{{fields.title}}'
+            fields:
+              - {name: title, widget: string, label: 'Nome'}
+              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
+              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
+              - {name: retrato, widget: image, label: 'Retrato'}
+      - label: 'Artists'
+        name: artists
+        file: '_data/insular_artists.yml'
+        fields: 
+          - label: 'Artists'
+            name: artists
+            widget: object
+            summary: '{{fields.title}}'
+            fields:
+              - {name: title, widget: string, label: 'Nome'}
+              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
+              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
+              - {name: retrato, widget: image, label: 'Retrato'}
+  - name: 'fuso_programs'
+    label: 'Programas Fuso'
+    folder: '_fuso_programs'
+    create: true
+    fields:
+      - {name: title, widget: string, label: 'Titulo'}
+      - {name: title_eng, widget: string, label: 'Title ENG'}
+      - {name: curadoria, widget: string, label: 'Curadoria'}
+      - {name: data, widget: select, required: false, label: 'Data', options: ['22', '23', '24', '25', '26', '27']}
+      - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
+      - {name: horas, widget: string, required: false, label: 'Horas'}
+      - {name: duracao, widget: string, required: false, label: 'Duração'}
+      - {label: 'Texto Curatorial', name: texto_curatorial, required: false, widget: markdown, modes: [rich_text]}
+      - {label: 'Texto Curatorial ENG', name: texto_curatorial_eng, required: false, widget: markdown, modes: [rich_text]}
+      - {name: imagem, widget: image, label: 'Imagem'}
+      - {name: link_vimeo, widget: string, label: 'Link Vimeo'}
+      - {name: layout, widget: hidden, default: 'programa', label: 'Layout'}
+  - name: 'fuso_eventos'
+    label: 'Eventos Fuso'
+    folder: '_fuso_eventos'
+    create: true
+    fields:
+      - {name: title, widget: string, label: 'Titulo'}
+      - {name: title_eng, widget: string, label: 'Title ENG'}
+      - {name: artista, widget: string, label: 'Artista'}
+      - {name: programa, label: 'Programa', widget: relation, collection: 'fuso_programs', search_fields: title, value: title, display_fields: title}
+      - {name: ano, widget: string, required: false, label: 'Ano'}
+      - {name: duracao, widget: string, required: false, label: 'Duração'}
+      - {name: hora, widget: string, required: false, label: 'Hora'}
+      - {label: 'Sinopse', name: sinopse, required: false, widget: markdown, modes: [rich_text]}
+      - {label: 'Synopsis', name: sinopse_eng, required: false, widget: markdown, modes: [rich_text]}
+      - {name: imagem, widget: image, label: 'Imagem'}
+      - {name: credito_imagem, widget: string, label: 'Crédito Imagem'}
+      - {name: layout, widget: hidden, default: 'evento', label: 'Layout'}
+  - name: 'insular_programs'
+    label: 'Programas Insular'
+    folder: '_insular_programs'
+    create: true
+    fields:
+      - {name: title, widget: string, label: 'Titulo'}
+      - {name: title_eng, widget: string, label: 'Title ENG'}
+      - {name: curadoria, widget: string, label: 'Curadoria'}
+      - {name: data, widget: select, required: false, label: 'Data', options: ['22', '23', '24', '25', '26', '27']}
+      - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
+      - {name: horas, widget: string, required: false, label: 'Horas'}
+      - {name: duracao, widget: string, required: false, label: 'Duração'}
+      - {label: 'Texto Curatorial', name: texto_curatorial, required: false, widget: markdown, modes: [rich_text]}
+      - {label: 'Texto Curatorial ENG', name: texto_curatorial_eng, required: false, widget: markdown, modes: [rich_text]}
+      - {name: imagem, widget: image, label: 'Imagem'}
+      - {name: link_vimeo, widget: string, label: 'Link Vimeo'}
+      - {name: layout, widget: hidden, default: 'programa', label: 'Layout'}
+  - name: 'insular_eventos'
+    label: 'Eventos Insular'
+    folder: '_insular_eventos'
+    create: true
+    fields:
+      - {name: title, widget: string, label: 'Titulo'}
+      - {name: title_eng, widget: string, label: 'Title ENG'}
+      - {name: artista, widget: string, label: 'Artista'}
+      - {name: programa, label: 'Programa', widget: relation, collection: 'insular_programs', search_fields: title, value: title, display_fields: title}
+      - {name: ano, widget: string, required: false, label: 'Ano'}
+      - {name: duracao, widget: string, required: false, label: 'Duração'}
+      - {name: hora, widget: string, required: false, label: 'Hora'}
+      - {label: 'Sinopse', name: sinopse, required: false, widget: markdown, modes: [rich_text]}
+      - {label: 'Synopsis', name: sinopse_eng, required: false, widget: markdown, modes: [rich_text]}
+      - {name: imagem, widget: image, label: 'Imagem'}
+      - {name: credito_imagem, widget: string, label: 'Crédito Imagem'}
+      - {name: layout, widget: hidden, default: 'evento', label: 'Layout'}
