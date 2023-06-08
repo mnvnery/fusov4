@@ -1,19 +1,25 @@
-intro_pt: Todos os anos são convidados curadores Portugueses e internacionais,
-  que desenham uma programação exclusiva para o FUSO. Cada curador é responsável
-  por uma das sessões do festival, e apresenta uma seleção de obras de acordo
-  com um tema proposto. As sessões são precedidas por uma conversa entre o
-  curador e o moderador, de forma a enriquecer o conhecimento do público. O
-  convívio diário dos curadores e artistas durante a semana de festival
-  proporciona o encontro e o estabelecimento de inúmeras parcerias, gerando uma
-  rede de conexões e colaborações.
-intro_eng: Every year we invite Portuguese and international curators, who put
-  together an exclusive program for FUSO. Each curator is responsible for one of
-  the screening sessions of the festival, and presents a selection of works
-  chosen according to a proposed theme. The sessions are preceded by a
-  conversation between the curator and the moderator, in order to enrich the
-  audience's knowledge. The daily interaction of curators and artists during the
-  festival week provides for the meeting and establishment of numerous
-  partnerships, generating a network of connections and collaborations.
+intro_pt: >-
+  Todos os anos são convidados curadores Portugueses e internacionais, que
+  desenham uma programação exclusiva para o FUSO. Cada curador é responsável por
+  uma das sessões do festival, e apresenta uma seleção de obras de acordo com um
+  tema proposto. 
+
+
+  Além dos curadores, são convidadas também pessoas de destaque da área cultural para promover um debate em torno da videoarte e mediar uma conversa com o curador antes de cada sessão, de forma a enriquecer o conhecimento do público. 
+
+
+  O convívio diário dos curadores e artistas durante a semana de festival proporciona o encontro e o estabelecimento de inúmeras parcerias, gerando uma rede de conexões e colaborações.
+intro_eng: >-
+  Every year we invite Portuguese and international curators, who put together
+  an exclusive program for FUSO. Each curator is responsible for one of the
+  screening sessions of the festival, and presents a selection of works chosen
+  according to a proposed theme. 
+
+
+  In addition to the curators, prominent people from the cultural area are also invited to promote a debate around video art and mediate a conversation with the curator before each session, in order to enrich the public's knowledge. 
+
+
+  The daily interaction of curators and artists during the festival week provides for the meeting and establishment of numerous partnerships, generating a network of connections and collaborations.
 curadores:
   - title: Jean-François Chougnet
     bio_pt: <p>Jean-François Chougnet (França) é director artístico do FUSO, e tem
