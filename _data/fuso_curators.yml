@@ -22,21 +22,23 @@ intro_eng: >-
   The daily interaction of curators and artists during the festival week provides for the meeting and establishment of numerous partnerships, generating a network of connections and collaborations.
 curadores:
   - title: Jean-François Chougnet
-    bio_pt: <p>Jean-François Chougnet (França) é director artístico do FUSO, e tem
-      dedicado a sua carreira às políticas culturais. Foi diretor-geral do
-      Villette, Paris (2001-2006). Em 2005, foi comissário-geral do Ano do
-      Brasil na França. Dirigiu a Fundação Berardo, em Lisboa, de 2007 a 2011.
-      Em 2011, Jean-François Chougnet tornou-se CEO da Marseille-Provence
-      Capital da Cultura Européia 2013. Desde 2014 é presidente do Musée des
-      Civilisations de l’Europe et de la Méditerranée, em Marselha, França.</p>
-    bio_eng: <p>Jean-François Chougnet (France) is the artistic director of FUSO and
+    bio_pt: "**Jean-François Chougnet (França) é director artístico do FUSO, e tem
+      dedicado a sua carreira às políticas culturais. Foi diretor-geral do Parc
+      de la Villette, Paris (2001-2006). Em 2005, foi comissário-geral do Ano do
+      Brasil na França. Dirigiu o Museu Berardo, em Lisboa, de 2007 a 2011. Em
+      2011, Jean-François Chougnet tornou-se diretor da Marseille-Provence 2013,
+      Capital Europeia da Cultura. De 2014 a 2022 foi presidente do Musée des
+      Civilisations de l’Europe et de la Méditerranée (Mucem), em Marselha,
+      França. É curador e consultor em projetos de museus.**"
+    bio_eng: "**Jean-François Chougnet (France) is the artistic director of FUSO and
       has dedicated his career to cultural policies. He was Managing Director of
       Villette, Paris (2001-2006). In 2005, he was the General Commissioner of
       the Year of Brazil in France. He directed the Berardo Foundation in Lisbon
       from 2007 to 2011. In 2011, Jean-François Chougnet became CEO of
-      Marseille-Provence Capital of European Culture 2013. Since 2014 he is the
-      President of the Musée des Civilisations de l’Europe et de la
-      Méditerranée, in Marseille, France.</p>
+      Marseille-Provence Capital of European Culture 2013. From 2014 to 2022 he
+      was president of the Musée des Civilizations de l’Europe et de la
+      Méditerranée (Mucem), in Marseille, France. Jean-François Chougnet is a
+      curator and consultant on museum projects.**"
     retrato: assets/img/foto-jean-francois-chougnet.png
   - title: Lori Zippay
     bio_pt: <p>Lori Zippay é uma curadora, escritora e consultora baseada em
