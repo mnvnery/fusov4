@@ -1,869 +1,939 @@
----
 artistas:
-- title: Alia Syed
-  bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
-    Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
-    de memória, representação e colonialismo, explorando e questionando as estruturas
-    pessoais e as realidades históricas nas narrativas pós-coloniais. Os seus dois
-    trabalhos mais recentes combinam o seu interesse em contar histórias (storytelling)
-    com uma apresentação apelativa da história enquanto narrativa visual, recorrendo
-    a diversas subjetividades para recontextualizar, respetivamente, o fluxo de tempo
-    do rio Tamisa e a regeneração da cidade de Glasgow.<br>A sua abordagem singular
-    conjuga diferentes posições subjetivas em relação à cultura, diáspora e lugar,
-    especificamente no que diz respeito ao género e noções de diferença cultural.
-    Os filmes de Syed têm sido exibidos em numerosas instituições em todo o mundo,
-    incluindo: BBC Arts Online (em curso), The Triangle Space: Chelsea College of
-    Arts, Londres (2014), Los Angeles County Museum of Art, EUA (2012-13); 5ª Bienal
-    de Moscovo (2013); Museu de Arte Moderna de Nova Iorque (MoMA), (2010); Museo
-    Nacional Centro de Arte Reina Sofia, Madrid (2009); XV Sydney Biennale (2006);
-    Hayward Gallery, Londres (2005); Tate Britain, Londres (2003); Glasgow Museum
-    of Modern Art, Escócia (2002); Iniva, Londres (2002); The New Art Gallery em Walsall,
-    West Midlands, Reino Unido (2002); Tate Modern, Londres (2000). Os seus filmes
-    foram objeto de exposições individuais na Talwar Gallery, Nova Iorque e Nova Delhi.
-    É representada por esta galeria. Foi nomeada para o Derek Jarman Award em 2015.</p>"
-  bio_eng: "<p>Alia Syed was born in Swansea, Wales and lives between London and Glasgow.
-    She has been making experimental films in Britain for over 25 years. Alia Syed's
-    films examine memory, representation and colonialism through narratives constructed
-    from personal and historical realities. Her two most recent works combine her
-    interest in storytelling with a compelling presentation of history as a visual
-    narrative; using diverse subjectivities to reframe both the time flow of the river
-    Thames and the regeneration of the city of Glasgow respectively. Her unique approach
-    sutures different subjective positions in relation to culture, diaspora, and location,
-    specifically in relation to gender and notions of cultural difference. Syed’s
-    films have been shown at numerous institutions around the world including BBC
-    Arts Online (currently), The Triangle Space: Chelsea College of Arts (2014), Los
-    Angeles County Museum of Art in 2012-13, 5th Moscow Biennale (2013); Museum of
-    Modern Art, New York (2010); Museo Nacional Centro de Arte Reina Sofia, Madrid
-    (2009); XV Sydney Biennale (2006); Hayward Gallery, London (2005); Tate Britain,
-    London (2003); Glasgow Museum of Modern Art, Scotland (2002); Iniva, London (2002);
-    The New Art Gallery in Walsall (2002); and Tate Modern, London (2000). Syed’s
-    films have also been the subject of several solo exhibitions at Talwar Gallery
-    in New York and New Delhi. She is represented by Talwar Gallery in New York and
-    New Delhi and was nominated for the Jarman Award in 2015.</p>"
-  imagem: ''
-- title: Ana Teresa Martins
-  bio_pt: "<p>Ana Teresa Martins. Nasci em Lisboa no final do ano 2000, mas sempre
-    vivi em Almada. Desde nova que tenho uma relação próxima com arte, tendo feito
-    dança clássica e contemporânea durante vários anos, mas apenas na Licenciatura
-    em Ciências da Comunicação na FCSH é que despertou em mim um interesse pelo cinema.
-    Sou agora aluna do curso de cinema/imagem em movimento do Ar.Co.</p>"
-  bio_eng: "<p>Ana Teresa Martins. I was born in Lisbon at the end of the year 2000,
-    but I have always lived in Almada. I have had a close relationship with the arts
-    since I was young, doing classical and contemporary dance for several years. My
-    Science Communication degree (from FCSH) has awakened in me an interest in Film.
-    I am now a student of Cinema/Moving Image course at Ar.Co.</p>"
-  imagem: ''
-- title: Cao Guimarães
-  bio_pt: "<p>Cao Guimarães nasceu em 1965 em Belo Horizonte, Brasil, onde vive e
-    trabalha. Cao Guimarães atua no cruzamento entre o cinema e as artes plásticas.
-    Com produção intensa desde o final dos anos 1980, o artista tem suas obras em
-    numerosas coleções prestigiadas como a Tate Modern (Reino Unido), o MoMA e o Museu
-    Guggenheim (EUA), Fondation Cartier (França), Colección Jumex (México), Inhotim
-    (Brasil), Museu Thyssen-Bornemisza (Espanha), dentre outras. Realizou dez longas-metragens,
-    que participaram de renomados festivais internacionais como Cannes, Locarno, Sundance,
-    Veneza, Berlim e Rotterdam. Ganhou retrospectivas de seus filmes no MoMA, em 2011,
-    Itaú Cultural, em 2013, BAFICI (Buenos Aires) e Cinemateca do México em 2014.
-    Em setembro de 2017 inaugurou a maior exposição e retrospectiva acerca de sua
-    obra em território europeu, no Eye Film Museum, em Amsterdã. É representado pela
-    Galeria Nara Roesler, de São Paulo, e Galerie Xippas (Paris e Montevideo).</p>"
-  bio_eng: "<p>Cao Guimarães was born in 1965 in Belo Horizonte, Brazil, where he
-    lives and works. Cao Guimarães works at the intersection between cinema and the
-    visual arts. With intense production since the late 1980s, the artist has his
-    works in numerous prestigious collections such as the Tate Modern (UK); MoMA and
-    Museu Guggenheim (USA); Fondation Cartier (France); Colección Jumex (México);
-    Inhotim (Brazil); Thyssen-Bornemisza (Spain), amongst others. He directed 10 feature
-    films that were selected by numerous international festivals such as: Cannes,
-    Locarno, Sundance, Venice, Berlin and Rotterdam. He also has his films shown at
-    MoMA, (2011); Itaú Cultural, 2013; BAFICI (Buenos Aires) and Cinemateca do México
-    (2014). In September 2017 a major retrospective of his work in Europe was held
-    at Eye Filmmuseum, Amsterdam. He is represented by Galeria Nara Roesler, São Paulo
-    and Galerie Xippas (Paris e Montevideo).</p>"
-  imagem: ''
-- title: Caetano Dias
-  bio_pt: "<p>Caetano Dias (Feira de Santana, Bahia, 1959). Vive e trabalha em Salvador,
-    Bahia. Dias trabalha com vídeo, pintura, obras tridimensionais, instalação multimídia,
-    fotografia digital e performance. Seu trabalho reflete as relações entre corpo
-    e identidade, memória e pertencimento, tornando estes alguns dos principais eixos
-    da sua pesquisa na arte. Começou a expor individualmente a partir de 1989. Tem
-    participado de exposições importantes representando a Bahia e o Brasil, como XVIII
-    Festival de La Peinture (França), The Brazilian Northeast Festival Contemporary
-    Art (Portugal) e Feira Internacional de Arte (Estados Unidos). Entre individuais
-    e coletivas realizou mostras no Brasil – Salvador, São Paulo, Rio de Janeiro,
-    Olinda, João Pessoa, Belém, Brasília, Feira de Santana, Recife, Santos, São Félix,
-    Curitiba –, e no exterior – Nova York (Neuhoff Gallery), Paris (Galerie Vivendi),
-    Havana (Casa das Américas). Sua obra foi premiada no 16º Festival de Arte Contemporânea
-    Sesc/Videobrasil (2007) com residência no Le Fresnoy, em Tourcoing, França.</p>"
-  bio_eng: "<p>Caetano Dias was born in Feira de Santana, Bahia, in 1959. Lives and
-    works in Salvador, Bahia. Dias works with video, painting, tridimensional works,
-    multimedia, installation, digital photography and performance. His work reflects
-    the relation between body and identity, memory and belonging, the main axes of
-    his research in art. Since 1989 his work has been shown in solo or collective
-    exhibitions in Brazil, and abroad. He has represented Brazil in important exhibitions,
-    such as: XVIII Festival de La Peinture (France), The Brazilian Northeast Festival
-    Contemporary Art (Portugal), International Art Fair (USA), among others. He received
-    an award at the 16º Contemporary Art festival Sesc / Videobrasil (2007). He was
-    an artist in residence at Le Fresnoy, in Tourcoing, France.</p>"
-  imagem: ''
-- title: Daniel Barroca
-  bio_pt: "<p>Daniel Barroca, nasceu em Lisboa, em 1976. É formado em Artes Plásticas
-    pela ESAD, nas Caldas da Rainha. Estudou pintura no Ar.Co, em Lisboa e participou
-    do Curso de Artes Visuais do Projecto Gulbenkian de Criatividade e Criação Artística.
-    Foi vencedor do Prémio União Latina de Jovem Criação e foi distinguido, ainda,
-    com o prémio “Runner Up” na categoria de filme experimental, no IFCT, Washington
-    DC, EUA. Fez residências artísticas na Academia de Espanha em Roma, Roma; na Kunstlerhaus
-    Bethanien, em Berlim, na Q130x Gallery Residency Program, Atenas e na Rijksakademie
-    van Beeldende Kunsten, em Amesterdão. Foi nomeado para o Prémio EDP Novos Artistas
-    2003. Começou a expôr em finais da década de 1990 e tem realizado exposições individuais
-    e colectivas em instituições e galerias nacionais e estrangeiras. Os seus vídeos
-    têm sido mostrados, igualmente, em vários festivais.</p>"
-  bio_eng: <p>Daniel Barroca was born in Lisbon in 1976. He finished his Art studies
-    at the School of Art and Design, Caldas da Rainha, in 2001. Studied painting at
-    Ar.Co, in Lisbon, and enrolled in the Gulbenkian Project on Creativity and Artistic
-    Creation. He won the Prémio União Latina de Jovem Criação Award and was also distinguished
-    with the "Runner Up" award in the category of experimental film at IFCT, Washington
-    DC, USA. Barroca has been resident artist at Academia de Espanha en Roma, Roma;
-    na Kunstlerhaus Bethanien, in Berlim; at Q130x Gallery Residency Program, Athens
-    and at the Rijksakademie Van Beeldende Kunsten, Amsterdam supported by the Dutch
-    Ministry of Culture and Science. Won the Prémio EDP Novos Artistas 2003 award.He
-    started exhibiting his work in the 1990s, and has had solo and collective exhibitions
-    in galleries in Portugal and abroad. His videos have equally been exhibited in
-    several festivals.</p>
-  imagem: ''
-- title: Gabriela Vaz-Pinheiro
-  bio_pt: "<p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
-    Artes da Universidade do Porto, e fez o Doutoramento em Belas Artes no Chelsea
-    College, University of Fine Arts, Londres. Professora convidada na Central St.
-    Martins College of Art &amp; Design, em Londres (1998-2006). Os seus interesses
-    dividem-se pela prática artística, o ensino da arte, e a investigação e escrita
-    críticas. O seu trabalho artístico debruça-se sobre questões identitárias e contextuais
-    como forma de interrogar a própria noção de indivíduo, entre narrativas pessoais
-    e sociais. Tem realizado trabalho curatorial com várias colecções institucionais
-    e também em contextos expositivos alternativos. Tem atividade editorial regular,
-    na qual se incluem algumas publicações de artista. Ensina, desde 2004, na Faculdade
-    de Belas Artes da Universidade do Porto, onde é Membro Integrado do i2ads, Instituto
-    de Investigação em Arte Design e Sociedade.</p>"
-  bio_eng: "<p>Gabriela Vaz-Pinheiro graduated in sculpture from the Faculty of Fine
-    Arts of the University of Porto, and holds a PhD in Fine Arts from Chelsea College,
-    University of Fine Arts, London. Visiting Tutor at the Central St. Martins’ College
-    of Art &amp; Design, London (1998 to 2006). Her interests encompass art practice,
-    art education, as well as critical research and writing. Her artistic work reflects
-    on identity and contextual issues, as a way of questioning the very notion of
-    the individual, between the personal and social narratives. She has carried out
-    curatorial work for various institutional collections and also in alternative
-    exhibition contexts. She has regular editorial activity, which includes artists'
-    books. Since 2004, Vaz-Pinheiro has been teaching at the i2ADS – Institute of
-    Research in Art, Design and Society is a R&amp;D unit based at the Faculty of
-    Fine Arts of the University of Porto (FBAUP).</p>"
-  imagem: ''
-- title: Gui Athayde
-  bio_pt: "<p>Gui Athayde é um ilustrador e animador brasileiro, atualmente vivendo
-    entre a Alemanha e Portugal. O seu objetivo é produzir um corpo de trabalho pertinente
-    e contar histórias que emocionem as pessoas.</p>"
-  bio_eng: "<p>Gui Athayde is a Brazilian illustrator and cultural animator, currently
-    living between Portugal and Germany. His goal is to produce meaningful work and
-    tell stories that move people.</p>"
-  imagem: ''
-- title: Haroon Mirza
-  bio_pt: "<p>Haroon Mirza ganhou reconhecimento internacional pelas suas instalações,
-    que examinam a interação e o atrito entre ondas sonoras e eletromagnéticas e a
-    corrente elétrica. Cria esculturas, performances e instalações imersivas, como
-    “The National Apavillion of Then and Now” (2011) (Leão de Prata na 54ª Bienal
-    de Veneza), uma câmara anecóica com um círculo de luz que cresce em intensidade
-    luminosa em resposta ao aumento de sons sustentados ou repetidos, notas ou clusters
-    de sons (drones) e que fica completamente escura quando há silêncio. Descreve-se
-    como compositor, manipulando a eletricidade - um fenómeno natural vivo, invisível
-    e volátil -, para a fazer responder a melodias diferentes, trabalhando com objetos
-    tão variados como eletrodomésticos, vinis e turntables, LEDs, mobiliário, imagens
-    vídeo e trabalhos artísticos existentes, para conseguir diferentes resultados.
-    O seu trabalho induz-nos a reconsiderar as distinções percetivas entre ruído,
-    som e música. Mirza estudou na Winchester School of Art, no Goldsmiths College
-    (2006) e no Chelsea College of Art and Design (2007). Dentre as exposições individuais
-    mais recentes destacam-se: CCA Kitakyushu, Kitakyushu, Japão (2020); John Hansard
-    Gallery, Southampton, Reino Unido (2019); Australian Centre for Contemporary Art,
-    Melbourne, Austrália (2019); Sifang Art Museum, Nanjing, China (2019). Em 2018,
-    Haroon Mirza apresentou “Stone Circle”, uma escultura em grande escala, encomendada
-    por Ballroom Marfa, Texas, que permanecerá <em>in situ</em> durante cinco anos.
-    Em 2021, o Museu de Arte Moderna de Nova Iorque (MoMA), adquiriu “The National
-    Apavilion of Then and Now”<em> </em>(2011)<em> </em>para a sua coleção.</p>"
-  bio_eng: <p>Haroon Mirza has won international acclaim for installations that test
-    the interplay and friction between sound and light waves and electric current.
-    He devises sculptures, performances and immersive installations, such as <em>The
-    National Apavillion of Then and Now</em> (2011) (Silver Lion at the 54th Venice
-    Biennale) – an anechoic chamber with a circle of light that grows brighter in
-    response to increasing drone, and completely dark when there is silence. He describes
-    his role as a composer, manipulating electricity, a live, invisible and volatile
-    phenomenon, to make it dance to a different tune and calling on instruments as
-    varied as household electronics, vinyl and turntables, LEDs, furniture, video
-    footage and existing artworks to behave differently. His work asks us to reconsider
-    the perceptual distinctions between noise, sound and music. Mirza studied at Winchester
-    School of Art, Goldsmiths College (2006) and Chelsea College of Art and Design
-    (2007). Recent solo exhibitions have been held at CCA Kitakyushu, Kitakyushu,
-    Japan (2020); John Hansard Gallery, Southampton, UK (2019); Australian Centre
-    for Contemporary Art, Melbourne, Australia (2019); Sifang Art Museum, Nanjing,
-    China (2019). In 2018, Haroon Mirza unveiled '<a href="https://www.ballroommarfa.org/archive/event/stone-circle/">Stone
-    Circle</a>', a large-scale outdoor sculpture commissioned by Ballroom Marfa, Texas,
-    which will remain in the landscape for five years. In 2021, Mirza’s <em>The National
-    Apavilion of Then and Now </em>(2011)<em> </em>was acquired by the Museum of Modern
-    Art, New York.</p>
-  imagem: ''
-- bio_pt: "<p>Hoji Fortuna nasceu em Luanda, Angola. Frequentou o curso de Direito
-    na Faculdade de Direito da Universidade Agostinho Neto (1990-1993/Angola), e na
-    Universidade Católica Portuguesa - Centro Regional do Porto (1997-2000/Portugal).
-    É graduado em Administração Local pelo Centro de Estudos e Formação Autárquica
-    de Coimbra (1994-1996/Portugal). Frequentou cursos de Interpretação Dramática
-    em: Act-Escola de Atores (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA);
-    Berlinale Talent Campus (2014/Alemanha) e na Royal Central School of Speech and
-    Drama (2015/Inglaterra). É ator desde 2001, tendo trabalhado em teatro, cinema
-    e televisão, quer em Portugal quer no estrangeiro, para canais de televisão pública
-    e privada e plataformas de streaming, bem como para instituições culturais, tais
-    como: SIC, TVI, RTP, Teatro Nacional D. Maria II, Sony Pictures, ABC Network,
-    BBC, AMC Networks, Rede Globo, Netflix e Amazon. Em 2011 foi galardoado com o
-    prémio de Melhor Actor Secundário pela Academia Africana de Cinema e em 2021 financiou
-    e dirigiu a sua primeira curta-metragem, “A Lisbon Affair”, que está na seleção
-    oficial do 29th New York African Film Festival 2022.</p>"
-  bio_eng: "<p>Hoji Fortuna was born in Luanda, Angola. He studied law at the Faculty
-    of Law of Universidade Agostinho Neto (1990-1993/Angola), and at Universidade
-    Católica Portuguesa – Porto Regional Centre (1997-2000/Portugal). Graduated in
-    Local Governance at Cefa - Centro de Estudos e Formação Autárquica de Coimbra
-    (1994-1996/Portugal). Fortuna also attended drama courses at: Act-Escola de Atores
-    (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA); Berlinale Talent
-    Campus (2014/Germany), and Royal Central School of Speech and Drama (2015/England).
-    He is a professional actor since 2001, having worked in theatre, cinema and TV,
-    both in Portugal and abroad, for numerous cable TV networks, streaming platforms
-    and cultural institutions, such as: SIC, TVI, RTP, Teatro Nacional D. Maria II,
-    Sony Pictures, ABC Network, BBC, AMC Networks, Rede Globo, Netflix and Amazon.
-    In 2011 he was awarded the “Best Actor in a Supporting Role” by the Africa Movie
-    Academy Awards and in 2021. He wrote, produced, directed and financed the short
-    film “A Lisbon Affair”, which is in the official selection at the 29th New York
-    African Film Festival, 2022.</p>"
-  title: Hoji Fortuna
-  imagem: ''
-- title: 'Inês Norton '
-  bio_pt: "<p>Inês Norton (n. Lisboa, 1982). Vive e trabalha em Lisboa. Licenciada
-    em Design de Comunicação pelo IADE, termina o último ano do curso na Universidade
-    Pontífice Católica - PUC, do Rio de Janeiro, no âmbito de um programa de intercâmbio
-    (2005). Frequenta dois anos do curso de pintura no Ar.Co e faz o Slade Summer
-    School Foundation Course, em Londres (2008-09). Entre 2010 e 2012, vive na cidade
-    de Luanda, Angola, onde lecionou expressão plástica no âmbito do projeto de Apoio
-    ao Desenvolvimento (ADPP), tendo participado na II Trienal de Luanda, com o lema:
-    “Geografias Emocionais, Arte e Afetos” (2010). Em 2012 concluiu o Programa Independente
-    de Estudos na Maumaus, em Lisboa. No seu corpo de trabalho, aborda questões ligadas
-    ao binómio: natural/orgânico vs artificial/ sintético, numa abordagem de observação
-    e registo destes dois conceitos aparentemente antagónicos, explorando os seus
-    diálogos contemporâneos, pontos de intercepção, dissonância e tensão, assumindo-os
-    como ponto de partida da sua linguagem artística, que vai naturalmente assumindo
-    outras ramificações e problemáticas. Expõe regularmente o seu trabalho e está
-    representada em várias coleções a nível nacional e internacional.</p>"
-  bio_eng: "<p>Inês Norton (b. Lisbon, 1982), lives and works in Lisbon. With a degree
-    in Graphic Design from IADE, Norton finished the last year of the course at the
-    Pontifical Catholic University of Rio de Janeiro - PUC, as part of an exchange
-    program (2005). She undertook a two-year painting course at Ar.Co and the Slade
-    Summer School Foundation Course, London (2008-09). Between 2010 and 2012, she
-    lived in the city of Luanda, Angola, where she taught artistic expression within
-    the scope of the Development Support Project (ADPP), having participated in the
-    II Luanda Triennial, an edition with the motto: “Emotional Geographies, Art and
-    Affects'' (2010). In 2012 she completed the Independent Studies Program at Maumaus,
-    in Lisbon.<br>In her work Norton addresses issues related to the binary natural
-    / organic vs artificial / synthetic. In an approach of observation and recording
-    of these two apparently antagonistic concepts, she explores her contemporary dialogues,
-    points of intersection, dissonance and tension, taking them as the starting point
-    of her artistic language, which naturally takes on other ramifications and questions.
-    She regularly exhibits her work and is represented in several national and international
-    collections.</p>"
-  imagem: ''
-- title: Jan Fabre
-  bio_pt: "<p>Jan Fabre (Bélgica, b.1958). Artista visual, encenador de teatro e escritor,
-    é considerado um dos artistas mais versáteis e influentes de sua geração. Considera-se
-    um artista “consiliente”, alguém que procura incessantemente o conhecimento e
-    a ligação entre as diferentes disciplinas. É a partir daqui que consegue criar
-    novas interpretações nos mundos das artes visuais, do teatro e da escrita. O fascínio
-    pelo efémero e pelo invisível são catárticos, e têm uma posição central na sua
-    obra. São características que enquadram a narrativa, e são omnipresentes em qualquer
-    dos media com os quais trabalha. O trabalho de Jan Fabre foi exibido em exposições
-    internacionais de referência, tais como a Bienal de Veneza, a Documenta, Kassel,
-    ou a Bienal de Istambul. Este aclamado artista pluridisciplinar ainda vive e trabalha
-    em Antuérpia, à frente da sua companhia, Troubleyn.</p>"
-  bio_eng: "<p>Jan Fabre (Belgian, b.1958) is a visual artist, theatre artist and
-    author who is considered as one of the most versatile and influential artists
-    of his generation. He calls himself a consilience artist because he always leaps
-    forward in knowledge through the linking of fact-based theory and practice across
-    disciplines. He seeks and sees links between the different disciplines and for
-    that reason he gave new interpretations to the world of visual arts, theatre and
-    writing. The enchantment with ephemeral, unseen and cathartic in the work of Jan
-    Fabre takes the central position. Those features are always framing the narrative
-    and are omnipresent regardless of the media. Fabre has taken part in major international
-    exhibitions, such as the Venice Biennale, documenta in Kassel, and the Istanbul
-    Biennale. The acclaimed multidisciplinary artist still lives and works in his
-    native Antwerp, where he also helms his own theatre company, Troubleyn.</p>"
-  imagem: ''
-- title: Joan Jonas
-  bio_pt: "<p>Joan Jonas nasce em 1936 em Nova Iorque. É recipiente de numerosos prémios
-    e bolsas, incluindo o Kyoto Prize, Japão, em 2019; Anonymous Was a Woman Award,
-    em 1998; American Film Institute's Maya Deren Award, em 1988, e uma Guggenheim
-    Fellowship, entre muitos outros. Em 2015, Jonas é a artista seleccionada para
-    representar os Estados Unidos na 57ª Bienal de Veneza. Os seus trabalhos em vídeo
-    e as suas performances foram apresentados em todo o mundo.<br>Teve retrospetivas
-    em: Queens Museum of Art, Nova Iorque; Stedelijk Museum, Amsterdão e Van Abbemuseum,
-    Eindhoven, nos Países Baixos; Stadtgalerie Stuttgart, Estugarda, Alemanha. Teve
-    exposições individuais e performances em: Kunstmuseum, Berna; Walker Art Center,
-    Minneapolis, The Kitchen, Nova Iorque, San Francisco Museum of Art, Berkeley Art
-    Museum e Pacific Film Archive, Berkeley, nos EUA; Yvon Lambert Gallery, Paris
-    e Nova Iorque; Pat Hearn Gallery, Nova Iorque, Sonnabend Gallery, Nova Iorque,
-    Dia: Beacon, Beacon, Nova Iorque; Castello di Rivoli Museo d'Arte Contemporanea,
-    Turim, Itália, entre muitas outras. Representada em exposições coletivas em: Whitney
-    Biennial, Nova Iorque; The Museum of Modern Art, Nova Iorque; Institute of Contemporary
-    Art, Filadélfia; Museum of Contemporary Art, Los Angeles; Documentas 5, 6, 8,
-    e 11 em Kassel, Alemanha; Kunsthaus Graz, Aústria; Museum Moderner Kunst, Viena,
-    e Montreal Festival du Nouveau Cinema et de la Video, entre muitas outras. Jonas
-    vive em Nova-Iorque.</p>"
-  bio_eng: "<p>Joan Jonas was born in 1936 in New York. She has received numerous
-    awards, grants, and honors, including the Kyoto Prize, Japan, in 2019, an Anonymous
-    Was a Woman Award in 1998, the American Film Institute's Maya Deren Award in 1988,
-    and a Guggenheim Fellowship, among many others. In 2015 Jonas was selected to
-    represent the United States in the US Pavilion at the 56th Venice Biennale. She
-    has performed and exhibited her works extensively around the world.<br>She has
-    had retrospectives at the Queens Museum of Art, New York, Stedelijk Museum, Amsterdam,
-    Van Abbemuseum, Eindhoven, Netherlands, and Stadtgalerie Stuttgart, Stuttgart,
-    Germany. Other one-person exhibitions and performances include Kunstmuseum, Bern;
-    Walker Art Center, Minneapolis; The Kitchen, New York; San Francisco Museum of
-    Art; Berkeley Art Museum and Pacific Film Archive, Berkeley; Yvon Lambert Gallery,
-    Paris and New York; Pat Hearn Gallery, New York, Sonnabend Gallery, New York,
-    Dia:Beacon, Beacon, New York, and Castello di Rivoli Museo d'Arte Contemporanea,
-    Torino, Italy, among others. Group exhibitions include the Whitney Biennial, New
-    York; The Museum of Modern Art, New York; Institute of Contemporary Art, Philadelphia;
-    Museum of Contemporary Art, Los Angeles; Documentas 5, 6, 8, and 11 in Kassel,
-    Germany; Kunsthaus Graz, Austria; Museum Moderner Kunst, Vienna, and Montreal
-    Festival du Nouveau Cinema et de la Video, among many others. Jonas lives in New
-    York.</p>"
-  imagem: ''
-- title: Johanna Billing
-  bio_pt: "<p>Johanna Billing nasceu na Suécia em 1973, vive e trabalha em Estocolmo.
-    Johanna tem vindo a fazer, desde 1999, trabalhos em vídeo que entrelaçam música,
-    movimento e ritmo. Juntando os modos de produção de eventos coletivos ao vivo
-    e workshops com uma linguagem cinematográfica, Billing consegue, por um lado,
-    dirigir a atenção da audiência e, por outro, despoletar uma série de improvisações
-    em torno da noção de performance, realçando as possibilidades que este oferece
-    para explorar questões sobre o público e o privado, e da relação do indivíduo
-    e a sociedade em geral. Aborda frequentemente climas políticos e especificidades
-    culturais, mas o mais importante na sua obra é a transformação do seus filmes,
-    através de um método documental, num espaço fictício para examinar eventos reais
-    e artificiais e a forma como a compressão fílmica destaca as sobreposições.</p><p>Os
-    filmes de Billing envolvem muitas vezes a música, que nas suas mãos se torna numa
-    ferramenta de comunicação, memória e reconstrução.</p>"
-  bio_eng: "<p>Johanna Billing, born in Sweden in 1973, lives and works in Stockholm.
-    Johanna has been making video works since 1999 that weave together music, movement
-    and rhythm. Merging the production modes of collective live events and workshops
-    with a cinematic language, Billing in part directs the participants and in part
-    activates a series of improvisations around the notion of performance and the
-    possibility it holds to explore issues of the public and the private as well as
-    the individual in the society as a whole. Billing often addresses political climates
-    and cultural specificities, but more importantly she transforms, through a documentary
-    method, her filmmaking in a fictive space to examine actual and contrived events
-    and how that filmed compression illuminates their overlap. Billing’s films often
-    involve music, which in her hands becomes a tool for communication, memory and
-    reconstruction.</p>"
-  imagem: ''
-- title: José Maçãs de Carvalho
-  bio_pt: <p>José Maçãs de Carvalho (Portugal), é artista, curador e professor universitário.
-    Doutoramento em Arte Contemporânea - Colégio das Artes da Universidade de Coimbra,
-    em 2014; estudou Literatura nos anos 80 na Universidade de Coimbra e Gestão de
-    Artes nos anos 90, em Macau onde trabalhou e viveu; Professor no Dep. de Arquitetura
-    e no Colégio das Artes da Universidade de Coimbra, onde é coordenador do Mestrado
-    em Estudos Curatoriais. É curador do Centro de Arte Contemporânea de Coimbra desde
-    2020. Foi bolseiro da Fundação Calouste Gulbenkian, Fundação Oriente, Instituto
-    Camões, Centro Português de Fotografia e Instituto das Artes/Dgartes. Nomeado
-    para o prémio BESPhoto 2005 (2006, CCB, Lisboa) e para a "shortlist" do prémio
-    de fotografia Pictet Prix, na Suíça, em 2008. Entre 2011 e 2017 realizou várias
-    exposições individuais em torno do tema da sua tese de doutoramento (arquivo e
-    memória).</p>
-  bio_eng: "<p>José Maçãs de Carvalho (Portugal), is an artist, curator and university
-    professor. PhD in Contemporary Art from the College of Arts, University of Coimbra.
-    He studied Arts Management in Macau, where he lived in the 1990’s; Professor at
-    the Department of Architecture and the College of Arts, University of Coimbra,
-    where he is the coordinator of the Masters’ degree in Curatorial Studies. He is
-    curator of Coimbra’s Contemporary Arts Centre since 2020. He has received scholarships
-    from the Calouste Gulbenkian Foundation, Oriente Foundation, Instituto Camões,
-    Centro Português de Fotografia and the Directorate-General for the Arts (Dgartes)
-    of the Ministry of Culture of Portugal. Nominated for the BESPhoto 2005 award
-    (2006, CCB, Lisboa) and was shortlisted for the Pictet Prix photography prize,
-    Switzerland, in 2008.</p>"
-  imagem: ''
-- title: José Taborda
-  bio_pt: "<p>José Taborda (n. Lisboa 1994). Licenciado em Pintura pela Faculdade
-    de Belas Artes da Universidade de Lisboa. Estuda Belas Artes na Bauhaus Universität
-    em Weimar, Alemanha. Vencedor do 1º Prémio A.J. Carpe Diem Arte e Pesquisa - Fundação
-    Millennium BCP, vencedor do 1º Prémio de escultura D. Fernando II, premiado com
-    o Bauhaus Essentials Prize. Expõe regularmente em Portugal e no estrangeiro. De
-    entre as mais recentes exposições destacam-se: “Fénix”, Galeria Graça Brandão
-    (2022); “Tracing the Infrathin”, Monitor Gallery, Lisboa (2022); a exposição individual
-    “Wing Walking”, Eigenheim Gallery, Berlim (2021). As suas obras também foram apresentadas
-    em: 71st Jeune Création, Fiminco Fondation, Paris (2021); Apophenia, Las Palmas,
-    Espanha; Culturgest, Porto (2021); WIMBA, Steneby Konsthall, Suécia (2021); a
-    exposição individual “149,597,870 KM em 7 passos”, Galeria Ocupa, Porto (2021);
-    “New begginings”, VOGUE Magazine Portugal (2021); Bienal da Maia, Forum Maia,
-    Portugal (2021); “9 Gabinetes”, MU.SA, Sintra (2021); “Cruise Control”, Mono,
-    Lisboa (2021).</p>"
-  bio_eng: "<p>José Taborda (b. Lisbon, 1994). Holds a degree in Painting from the
-    Faculty of Fine Arts of the University of Lisbon. Studied Fine Arts at the BAUHAUS
-    Universität in Weimar, Germany. Awarded with the 1st prize A.J. Millennium BCP
-    Foundation - Carpe Diem Foundation Prize; the 1st prize D. Fernando Sculpture
-    Prize, and the Bauhaus Essentials Prize. Taborda exhibits regularly in Portugal
-    and abroad. Among his recent exhibitions are: “Fénix”, Graça Brandão Gallery (2022);
-    “Tracing the Infrathin”, Monitor Gallery, Lisbon (2022); the solo exhibition “Wing
-    Walking”, Eigenheim Gallery, Berlin (2021); 71st Jeune Création, Fiminco Fondation,
-    Paris (2021); Apophenia Las Palmas, Spain; Culturgest, Porto (2021); WIMBA, Steneby
-    Konsthall, Sweden (2021); the solo exhibition “149,597,870 KM in 7 steps”, Ocupa
-    Gallery, Porto (2021); “New Beginnings”, VOGUE Magazine Portugal (2021); Maia
-    Bienal, Forum Maia, Portugal (2021); “9 Gabinetes”, MU.SA, Sintra, Portugal (2021);
-    “Cruise Control”, Mono, Lisbon (2021).</p>"
-  imagem: ''
-- title: Juliana Julieta
-  bio_pt: "<p>Juliana Julieta (Barcelos, 1994). Artista plástica, licenciada pela
-    FBAUP em Artes Plásticas, Pintura (2016) e Mestre em Pintura pela Faculdade de
-    Belas Artes Lisboa (FBAUL 2016-19), graduação que culminou na Exposição Individual
-    <em>MEND THE GAP</em>, 2019, Galeria Cisterna, Lisboa. Publicou a tese <em>MEND
-    THE GAP, O vazio que transborda em vida: pintura</em>, 2019. O mestrado incluiu
-    um Erasmus de 6 meses na EKA, Estonian Academy of Arts (2017). Expõe a nível nacional
-    e internacional (Brasil, Estónia, Lituânia e Reino Unido). Estreou-se como artista
-    representada pela Galeria Módulo (Lisboa) com a sua exposição individual <em>Singular
-    Plural</em> (2021).</p>"
-  bio_eng: "<p>Juliana Julieta (Barcelos, 1994). Visual artist, she graduated in Visual
-    Arts and Painting from the Faculty of Arts of the University of Porto (FBAUP,
-    2016), and has a MA in Painting from the Faculty of Fine Arts of the University
-    in Lisbon (FBAUL, 2016-19). Julieta published the thesis “<em>MEND THE GAP, o
-    vazio que transborda em vida: pintura”</em>, 2019. The master's degree included
-    a 6-month Erasmus at EKA, Estonian Academy of Arts (2017). She has been exhibiting
-    her work in Portugal and abroad (Brazil, Estonia, Lithuania and the United Kingdom).
-    In 2021 she started being represented by Galeria Módulo (Lisbon) with her individual
-    exhibition “Singular Plural” (2021).</p>"
-  imagem: ''
-- title: Júlio F. R. Costa
-  bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
-    de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da obra
-    de arte enquanto mercadoria e da posição do artista no mundo da arte atual. Enquanto
-    artista visual está principalmente interessado no video-experimentalismo, com
-    ênfase nas animações experimentais – aproveitando o gosto pelo desenho para as
-    tornar “um bocadinho animadas”. Tem participado em festivais nacionais e internacionais,
-    bem como em exposições de artes visuais. O seu primeiro romance “Retalhos da Vida
-    de Eduardo Lopo” foi publicado em 2019. É presidente do Colectivo249 (www.colectivo249.com),
-    onde luta pela descentralização da Arte.</p>"
-  bio_eng: <p>Júlio F. R. Costa (b. 1989) has written and published articles in the
-    ambit of a philosophy within the framework of the contemporary art market, namely
-    about the work of art as a commodity and the position of the artist in today's
-    art world. As a visual artist, he is interested in experimental video with an
-    emphasis on experimental animation - taking advantage of his taste for drawing
-    to make it "a bit more animated". He has participated in national and international
-    festivals, as well as art exhibitions. His first novel “Retalhos da Vida de Eduardo
-    Lopo” (Fragments of the Life of Eduardo Lopo) was published in 2019. Costa is
-    President of Colectivo249 (www.colectivo249.com), where he fights for the decentralization
-    of Art.</p>
-  imagem: ''
-- title: Léna Lewis-King
-  bio_pt: "<p>Léna Lewis-King (b.1999) é uma artista-cineasta baseada em Portugal.
-    O seu trabalho dedica-se às transformações mágicas quotidianas que surgem no interior
-    das intersecções entre a natureza e a tecnologia. Concebendo a sua perspectiva
-    de um ponto de vista feminista, debruça-se frequentemente sobre os aspectos psíquicos
-    e espirituais da experiência vivida. Os seus filmes meditam sobre o impacto que
-    a aceleração tecno-capitalista exerce sobre a vida efémera e sobre a vida no mundo.
-    As experiências curatoriais de Lewis-King incluem a co-fundação do Apertura Institute
-    (2022), a criação da publicação online 'open2' (2020-21), e a curadoria da exposição
-    colectiva 'Point and Shoot' na Platform Gallery, Kingston School of Art, Londres
-    (2020).</p>"
-  bio_eng: "<p>Léna Lewis-King (b.1999) is an artist-filmmaker based in Portugal.
-    Léna Lewis-King’s work engages with everyday magical transformations emerging
-    from the intersections between nature and technology. Framing her perspective
-    from a feminist viewpoint, she often addresses psychic and spiritual aspects of
-    lived experience, as her films meditate on the impact that the techno-capitalist
-    acceleration exerts upon ephemeral life and upon life on the planet. Lewis-King´s
-    curatorial experiences include co-founding the Apertura Institute (2022), and
-    founding the online publication ‘open2’ (2020-21), as well as curating the group
-    show ‘Point and Shoot’ at Platform Gallery, Kingston School of Art, London (2020).</p>"
-  imagem: ''
-- title: Leonor Sousa
-  bio_pt: <p>Leonor Sousa é uma artista visual nascida em Lisboa, onde reside e trabalha.
-    O seu trabalho desenvolve-se nos campos da pintura, performance e instalação,
-    através dos quais explora e pesquisa as noções de espaço, arquitetura e trajetória.
-    Criando gestos geográficos através de métodos ensaísticos, questiona a experiência
-    humana no espaço através de estados de "estar em" e "existir onde". Pretende revisitar
-    e repensar os paradigmas do espaço e cartografia.</p>
-  bio_eng: <p>Leonor Sousa is a visual artist born in Lisbon (Portugal), where she
-    is currently based. Her work is focused on the fields of painting, performance
-    and installation, through which she explores and researches the notions of space,
-    architecture and trajectory. By creating geographical gestures through essayistic
-    methods, Sousa questions the human experience in spaces, through the notions of
-    "being in" and "existing where". The aim is to rethink and revisit the paradigms
-    of space and cartography.</p>
-  imagem: ''
-- title: Maria Lusitano
-  bio_pt: "<p>Maria Lusitano, (Lisboa, 1971) Vive e trabalha em Malmo e Londres.<br>Licenciada
-    em Medicina na Universidade de Coimbra em 1997. Estudou na Ar.Co e Maumaus – Escola
-    de Artes Visuais. Concluiu o Mestrado em Fine Arts na Malmo Art Academy, Suécia.
-    Actualmente está inscrita no Doutoramento na Universidade de Westminster, na Grã-Bretanha.
-    O trabalho da Maria Lusitano caracteriza-se principalmente pelo uso do vídeo.
-    Desenvolve projectos baseados em investigação que se apropria da metodologia de
-    disciplinas como a sociologia, história ou a realização de documentários. Os seus
-    principais interesses são as utopias históricas, a emigração e retratos psicológicos.
-    Explora o espaço híbrido entre vídeo experimental, documentário e filmes de ficção.<br>Expõe
-    regularmente em diversas iniciativas artísticas tanto nacional como internacionalmente.</p>"
-  bio_eng: "<p>Maria Lusitano, (Lisbon, 1971) Lives and works between Malmö and London.Graduated
-    in Medicine in 1997. Studied in ar.co and Maumaus-School of Visual Arts in Lisbon.
-    Concluded in 2009 an MA in Fine Art at the Art Academy in Malmö, Sweden. Currently
-    enrolled in a PhD at University of Westminster, in the United Kingdom. Maria Lusitano’s
-    work is characterized mainly by the use of video. She develops projects based
-    upon previous artistic research that appropriate the methodologies of sociology,
-    history and documentary filmmaking, being her main interests historical utopias,
-    emigration and psychological video portraits. The artist explores the hybrid space
-    between the video essay, the documentary and the fictional film. She exhibits
-    regularly in several national and international artistic events.</p>"
-  imagem: ''
-- title: Marcelo Moscheta
-  bio_pt: "<p>Marcelo Moscheta (1976, São José do Rio Preto, Brasil). Vive e trabalha
-    em Coimbra, onde desenvolve sua investigação de Doutoramento em Arte Contemporânea.
-    Utilizando a prática do fazer artístico com acentuadas referências conceituais,
-    desde o início da sua carreira artística em 2000, o artista cria obras e exposições
-    decorrentes de viagens a locais remotos, onde recolhe elementos e imagens da natureza
-    e os reproduz através do desenho e fotografia, criando instalações e objetos.
-    Recentemente, sua pesquisa está voltada para as principais relações do homem e
-    meio ambiente, tecnologia e memória, identidades e nomadismo. Deslocamento, Território,
-    Paisagem e Memória são seus principais interesses. Moscheta recebeu vários prémios
-    e bolsas de pesquisa, incluindo The Pollock-Krasner Foundation Grant (2017), The
-    Drawing Center Open Sessions Program (2015), Bolsa Estímulo FUNARTE (2014), Prêmio
-    de Fotografia Marc Ferrez (2012) e o I Prêmio Pipa - júri popular em 2010, entre
-    outros. O seu trabalho encontra-se representado em várias coleções privadas e
-    institucionais.</p>"
-  bio_eng: "<p>Marcelo Moscheta (1976, São José do Rio Preto, Brazil). Lives and works
-    in Coimbra, where he is conducting research for his PhD in Contemporary Art. Since
-    the beginning of his artistic career in the year 2000, Moscheta works on a practice
-    based art, with strong conceptual references, creating works and exhibitions which
-    result from journeys to remote places, where he collects materials and images
-    from nature, reproducing them through drawing and photography to create installations
-    and objects. Lately, his research is focused on the main relationships of man
-    and environment, technology and memory, identities and nomadism.<br>Displacement,
-    Territory, Landscape and Memory are his main interests. Moscheta has received
-    several awards and research grants including, among others: The Pollock-Krasner
-    Foundation Grant (2017); The Drawing Center Open Sessions Program (2015); Funarte's
-    Visual Arts Production Stimulus Grant (2014); Marc Ferrez Photography Prize (2012);
-    I Pipa Popular Jury Prize in 2010. He is represented in various private and institutional
-    collections.</p>"
-  imagem: ''
-- title: Maxime Martinot
-  bio_pt: "<p>Maxime Martinot é realizador de cinema, editor e autor. Após os estudos
-    na Université Paris 8, trabalhou entre a Bretanha, Paris e Lisboa. A sua primeira
-    longa metragem, “Trois contes de Borges” (2014) foi premiada com dois prémios
-    no FIDMarseille —Marseille International Film Festival, no mesmo ano, e estreou
-    nos cinemas em 2018. O seu ensaio “Histoire de la Rèvolution” ganhou o Grand Prix
-    André S. Labarthe do Entrevues Belfort Film Festival (França/2019). Em 2022, o
-    filme “Les Antilopes” foi selecionado pela Académie des César para o César de
-    melhor curta metragem documental.</p><p><br></p>"
-  bio_eng: "<p>Maxime Martinot is a French director, editor and writer. After his
-    film studies at the University of Paris 8, he worked between Brittany, Paris and
-    Lisbon. His first feature film, “Trois contes de Borges” (Three Tales of Borges)
-    (2014), won two prizes at FIDMarseille —Marseille International Film Festival,and
-    was released in French theatres in 2018. His short essay film Histoire de la révolution
-    won the Best Short Film Award at the Entrevues- Belfort International Film Festival
-    (France/2019). In 2022, his film “Les Antilopes” was selected by the Académie
-    des César for the César for best documentary short film.</p>"
-  imagem: ''
-- title: Monica de Miranda
-  bio_pt: "<p>Monica de Miranda é uma artista visual, realizadora e investigadora
-    portuguesa de origem angolana, que vive e trabalha entre Lisboa e Luanda. O seu
-    trabalho interdisciplinar incorpora fotografia, vídeo, desenho, escultura e instalação
-    - investiga as políticas pós-coloniais da geografia, da história e da subjetividade
-    em relação a África e à sua diáspora, através de práticas espaciais críticas,
-    prosseguindo uma pesquisa que procura esbater fronteiras entre ficção e documentário.
-    É investigadora no Centro de Estudos Comparatistas da Universidade de Lisboa,
-    onde está envolvida em projetos que examinam aspectos éticos e culturais dos movimentos
-    migratórios contemporâneos, ligados à África Lusófona, como “Pós-Arquivo: Política
-    de Memória, Lugar e Identidade”. Estudou Artes Visuais no Camberwell College of
-    Arts e é doutorada em Artes Visuais pela Universidade de Middlesex. Monica de
-    Miranda é cofundadora do projeto de residências artísticas Triangle Network (Lisboa,
-    2014), e uma das fundadoras do projeto Hangar (Centro de residências artísticas,
-    Lisboa, 2014). O seu trabalho tem sido exibido internacionalmente, incluindo:
-    12ª Berlin Biennale (2022); Bienalsur – International Contemporary Art Biennial
-    of South America (2020); Dakar Biennale, Senegal (2016); Bamako Encounters - African
-    Biennale of Photography, Mali (2016); 14ª Bienal de Arquitetura de Veneza (2014).
-    Teve exposições no Pera Museum, em Istanbul, Turquia (2017) e Caixa Cultural no
-    Rio de Janeiro, Brasil (2017). O seu trabalho está representado em coleções públicas,
-    incluindo o Museu de Arte, Arquitetura e Tecnologia (MAAT), Fundação Calouste
-    Gulbenkian e o Museu Nacional de Arte Contemporânea, todos em Lisboa.</p>"
-  bio_eng: "<p>Monica de Miranda is an Angolan Portuguese visual artist, filmmaker
-    and researcher who works and lives between Lisbon and Luanda. Her work – which
-    incorporates photography, video, drawing, sculpture and installation – investigates
-    postcolonial politics of geography, history, and subjectivity in relation to Africa
-    and its diaspora through a critical spatial arts practice often engaging documentary
-    and fictional modes. De Miranda is affiliated with the University of Lisbon where
-    she is engaged on projects dealing with ethical and cultural aspects of contemporary
-    migration movements linked to lusophone Africa, such as Post-Archive: Politics
-    of Memory, Place and Identity. She studied at Camberwell College of Arts and Institute
-    of Education and has a doctorate in Visual Art from Middlesex University. De Miranda
-    is a co-founder of the artist residency project Triangle Network in Portugal and
-    in 2014, she founded Hangar – Center for Artistic Research in Lisbon Her works
-    have been exhibited internationally, including at the 12th Berlin Biennale (2022);
-    Bienalsur – International Contemporary Art Biennial from the South (2020); Houston
-    FotoFest Biennial (2020); Lubumbashi Biennale (2020); Dakar Biennale (2016); Bamako
-    Encounters African Biennale of Photography (2016); and the 14th Architecture Biennale
-    of Venice (2014) as well as in museums and galleries such as the Pera Museum in
-    Istanbul (2017) and Caixa Cultural in Rio de Janeiro (2017). Her work is represented
-    in public collections including The Museum of Art, Architecture and Technology
-    (MAAT), The Calouste Gulbenkian Foundation, and The National Museum of Contemporary
-    Art in Lisbon, Portugal.</p>"
-  imagem: ''
-- title: Nuno Gonçalves
-  bio_pt: "<p>Nuno Gonçalves<br>nasci em coimbra em 1976, no dia das bruxas<br>vivo
-    em lisboa<br>sou aluno de cinema / imagem em movimento no ar.co escola de artes<br>sou
-    ativista feminista e pelos direitos lgbti+<br>sou professor, investigador e gestor
-    de inovação, mas isso não interessa nada para aqui<br>fiz teatro amador e cantei
-    em vários coros<br>fiz um curso de design de interiores na lsd<br>fiz parte de
-    vários projetos de voluntariado<br>já viajei pelos cinco continentes mas não conheço
-    quase nada</p>"
-  bio_eng: "<p>Nuno Gonçalves<br>I was born on Halloween, in the city of Coimbra in
-    1976<br>I live in Lisbon<br>I study Cinema/Moving Image at Ar.Co.<br>I am a feminist
-    activist for lgbti+ rights<br>I am a teacher, researcher and, also, an innovation
-    manager, but this is besides the point <br>I was involved in amateur theatre<br>I
-    took a course in interior design at LSD – Lisbon School of Design in Lisbon<br>I
-    have been involved with several volunteer projects<br>I have travelled the five
-    continents but I hardly know them</p>"
-  imagem: ''
-- title: Pierre Coulibeuf
-  bio_pt: "<p>Pierre Coulibeuf é artista e cineasta. Nasceu em Elbeuf (França), em
-    1949. Vive e trabalha em Paris. Estudos literários (DEA e tese de pós-graduação).
-    Chevalier de l'Ordre des Arts et des Lettres, França (2001). Pierre Coulibeuf
-    está a desenvolver um projecto transdisciplinar: faz ficções experimentais (em
-    filme) que investem no campo da arte, e onde as mudanças de identidade afectam
-    os mundos ou artistas que inspiram as suas obras. Os seus filmes são apresentados
-    tanto no cinema como, recompostos, sob a forma de instalações de vídeo-foto na
-    rede de arte contemporânea. Suas obras fazem parte de importantes colecções públicas
-    em França e no estrangeiro. Em 2013, a sua exposição no Espaço YUAN, Pequim, foi
-    seleccionada para o Prémio Art China, na categoria dos artistas estrangeiros mais
-    influentes na China (com Andy Warhol, Marcel Duchamp, Nobuyoshi Araki, Shirin
-    Neshat). Em 2019, é laureado das Résidences Sur Mesure do Instituto Francês em
-    Paris (Artes Visuais).</p>"
-  bio_eng: "<p>Pierre Coulibeuf is an artist and a film director. Born in Elbeuf (France)
-    in 1949, Coulibeuf lives and works in Paris. Pierre Coulibeuf develops transdisciplinary
-    projects: experimental fictions (films) in the field of art, and in which changes
-    of identity, influence the universes and the artists that inspire his work. His
-    films are present both in cinema or, reworked, in the form of video-photo installations
-    in the contemporary art network. His works are represented in important public
-    collections in France and abroad. In 2013, his exhibition at Space YUAN, Beijing,
-    was selected for the ‘Art China Award’, in the category of the most influential
-    foreign artists in China (with Andy Warhol, Marcel Duchamp, Nobuyoshi Araki, Shirin
-    Neshat). In 2019 he was awarded the Résidences Sur Mesure from the Institut Français,
-    Paris (Visual Arts).</p>"
-  imagem: ''
-- title: Remy Jungerman
-  bio_pt: "<p>Remy Jungerman (1959), um dos artistas mais importantes dos Países Baixos,
-    estudou na Academy for Higher Arts and Cultural Studies em Paramaribo, Suriname,
-    antes de ir viver para Amesterdão, onde estudou na Gerrit Rietveld Academy. No
-    seu trabalho, Jungerman explora a interseção entre padrão e símbolo na cultura
-    Maroon do Suriname, a diáspora africana em termos latos, e o modernismo do século
-    XX, colocando fragmentos de têxteis Maroon e outros materiais encontrados na diáspora
-    africana – o barro caulino usado em várias tradições religiosas ou os pregos na
-    escultura Nkisi Nkondi – em contacto direto com materiais e imagética associada
-    a tradições artísticas mais “instituídas”, apresentando, desta forma, uma visão
-    mais global que simultaneamente enriquece e informa a nossa perspetiva da História
-    da Arte. Jungerman representou os Países Baixos na 59ª Bienal de Veneza, em 2019.
-    É cofundador e curador do Wakaman Project, Drawing Lines – Connecting Dots, que
-    nasceu do desejo de examinar o lugar dos artistas visuais de origem surinamesa
-    e destacá-los na cena internacional. Exibiu o seu trabalho a nível internacional
-    em: Pavilhão dos Países Baixos na 58ª Bienal de Veneza, Itália; Prospect3, Nova
-    Orleães; Brooklyn Museum, El Museo del Barrio e Jack Shainman Gallery, em Nova
-    Iorque, EUA; Rennie Museum, Vancouver, Canadá; Stedelijk Museum, Amsterdão e Museum
-    Arnhem, Arnhem, Países Baixos; Fridman Gallery, Nova Iorque; Goodman Gallery,
-    Londres; Havana Biennale, Cuba; Museum Bamako, Mali; Museum Tromso, Noruega; Künstlerhaus
-    Bethanien, Berlim, e Badischer Kunstverein, Karlsruhe, Alemanha.</p>"
-  bio_eng: "<p>Remy Jungerman (1959), one of the most important artists in the Netherlands,
-    attended the Academy for Higher Arts and Cultural Studies in Paramaribo, Surinam,
-    before moving to Amsterdam where he studied at the Gerrit Rietveld Academy. In
-    his work, Jungerman explores the intersection of pattern and symbol in Surinamese
-    Maroon culture, the larger African diaspora, and 20th century Modernism, placing
-    fragments of Maroon textiles and other materials found in the African diaspora—the
-    kaolin clay used in several religious traditions or the nails featured in Nkisi
-    Nkondi power sculpture—in direct contact with materials and imagery drawn from
-    more “established” art traditions, Jungerman presents a peripheral vision that
-    both enriches and informs our perspective on art history. <br>Jungerman represented
-    the Netherlands at the 58th Venice Biennale in 2019. Jungerman is co-founder and
-    curator of the Wakaman Project, drawing Lines – connecting dots. Wakaman, which
-    means “walking man,” was born out of a desire to examine the position of visual
-    artists of Surinamese origin and to raise their profile(s) on the international
-    stage. He has exhibited works internationally including at: 58th Venice Biennial,
-    Dutch Pavilion, IT; Prospect3, New Orleans; Brooklyn Museum, New York, El Museo
-    del Barrio, New York, Jack Shainman Gallery, New York, US; Rennie Museum, Vancouver,
-    CA; Stedelijk Museum, Amsterdam; Museum Arnhem; Fridman Gallery, New York; Goodman
-    Gallery, London; Havana Biennale; Museum Bamako, Mali; Museum Tromso, Norway;
-    Künstlerhaus Bethanien, Berlin, DE; Badischer Kunstverein, Karlsruhe.</p>"
-  imagem: ''
-- title: Ricardo Leandro
-  bio_pt: "<p>Ricardo Leandro (1982) é licenciado em Artes Visuais pela Universidade
-    de Évora e encontra-se neste momento no segundo ano do mestrado de Arte Multimédia,
-    na faculdade de Belas Artes da Universidade de Lisboa.<br>O seu trabalho tem uma
-    forte presença de vídeo e som, instalação e escrita, e ultimamente tem desenvolvido
-    projectos que usam práticas transmedia, onde os conceitos de arte e entretenimento
-    são constantemente postos à prova, com o intuito de criar debates sobre a mensagem
-    da obra artística e o seu relacionamento com o público.</p>"
-  bio_eng: "<p>Ricardo Leandro (1982) has a degree in Visual Arts from the University
-    of Évora and is currently in the second year of his master's degree in Multimedia
-    Art at the Faculty of Fine Arts of the University of Lisbon. His works are based
-    on video and sound, installation and writing, and of late he has been developing
-    projects that use transmedia practices, where the concepts of art and entertainment
-    are constantly put to the test, in order to incite debates about the message of
-    the artistic work and its relationship with the public.</p>"
-  imagem: ''
-- title: Rivane Neuenschwander
-  bio_pt: "<p>Rivane Neuenschwander nasceu em Belo Horizonte, Minas Gerais, em 1967.
-    Artista visual, em suas obras, apresenta percepções sobre o cotidiano, usando
-    materiais comuns, como plástico, casca, migalha, cabelo e poeira. Vê a parceria
-    como estratégia para sua poética e dialoga com diversas áreas do conhecimento.
-    Tem ampla pesquisa sobre o medo, em seus aspectos psíquicos e sociais, e questiona
-    os códigos de comunicação, como a linguagem e o alfabeto. Participou de várias
-    exposições nacionais e internacionais, como 50ª e a 51ª Biennale di Venezia (2003,
-    2005, Veneza), 27ª e 28ª Bienal de São Paulo (2006, 2008, São Paulo), Histórias
-    da Sexualidade (2017, São Paulo), entre outras. Suas obras estão em grandes coleções
-    institucionais como Tate Modern (Londres), Guggenheim (Nova York), MoMA (Nova
-    York), TBA21 (Viena), Inhotim (Brumadinho).</p>"
-  bio_eng: "<p>Rivane Neuenschwander was born in Belo Horizonte, Minas Gerais, in
-    1967. A visual artist, she works on the perceptions about everyday life, using
-    ordinary materials such as plastic, shells, crumbs, hair and dust. She defends
-    partnership as a strategy for her poetics and dialogues with various areas of
-    knowledge. She has conducted extensive research on fear, in its psychic and social
-    aspects, and questions the codes of communication, such as language and the alphabet.
-    Rivane participated in several national and international exhibitions, such as
-    the 50th and 51st Biennale di Venezia (2003, 2005, Venice), 27th and 28th Bienal
-    de São Paulo (2006, 2008, São Paulo), Histórias da Sexualidade (2017, São Paulo),
-    among others. Her works are in large institutional collections such as Tate Modern
-    (London), Guggenheim (New York), MoMA (New York), TBA21 (Vienna), Inhotim (Brumadinho).</p>"
-  imagem: ''
-- title: Salomé Lamas
-  bio_pt: "<p>Salomé Lamas estudou cinema em Lisboa e Praga, artes visuais (AMF) em
-    Amesterdão e é doutoranda em estudos fílmicos at the University of Coimbra. O
-    seu trabalho tem sido exibido tanto em contextos artísticos com em festivais de
-    cinema, tais como: Berlinale, Locarno, Museo Arte Reina Sofia, MNAC – Museu do
-    Chiado, DocLisboa, MoMA – Museum of Modern Art, Museo Guggenheim Bilbao, Harvard
-    Film Archive, Museum of Moving Images NY, Jewish Museum NY, Fid Marseille, Arsenal
-    Institut fur film und videokunst, Viennale, Culturgest, CCB – Centro Cultural
-    de Belém, Museu Serralves, Tate Modern, entre outros. Foi bolseira de: Gardner
-    Film Study Center Fellowship – Harvard University, The Rockefeller Foundation
-    – Bellagio Center, Brown Foundation – Dora Maar House, Fundación Botín, Fundação
-    Calouste Gulbenkian, and Sundance. Colabora com a Universidade Católica Portuguesa
-    e com a Elias Querejeta Zine Eskola. Trabalha com as produtoras de cinema O Som
-    e a Fúria e Primeira Idade.</p>"
-  bio_eng: "<p>Salomé Lamas (Lisbon), studied cinema in Lisbon and Prague, visual
-    arts in Amsterdam and is a Ph. D candidate in contemporary art studies in Coimbra.
-    Her work has been screened both in art venues and film festivals such as Berlinale,
-    Locarno, Museo Arte Reina Sofia, MNAC – Museu do Chiado, DocLisboa, MoMA – Museum
-    of Modern Art, Museo Guggenheim Bilbao, Harvard Film Archive, Museum of Moving
-    Images NY, Jewish Museum NY, Fid Marseille, Arsenal Institut fur film und videokunst,
-    Viennale, Culturgest, CCB – Centro Cultural de Belém, Museu Serralves, Tate Modern,
-    among others. Lamas was granted several fellowships such as the Gardner Film Study
-    Center Fellowship – Harvard University, The Rockefeller Foundation – Bellagio
-    Center, Brown Foundation – Dora Maar House, Fundación Botín, Fundação Calouste
-    Gulbenkian, and Sundance. She collaborates with Universidade Católica Portuguesa
-    and Elias Querejeta Zine Eskola, and with the production company O Som e a Fúria
-    and Primeira Idade.</p>"
-  imagem: ''
-- title: Sara Carneiro
-  bio_pt: "<p>Sara Carneiro (Viseu, 1994) é uma artista visual portuguesa que actualmente
-    reside na Matola, Moçambique. Após terminar a sua licenciatura em Multimédia
-    na Faculdade de Belas Artes da Universidade do Porto (Portugal) em 2016, mudou-se
-    para Moçambique onde começou a leccionar na Faculdade de Artes do Instituto Superior
-    de Artes e Cultura (ISArC). Nos últimos anos, a artista tem vindo a mostrar o
-    seu trabalho internacionalmente, em exposições e festivais de cinema. O seu
-    filme “Capítulo Um: A Chegada”, foi exibido em diversos festivais, com destaque
-    para: Boda Boda Lounge: Transcontinental Video Art Festival (18 cidades no continente
-    Africano); Proyector / Video Art Platform, Madrid, Espanha; short/age – Shortfilms
-    for a New Age, Viseu, Portugal; e Festival Kugoma, Maputo, Moçambique. Em 2021
-    estreou o “Capítulo Dois: Dominação” no festival Maputo Fast Forward, na icónica
-    sala de cinema do Cineteatro Scala. Através da criação de imagens abstratas
-    e atmosféricas em obras que vão da escultura à videoarte, Sara explora relações
-    simbólicas entre materiais, que lhe permitem falar sobre História, identidade
-    e noções de poder.</p>"
-  bio_eng: "<p>Sara Carneiro (Viseu, 1994) is a Portuguese visual artist, presently
-    living and working in Matola, Mozambique. After her graduation in Multimedia from
-    the Faculty of Fine Arts of the University of Porto, Portugal (2017), Sara Carneiro
-    moved to Mozambique, to teach multimedia at the Faculty Arts of the Institute
-    of Arts and Culture (ISArC). In the past few years the artist has been showcasing
-    her work in international exhibitions and film festivals. Her film “Chapter One:
-    The Arrival”, was screened in various festivals, with particular emphasis on:
-    the Boda Boda Lounge: Transcontinental Video Art Festival, (18 cities across the
-    African continent); Proyector / Video Art Platform, Madrid, Spain; short/age –
-    Short Films for a New Age, Viseu, Portugal; and Kugoma Festival, Maputo, Mozambique.
-    In 2021, she premiered “Chapter Two: Dominance” in the Maputo Fast Forward Festival
-    at the iconic movie theatre Scala. Creating abstract and atmospheric imagery in
-    mediums ranging from sculpture to experimental film, Sara explores symbolic relations
-    between materials that allow her to speak about history, identity and notions
-    of power.</p>"
-  imagem: ''
-- title: Susana Gaudêncio
-  bio_pt: "<p>Susana Gaudêncio, nasceu em Lisboa, vive e trabalha no Porto. Gaudêncio
-    vê a produção artística como plataforma para encontrar novas possibilidades de
-    problematização da utopia, enquanto dispositivo crítico do cotidiano, eminentemente
-    político.<br>Licenciada em Pintura (FBAUL). Mestre em Belas Artes (Hunter College.
-    City University New York). Doutoranda (FBAUL) e membro do Centro de Investigação
-    e de Estudos em Belas Artes (CIEBA) onde investiga sobre o tema “Máquinas de Imaginar:
-    O Impulso Utópico na Arte Contemporânea”. É membro fundador do “Círculo de Leitoras
-    Peripatéticas”, com Sofia Gonçalves e Susana Pomba e do colectivo Pessoa Colectiva
-    com Mafalda Santos. Coordena o Programa Educativo da Casa da Arquitectura – Centro
-    Português de Arquitectura. É docente no Mestrado de Artes Plásticas na ESAD, Caldas
-    da Rainha.</p>"
-  bio_eng: "<p>Susana Gaudêncio. Born in Lisbon, she lives and works in Porto. Gaudêncio
-    sees her artistic practice as a platform on which to find new possibilities for
-    questioning utopia as a critical device that is eminently political. She graduated
-    in Painting from the University of Lisbon and holds an MBA from Hunter College,
-    in NYC (CUNY). She is a PhD researcher at the University of Lisbon, working on
-    “The Utopian Impulse in Contemporary Art practice”. She is founding member of
-    “Círculo de Leitoras Peripatéticas” (Circle of Peripatetic Readers), with Sofia
-    Gonçalves and Susana She is a professor at ESAD, School of Art and Design (IPL),
-    in Caldas da Rainha, in the Department of Fine Arts. Coordinator of the Educational
-    Service of the Lisbon Architecture Triennale and of Casa da Arquitectura – Centro
-    Português de Arquitectura Portuguese Centre for Architecture.</p>"
-  imagem: ''
-- title: Teresa Olea Molina
-  bio_pt: "<p>Teresa Olea Molina nasceu em Granada, Espanha, em 1991. Estudou Tradução
-    e Humanidades entre as Universidades de Granada, Poitiers e Curitiba com especialização
-    em Cultura Contemporânea na Univ. Complutense de Madrid. Desde 2017 trabalha em
-    diferentes áreas da cultura e das artes, desde a produção e curadoria nas artes
-    visuais à escrita e realização cinematográfica. Atualmente reside em Lisboa, onde
-    estuda Cinema e Imagem em Movimento no Ar.Co.</p>"
-  bio_eng: "<p>Teresa Olea Molina. born in Granada, Spain, in 1991. Studied Translation
-    and Humanities between the universities of Granada, Poitiers, France, and Curitiba,
-    Brasil. MA in Contemporary Culture from Universidad Complutense de Madrid. Since
-    2017 she has been working in different culture and artistic areas, ranging from
-    production, curating in the field of the visual arts, to writing and filmmaking.
-    Presently residing in Lisbon, Molina is studying Cinema and Moving Images at Ar.Co.</p>"
-  imagem: ''
-- title: Tiago Bastos Nunes
-  bio_pt: "<p>Tiago Bastos Nunes (n. 1999) Artista visual. Realizador. Diretor criativo.
-    Creative Media Learner of the Year 2021, Embaixador Criativo da Pearson Education.
-    O seu trabalho foi apresentado no Canal180, Centro Cultural de Belém, RTP, Fantasporto
-    e MOTELX e no TIFF Bell Lightbox (Toronto, Canadá). Realizador e produtor pós-género
-    para moda, ações sociais e museus, entre os quais a Active Citizens, World Wildlife
-    Fund - WWF, Trienal de Arquitectura de Lisboa, Quantica, Village Underground e
-    MAAT.<br>É um dos criativos do ADVERSA, um estúdio centrado no poder da identidade,
-    estruturado por criativos visionários através de um manifesto de 'ARTE CONTRA
-    TIPO'.</p>"
-  bio_eng: "<p>Tiago Bastos Nunes (1999) Visual Artist. Director. Creative Director.
-    Creative Media Learner of the Year 2021 and Creative Media Ambassador for Pearson
-    Education. His work has been exhibited at Canal180, Belém Cultural Center, RTP,
-    Fantasporto, MOTELX, and TIFF Bell Lightbox (Toronto, Canada). Award-winning post-genre
-    director and producer for fashion, social actions, and museums such as the Active
-    Citizens program, World Wildlife Fund - WWF, the Lisbon Architecture Triennale,
-    Quantica, Village Underground, and the state-of-the-art museum MAAT – Museum of
-    Art, Architecture and Technology.<br>He is one of the creatives of ADVERSA, a
-    studio centered on the power of identity and structured by visionaries creatives
-    that subscribe to the manifesto 'ART AGAINST TYPE'.</p>"
-  imagem: ''
-- title: Tomás Guedes
-  bio_pt: "<p>Tomás Guedes nasceu no Porto no ano de 1998. É na cidade de Valongo
-    que passa a sua infância e adolescência e onde explora desde pequeno várias atividades
-    artísticas desde o teatro, pintura e especialmente vídeo. Com apenas 18 anos,
-    mudou-se para a cidade de Lisboa onde reside até aos dias de hoje. É licenciado
-    em Ciências da Comunicação pela Universidade Nova de Lisboa, tendo ainda passado
-    pelo curso de Comunicação Audiovisual da Universidade Carlos III em Madrid. Atualmente,
-    é aluno do Ar.Co do curso de Cinema/Imagem em Movimento.</p>"
-  bio_eng: "<p>Tomás Guedes. Born in Porto in 1998. Lived in the city of Valongo as
-    a child and an adolescent. He started, at a very early age, exploring different
-    artistic fields, such as theatre, painting and, especially, video. Guedes moved
-    to Lisbon when he was 18 years old, and has lived there ever since. He graduated
-    in Science Communication from Universidade Nova de Lisboa, frequenting as well
-    the Audiovisual Communication course at Universidade Carlos III in Madrid. Presently,
-    he is studying at Ar.Co, enrolled in the Cinema/Moving Image course.</p>"
-  imagem: ''
+  - title: António Braga
+    bio_pt: "António Braga é actor, encenador e professor de teatro. Desde 2007
+      desenvolve trabalho com crianças, jovens e adultos utilizando o teatro
+      como ferramenta de desenvolvimento pessoal numa tripla vertente:
+      pedagógica, terapêutica e social."
+    bio_eng: Antonio Braga is an actor, director and drama teacher, with 25 years of
+      experience in amateur and professional theatre. He has been working with
+      children, youngsters and adults since 2007, using theatre as a personal
+      development tool in its pedagogical, therapeutic and social components.
+    imagem: ""
+  - title: Ana Teresa Martins
+    bio_pt: <p>Ana Teresa Martins. Nasci em Lisboa no final do ano 2000, mas sempre
+      vivi em Almada. Desde nova que tenho uma relação próxima com arte, tendo
+      feito dança clássica e contemporânea durante vários anos, mas apenas na
+      Licenciatura em Ciências da Comunicação na FCSH é que despertou em mim um
+      interesse pelo cinema. Sou agora aluna do curso de cinema/imagem em
+      movimento do Ar.Co.</p>
+    bio_eng: <p>Ana Teresa Martins. I was born in Lisbon at the end of the year
+      2000, but I have always lived in Almada. I have had a close relationship
+      with the arts since I was young, doing classical and contemporary dance
+      for several years. My Science Communication degree (from FCSH) has
+      awakened in me an interest in Film. I am now a student of Cinema/Moving
+      Image course at Ar.Co.</p>
+    imagem: ""
+  - title: Cao Guimarães
+    bio_pt: <p>Cao Guimarães nasceu em 1965 em Belo Horizonte, Brasil, onde vive e
+      trabalha. Cao Guimarães atua no cruzamento entre o cinema e as artes
+      plásticas. Com produção intensa desde o final dos anos 1980, o artista tem
+      suas obras em numerosas coleções prestigiadas como a Tate Modern (Reino
+      Unido), o MoMA e o Museu Guggenheim (EUA), Fondation Cartier (França),
+      Colección Jumex (México), Inhotim (Brasil), Museu Thyssen-Bornemisza
+      (Espanha), dentre outras. Realizou dez longas-metragens, que participaram
+      de renomados festivais internacionais como Cannes, Locarno, Sundance,
+      Veneza, Berlim e Rotterdam. Ganhou retrospectivas de seus filmes no MoMA,
+      em 2011, Itaú Cultural, em 2013, BAFICI (Buenos Aires) e Cinemateca do
+      México em 2014. Em setembro de 2017 inaugurou a maior exposição e
+      retrospectiva acerca de sua obra em território europeu, no Eye Film
+      Museum, em Amsterdã. É representado pela Galeria Nara Roesler, de São
+      Paulo, e Galerie Xippas (Paris e Montevideo).</p>
+    bio_eng: "<p>Cao Guimarães was born in 1965 in Belo Horizonte, Brazil, where he
+      lives and works. Cao Guimarães works at the intersection between cinema
+      and the visual arts. With intense production since the late 1980s, the
+      artist has his works in numerous prestigious collections such as the Tate
+      Modern (UK); MoMA and Museu Guggenheim (USA); Fondation Cartier (France);
+      Colección Jumex (México); Inhotim (Brazil); Thyssen-Bornemisza (Spain),
+      amongst others. He directed 10 feature films that were selected by
+      numerous international festivals such as: Cannes, Locarno, Sundance,
+      Venice, Berlin and Rotterdam. He also has his films shown at MoMA, (2011);
+      Itaú Cultural, 2013; BAFICI (Buenos Aires) and Cinemateca do México
+      (2014). In September 2017 a major retrospective of his work in Europe was
+      held at Eye Filmmuseum, Amsterdam. He is represented by Galeria Nara
+      Roesler, São Paulo and Galerie Xippas (Paris e Montevideo).</p>"
+    imagem: ""
+  - title: Caetano Dias
+    bio_pt: <p>Caetano Dias (Feira de Santana, Bahia, 1959). Vive e trabalha em
+      Salvador, Bahia. Dias trabalha com vídeo, pintura, obras tridimensionais,
+      instalação multimídia, fotografia digital e performance. Seu trabalho
+      reflete as relações entre corpo e identidade, memória e pertencimento,
+      tornando estes alguns dos principais eixos da sua pesquisa na arte.
+      Começou a expor individualmente a partir de 1989. Tem participado de
+      exposições importantes representando a Bahia e o Brasil, como XVIII
+      Festival de La Peinture (França), The Brazilian Northeast Festival
+      Contemporary Art (Portugal) e Feira Internacional de Arte (Estados
+      Unidos). Entre individuais e coletivas realizou mostras no Brasil –
+      Salvador, São Paulo, Rio de Janeiro, Olinda, João Pessoa, Belém, Brasília,
+      Feira de Santana, Recife, Santos, São Félix, Curitiba –, e no exterior –
+      Nova York (Neuhoff Gallery), Paris (Galerie Vivendi), Havana (Casa das
+      Américas). Sua obra foi premiada no 16º Festival de Arte Contemporânea
+      Sesc/Videobrasil (2007) com residência no Le Fresnoy, em Tourcoing,
+      França.</p>
+    bio_eng: "<p>Caetano Dias was born in Feira de Santana, Bahia, in 1959. Lives
+      and works in Salvador, Bahia. Dias works with video, painting,
+      tridimensional works, multimedia, installation, digital photography and
+      performance. His work reflects the relation between body and identity,
+      memory and belonging, the main axes of his research in art. Since 1989 his
+      work has been shown in solo or collective exhibitions in Brazil, and
+      abroad. He has represented Brazil in important exhibitions, such as: XVIII
+      Festival de La Peinture (France), The Brazilian Northeast Festival
+      Contemporary Art (Portugal), International Art Fair (USA), among others.
+      He received an award at the 16º Contemporary Art festival Sesc /
+      Videobrasil (2007). He was an artist in residence at Le Fresnoy, in
+      Tourcoing, France.</p>"
+    imagem: ""
+  - title: Daniel Barroca
+    bio_pt: <p>Daniel Barroca, nasceu em Lisboa, em 1976. É formado em Artes
+      Plásticas pela ESAD, nas Caldas da Rainha. Estudou pintura no Ar.Co, em
+      Lisboa e participou do Curso de Artes Visuais do Projecto Gulbenkian de
+      Criatividade e Criação Artística. Foi vencedor do Prémio União Latina de
+      Jovem Criação e foi distinguido, ainda, com o prémio “Runner Up” na
+      categoria de filme experimental, no IFCT, Washington DC, EUA. Fez
+      residências artísticas na Academia de Espanha em Roma, Roma; na
+      Kunstlerhaus Bethanien, em Berlim, na Q130x Gallery Residency Program,
+      Atenas e na Rijksakademie van Beeldende Kunsten, em Amesterdão. Foi
+      nomeado para o Prémio EDP Novos Artistas 2003. Começou a expôr em finais
+      da década de 1990 e tem realizado exposições individuais e colectivas em
+      instituições e galerias nacionais e estrangeiras. Os seus vídeos têm sido
+      mostrados, igualmente, em vários festivais.</p>
+    bio_eng: <p>Daniel Barroca was born in Lisbon in 1976. He finished his Art
+      studies at the School of Art and Design, Caldas da Rainha, in 2001.
+      Studied painting at Ar.Co, in Lisbon, and enrolled in the Gulbenkian
+      Project on Creativity and Artistic Creation. He won the Prémio União
+      Latina de Jovem Criação Award and was also distinguished with the "Runner
+      Up" award in the category of experimental film at IFCT, Washington DC,
+      USA. Barroca has been resident artist at Academia de Espanha en Roma,
+      Roma; na Kunstlerhaus Bethanien, in Berlim; at Q130x Gallery Residency
+      Program, Athens and at the Rijksakademie Van Beeldende Kunsten, Amsterdam
+      supported by the Dutch Ministry of Culture and Science. Won the Prémio EDP
+      Novos Artistas 2003 award.He started exhibiting his work in the 1990s, and
+      has had solo and collective exhibitions in galleries in Portugal and
+      abroad. His videos have equally been exhibited in several festivals.</p>
+    imagem: ""
+  - title: Gabriela Vaz-Pinheiro
+    bio_pt: <p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
+      Artes da Universidade do Porto, e fez o Doutoramento em Belas Artes no
+      Chelsea College, University of Fine Arts, Londres. Professora convidada na
+      Central St. Martins College of Art &amp; Design, em Londres (1998-2006).
+      Os seus interesses dividem-se pela prática artística, o ensino da arte, e
+      a investigação e escrita críticas. O seu trabalho artístico debruça-se
+      sobre questões identitárias e contextuais como forma de interrogar a
+      própria noção de indivíduo, entre narrativas pessoais e sociais. Tem
+      realizado trabalho curatorial com várias colecções institucionais e também
+      em contextos expositivos alternativos. Tem atividade editorial regular, na
+      qual se incluem algumas publicações de artista. Ensina, desde 2004, na
+      Faculdade de Belas Artes da Universidade do Porto, onde é Membro Integrado
+      do i2ads, Instituto de Investigação em Arte Design e Sociedade.</p>
+    bio_eng: <p>Gabriela Vaz-Pinheiro graduated in sculpture from the Faculty of
+      Fine Arts of the University of Porto, and holds a PhD in Fine Arts from
+      Chelsea College, University of Fine Arts, London. Visiting Tutor at the
+      Central St. Martins’ College of Art &amp; Design, London (1998 to 2006).
+      Her interests encompass art practice, art education, as well as critical
+      research and writing. Her artistic work reflects on identity and
+      contextual issues, as a way of questioning the very notion of the
+      individual, between the personal and social narratives. She has carried
+      out curatorial work for various institutional collections and also in
+      alternative exhibition contexts. She has regular editorial activity, which
+      includes artists' books. Since 2004, Vaz-Pinheiro has been teaching at the
+      i2ADS – Institute of Research in Art, Design and Society is a R&amp;D unit
+      based at the Faculty of Fine Arts of the University of Porto (FBAUP).</p>
+    imagem: ""
+  - title: Gui Athayde
+    bio_pt: <p>Gui Athayde é um ilustrador e animador brasileiro, atualmente vivendo
+      entre a Alemanha e Portugal. O seu objetivo é produzir um corpo de
+      trabalho pertinente e contar histórias que emocionem as pessoas.</p>
+    bio_eng: <p>Gui Athayde is a Brazilian illustrator and cultural animator,
+      currently living between Portugal and Germany. His goal is to produce
+      meaningful work and tell stories that move people.</p>
+    imagem: ""
+  - title: Haroon Mirza
+    bio_pt: "<p>Haroon Mirza ganhou reconhecimento internacional pelas suas
+      instalações, que examinam a interação e o atrito entre ondas sonoras e
+      eletromagnéticas e a corrente elétrica. Cria esculturas, performances e
+      instalações imersivas, como “The National Apavillion of Then and Now”
+      (2011) (Leão de Prata na 54ª Bienal de Veneza), uma câmara anecóica com um
+      círculo de luz que cresce em intensidade luminosa em resposta ao aumento
+      de sons sustentados ou repetidos, notas ou clusters de sons (drones) e que
+      fica completamente escura quando há silêncio. Descreve-se como compositor,
+      manipulando a eletricidade - um fenómeno natural vivo, invisível e volátil
+      -, para a fazer responder a melodias diferentes, trabalhando com objetos
+      tão variados como eletrodomésticos, vinis e turntables, LEDs, mobiliário,
+      imagens vídeo e trabalhos artísticos existentes, para conseguir diferentes
+      resultados. O seu trabalho induz-nos a reconsiderar as distinções
+      percetivas entre ruído, som e música. Mirza estudou na Winchester School
+      of Art, no Goldsmiths College (2006) e no Chelsea College of Art and
+      Design (2007). Dentre as exposições individuais mais recentes destacam-se:
+      CCA Kitakyushu, Kitakyushu, Japão (2020); John Hansard Gallery,
+      Southampton, Reino Unido (2019); Australian Centre for Contemporary Art,
+      Melbourne, Austrália (2019); Sifang Art Museum, Nanjing, China (2019). Em
+      2018, Haroon Mirza apresentou “Stone Circle”, uma escultura em grande
+      escala, encomendada por Ballroom Marfa, Texas, que permanecerá <em>in
+      situ</em> durante cinco anos. Em 2021, o Museu de Arte Moderna de Nova
+      Iorque (MoMA), adquiriu “The National Apavilion of Then and Now”<em>
+      </em>(2011)<em> </em>para a sua coleção.</p>"
+    bio_eng: <p>Haroon Mirza has won international acclaim for installations that
+      test the interplay and friction between sound and light waves and electric
+      current. He devises sculptures, performances and immersive installations,
+      such as <em>The National Apavillion of Then and Now</em> (2011) (Silver
+      Lion at the 54th Venice Biennale) – an anechoic chamber with a circle of
+      light that grows brighter in response to increasing drone, and completely
+      dark when there is silence. He describes his role as a composer,
+      manipulating electricity, a live, invisible and volatile phenomenon, to
+      make it dance to a different tune and calling on instruments as varied as
+      household electronics, vinyl and turntables, LEDs, furniture, video
+      footage and existing artworks to behave differently. His work asks us to
+      reconsider the perceptual distinctions between noise, sound and music.
+      Mirza studied at Winchester School of Art, Goldsmiths College (2006) and
+      Chelsea College of Art and Design (2007). Recent solo exhibitions have
+      been held at CCA Kitakyushu, Kitakyushu, Japan (2020); John Hansard
+      Gallery, Southampton, UK (2019); Australian Centre for Contemporary Art,
+      Melbourne, Australia (2019); Sifang Art Museum, Nanjing, China (2019). In
+      2018, Haroon Mirza unveiled '<a
+      href="https://www.ballroommarfa.org/archive/event/stone-circle/">Stone
+      Circle</a>', a large-scale outdoor sculpture commissioned by Ballroom
+      Marfa, Texas, which will remain in the landscape for five years. In 2021,
+      Mirza’s <em>The National Apavilion of Then and Now </em>(2011)<em>
+      </em>was acquired by the Museum of Modern Art, New York.</p>
+    imagem: ""
+  - bio_pt: "<p>Hoji Fortuna nasceu em Luanda, Angola. Frequentou o curso de Direito
+      na Faculdade de Direito da Universidade Agostinho Neto (1990-1993/Angola),
+      e na Universidade Católica Portuguesa - Centro Regional do Porto
+      (1997-2000/Portugal). É graduado em Administração Local pelo Centro de
+      Estudos e Formação Autárquica de Coimbra (1994-1996/Portugal). Frequentou
+      cursos de Interpretação Dramática em: Act-Escola de Atores
+      (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA); Berlinale
+      Talent Campus (2014/Alemanha) e na Royal Central School of Speech and
+      Drama (2015/Inglaterra). É ator desde 2001, tendo trabalhado em teatro,
+      cinema e televisão, quer em Portugal quer no estrangeiro, para canais de
+      televisão pública e privada e plataformas de streaming, bem como para
+      instituições culturais, tais como: SIC, TVI, RTP, Teatro Nacional D. Maria
+      II, Sony Pictures, ABC Network, BBC, AMC Networks, Rede Globo, Netflix e
+      Amazon. Em 2011 foi galardoado com o prémio de Melhor Actor Secundário
+      pela Academia Africana de Cinema e em 2021 financiou e dirigiu a sua
+      primeira curta-metragem, “A Lisbon Affair”, que está na seleção oficial do
+      29th New York African Film Festival 2022.</p>"
+    bio_eng: "<p>Hoji Fortuna was born in Luanda, Angola. He studied law at the
+      Faculty of Law of Universidade Agostinho Neto (1990-1993/Angola), and at
+      Universidade Católica Portuguesa – Porto Regional Centre
+      (1997-2000/Portugal). Graduated in Local Governance at Cefa - Centro de
+      Estudos e Formação Autárquica de Coimbra (1994-1996/Portugal). Fortuna
+      also attended drama courses at: Act-Escola de Atores (2005/Portugal);
+      Stella Adler Studio of Actors (2009-2010/EUA); Berlinale Talent Campus
+      (2014/Germany), and Royal Central School of Speech and Drama
+      (2015/England). He is a professional actor since 2001, having worked in
+      theatre, cinema and TV, both in Portugal and abroad, for numerous cable TV
+      networks, streaming platforms and cultural institutions, such as: SIC,
+      TVI, RTP, Teatro Nacional D. Maria II, Sony Pictures, ABC Network, BBC,
+      AMC Networks, Rede Globo, Netflix and Amazon. In 2011 he was awarded the
+      “Best Actor in a Supporting Role” by the Africa Movie Academy Awards and
+      in 2021. He wrote, produced, directed and financed the short film “A
+      Lisbon Affair”, which is in the official selection at the 29th New York
+      African Film Festival, 2022.</p>"
+    title: Hoji Fortuna
+    imagem: ""
+  - title: "Inês Norton "
+    bio_pt: "<p>Inês Norton (n. Lisboa, 1982). Vive e trabalha em Lisboa. Licenciada
+      em Design de Comunicação pelo IADE, termina o último ano do curso na
+      Universidade Pontífice Católica - PUC, do Rio de Janeiro, no âmbito de um
+      programa de intercâmbio (2005). Frequenta dois anos do curso de pintura no
+      Ar.Co e faz o Slade Summer School Foundation Course, em Londres (2008-09).
+      Entre 2010 e 2012, vive na cidade de Luanda, Angola, onde lecionou
+      expressão plástica no âmbito do projeto de Apoio ao Desenvolvimento
+      (ADPP), tendo participado na II Trienal de Luanda, com o lema: “Geografias
+      Emocionais, Arte e Afetos” (2010). Em 2012 concluiu o Programa
+      Independente de Estudos na Maumaus, em Lisboa. No seu corpo de trabalho,
+      aborda questões ligadas ao binómio: natural/orgânico vs artificial/
+      sintético, numa abordagem de observação e registo destes dois conceitos
+      aparentemente antagónicos, explorando os seus diálogos contemporâneos,
+      pontos de intercepção, dissonância e tensão, assumindo-os como ponto
+      de partida da sua linguagem artística, que vai naturalmente assumindo
+      outras ramificações e problemáticas. Expõe regularmente o seu trabalho
+      e está representada em várias coleções a nível nacional e
+      internacional.</p>"
+    bio_eng: "<p>Inês Norton (b. Lisbon, 1982), lives and works in Lisbon. With a
+      degree in Graphic Design from IADE, Norton finished the last year of the
+      course at the Pontifical Catholic University of Rio de Janeiro - PUC, as
+      part of an exchange program (2005). She undertook a two-year painting
+      course at Ar.Co and the Slade Summer School Foundation Course, London
+      (2008-09). Between 2010 and 2012, she lived in the city of Luanda, Angola,
+      where she taught artistic expression within the scope of the Development
+      Support Project (ADPP), having participated in the II Luanda Triennial, an
+      edition with the motto: “Emotional Geographies, Art and Affects'' (2010).
+      In 2012 she completed the Independent Studies Program at Maumaus, in
+      Lisbon.<br>In her work Norton addresses issues related to the binary
+      natural / organic vs artificial / synthetic. In an approach of observation
+      and recording of these two apparently antagonistic concepts, she explores
+      her contemporary dialogues, points of intersection, dissonance and
+      tension, taking them as the starting point of her artistic language, which
+      naturally takes on other ramifications and questions. She regularly
+      exhibits her work and is represented in several national and international
+      collections.</p>"
+    imagem: ""
+  - title: Jan Fabre
+    bio_pt: <p>Jan Fabre (Bélgica, b.1958). Artista visual, encenador de teatro e
+      escritor, é considerado um dos artistas mais versáteis e influentes de sua
+      geração. Considera-se um artista “consiliente”, alguém que procura
+      incessantemente o conhecimento e a ligação entre as diferentes
+      disciplinas. É a partir daqui que consegue criar novas interpretações nos
+      mundos das artes visuais, do teatro e da escrita. O fascínio pelo efémero
+      e pelo invisível são catárticos, e têm uma posição central na sua obra.
+      São características que enquadram a narrativa, e são omnipresentes em
+      qualquer dos media com os quais trabalha. O trabalho de Jan Fabre foi
+      exibido em exposições internacionais de referência, tais como a Bienal de
+      Veneza, a Documenta, Kassel, ou a Bienal de Istambul. Este aclamado
+      artista pluridisciplinar ainda vive e trabalha em Antuérpia, à frente da
+      sua companhia, Troubleyn.</p>
+    bio_eng: <p>Jan Fabre (Belgian, b.1958) is a visual artist, theatre artist and
+      author who is considered as one of the most versatile and influential
+      artists of his generation. He calls himself a consilience artist because
+      he always leaps forward in knowledge through the linking of fact-based
+      theory and practice across disciplines. He seeks and sees links between
+      the different disciplines and for that reason he gave new interpretations
+      to the world of visual arts, theatre and writing. The enchantment with
+      ephemeral, unseen and cathartic in the work of Jan Fabre takes the central
+      position. Those features are always framing the narrative and are
+      omnipresent regardless of the media. Fabre has taken part in major
+      international exhibitions, such as the Venice Biennale, documenta in
+      Kassel, and the Istanbul Biennale. The acclaimed multidisciplinary artist
+      still lives and works in his native Antwerp, where he also helms his own
+      theatre company, Troubleyn.</p>
+    imagem: ""
+  - title: Joan Jonas
+    bio_pt: "<p>Joan Jonas nasce em 1936 em Nova Iorque. É recipiente de numerosos
+      prémios e bolsas, incluindo o Kyoto Prize, Japão, em 2019; Anonymous Was a
+      Woman Award, em 1998; American Film Institute's Maya Deren Award, em 1988,
+      e uma Guggenheim Fellowship, entre muitos outros. Em 2015, Jonas é a
+      artista seleccionada para representar os Estados Unidos na 57ª Bienal de
+      Veneza. Os seus trabalhos em vídeo e as suas performances foram
+      apresentados em todo o mundo.<br>Teve retrospetivas em: Queens Museum of
+      Art, Nova Iorque; Stedelijk Museum, Amsterdão e Van Abbemuseum, Eindhoven,
+      nos Países Baixos; Stadtgalerie Stuttgart, Estugarda, Alemanha. Teve
+      exposições individuais e performances em: Kunstmuseum, Berna; Walker Art
+      Center, Minneapolis, The Kitchen, Nova Iorque, San Francisco Museum of
+      Art, Berkeley Art Museum e Pacific Film Archive, Berkeley, nos EUA; Yvon
+      Lambert Gallery, Paris e Nova Iorque; Pat Hearn Gallery, Nova Iorque,
+      Sonnabend Gallery, Nova Iorque, Dia: Beacon, Beacon, Nova Iorque; Castello
+      di Rivoli Museo d'Arte Contemporanea, Turim, Itália, entre muitas outras.
+      Representada em exposições coletivas em: Whitney Biennial, Nova Iorque;
+      The Museum of Modern Art, Nova Iorque; Institute of Contemporary Art,
+      Filadélfia; Museum of Contemporary Art, Los Angeles; Documentas 5, 6, 8, e
+      11 em Kassel, Alemanha; Kunsthaus Graz, Aústria; Museum Moderner Kunst,
+      Viena, e Montreal Festival du Nouveau Cinema et de la Video, entre muitas
+      outras. Jonas vive em Nova-Iorque.</p>"
+    bio_eng: <p>Joan Jonas was born in 1936 in New York. She has received numerous
+      awards, grants, and honors, including the Kyoto Prize, Japan, in 2019, an
+      Anonymous Was a Woman Award in 1998, the American Film Institute's Maya
+      Deren Award in 1988, and a Guggenheim Fellowship, among many others. In
+      2015 Jonas was selected to represent the United States in the US Pavilion
+      at the 56th Venice Biennale. She has performed and exhibited her works
+      extensively around the world.<br>She has had retrospectives at the Queens
+      Museum of Art, New York, Stedelijk Museum, Amsterdam, Van Abbemuseum,
+      Eindhoven, Netherlands, and Stadtgalerie Stuttgart, Stuttgart, Germany.
+      Other one-person exhibitions and performances include Kunstmuseum, Bern;
+      Walker Art Center, Minneapolis; The Kitchen, New York; San Francisco
+      Museum of Art; Berkeley Art Museum and Pacific Film Archive, Berkeley;
+      Yvon Lambert Gallery, Paris and New York; Pat Hearn Gallery, New York,
+      Sonnabend Gallery, New York, Dia:Beacon, Beacon, New York, and Castello di
+      Rivoli Museo d'Arte Contemporanea, Torino, Italy, among others. Group
+      exhibitions include the Whitney Biennial, New York; The Museum of Modern
+      Art, New York; Institute of Contemporary Art, Philadelphia; Museum of
+      Contemporary Art, Los Angeles; Documentas 5, 6, 8, and 11 in Kassel,
+      Germany; Kunsthaus Graz, Austria; Museum Moderner Kunst, Vienna, and
+      Montreal Festival du Nouveau Cinema et de la Video, among many others.
+      Jonas lives in New York.</p>
+    imagem: ""
+  - title: Johanna Billing
+    bio_pt: <p>Johanna Billing nasceu na Suécia em 1973, vive e trabalha em
+      Estocolmo. Johanna tem vindo a fazer, desde 1999, trabalhos em vídeo que
+      entrelaçam música, movimento e ritmo. Juntando os modos de produção de
+      eventos coletivos ao vivo e workshops com uma linguagem cinematográfica,
+      Billing consegue, por um lado, dirigir a atenção da audiência e, por
+      outro, despoletar uma série de improvisações em torno da noção de
+      performance, realçando as possibilidades que este oferece para explorar
+      questões sobre o público e o privado, e da relação do indivíduo e a
+      sociedade em geral. Aborda frequentemente climas políticos e
+      especificidades culturais, mas o mais importante na sua obra é a
+      transformação do seus filmes, através de um método documental, num espaço
+      fictício para examinar eventos reais e artificiais e a forma como a
+      compressão fílmica destaca as sobreposições.</p><p>Os filmes de Billing
+      envolvem muitas vezes a música, que nas suas mãos se torna numa ferramenta
+      de comunicação, memória e reconstrução.</p>
+    bio_eng: <p>Johanna Billing, born in Sweden in 1973, lives and works in
+      Stockholm. Johanna has been making video works since 1999 that weave
+      together music, movement and rhythm. Merging the production modes of
+      collective live events and workshops with a cinematic language, Billing in
+      part directs the participants and in part activates a series of
+      improvisations around the notion of performance and the possibility it
+      holds to explore issues of the public and the private as well as the
+      individual in the society as a whole. Billing often addresses political
+      climates and cultural specificities, but more importantly she transforms,
+      through a documentary method, her filmmaking in a fictive space to examine
+      actual and contrived events and how that filmed compression illuminates
+      their overlap. Billing’s films often involve music, which in her hands
+      becomes a tool for communication, memory and reconstruction.</p>
+    imagem: ""
+  - title: José Maçãs de Carvalho
+    bio_pt: <p>José Maçãs de Carvalho (Portugal), é artista, curador e professor
+      universitário. Doutoramento em Arte Contemporânea - Colégio das Artes da
+      Universidade de Coimbra, em 2014; estudou Literatura nos anos 80 na
+      Universidade de Coimbra e Gestão de Artes nos anos 90, em Macau onde
+      trabalhou e viveu; Professor no Dep. de Arquitetura e no Colégio das Artes
+      da Universidade de Coimbra, onde é coordenador do Mestrado em Estudos
+      Curatoriais. É curador do Centro de Arte Contemporânea de Coimbra desde
+      2020. Foi bolseiro da Fundação Calouste Gulbenkian, Fundação Oriente,
+      Instituto Camões, Centro Português de Fotografia e Instituto das
+      Artes/Dgartes. Nomeado para o prémio BESPhoto 2005 (2006, CCB, Lisboa) e
+      para a "shortlist" do prémio de fotografia Pictet Prix, na Suíça, em 2008.
+      Entre 2011 e 2017 realizou várias exposições individuais em torno do tema
+      da sua tese de doutoramento (arquivo e memória).</p>
+    bio_eng: <p>José Maçãs de Carvalho (Portugal), is an artist, curator and
+      university professor. PhD in Contemporary Art from the College of Arts,
+      University of Coimbra. He studied Arts Management in Macau, where he lived
+      in the 1990’s; Professor at the Department of Architecture and the College
+      of Arts, University of Coimbra, where he is the coordinator of the
+      Masters’ degree in Curatorial Studies. He is curator of Coimbra’s
+      Contemporary Arts Centre since 2020. He has received scholarships from the
+      Calouste Gulbenkian Foundation, Oriente Foundation, Instituto Camões,
+      Centro Português de Fotografia and the Directorate-General for the Arts
+      (Dgartes) of the Ministry of Culture of Portugal. Nominated for the
+      BESPhoto 2005 award (2006, CCB, Lisboa) and was shortlisted for the Pictet
+      Prix photography prize, Switzerland, in 2008.</p>
+    imagem: ""
+  - title: José Taborda
+    bio_pt: "<p>José Taborda (n. Lisboa 1994). Licenciado em Pintura pela Faculdade
+      de Belas Artes da Universidade de Lisboa. Estuda Belas Artes na Bauhaus
+      Universität em Weimar, Alemanha. Vencedor do 1º Prémio A.J. Carpe Diem
+      Arte e Pesquisa - Fundação Millennium BCP, vencedor do 1º Prémio de
+      escultura D. Fernando II, premiado com o Bauhaus Essentials Prize. Expõe
+      regularmente em Portugal e no estrangeiro. De entre as mais recentes
+      exposições destacam-se: “Fénix”, Galeria Graça Brandão (2022); “Tracing
+      the Infrathin”, Monitor Gallery, Lisboa (2022); a exposição individual
+      “Wing Walking”, Eigenheim Gallery, Berlim (2021). As suas obras também
+      foram apresentadas em: 71st Jeune Création, Fiminco Fondation, Paris
+      (2021); Apophenia, Las Palmas, Espanha; Culturgest, Porto (2021); WIMBA,
+      Steneby Konsthall, Suécia (2021); a exposição individual “149,597,870 KM
+      em 7 passos”, Galeria Ocupa, Porto (2021); “New begginings”, VOGUE
+      Magazine Portugal (2021); Bienal da Maia, Forum Maia, Portugal (2021); “9
+      Gabinetes”, MU.SA, Sintra (2021); “Cruise Control”, Mono, Lisboa
+      (2021).</p>"
+    bio_eng: "<p>José Taborda (b. Lisbon, 1994). Holds a degree in Painting from the
+      Faculty of Fine Arts of the University of Lisbon. Studied Fine Arts at the
+      BAUHAUS Universität in Weimar, Germany. Awarded with the 1st prize A.J.
+      Millennium BCP Foundation - Carpe Diem Foundation Prize; the 1st prize D.
+      Fernando Sculpture Prize, and the Bauhaus Essentials Prize. Taborda
+      exhibits regularly in Portugal and abroad. Among his recent exhibitions
+      are: “Fénix”, Graça Brandão Gallery (2022); “Tracing the Infrathin”,
+      Monitor Gallery, Lisbon (2022); the solo exhibition “Wing Walking”,
+      Eigenheim Gallery, Berlin (2021); 71st Jeune Création, Fiminco Fondation,
+      Paris (2021); Apophenia Las Palmas, Spain; Culturgest, Porto (2021);
+      WIMBA, Steneby Konsthall, Sweden (2021); the solo exhibition “149,597,870
+      KM in 7 steps”, Ocupa Gallery, Porto (2021); “New Beginnings”, VOGUE
+      Magazine Portugal (2021); Maia Bienal, Forum Maia, Portugal (2021); “9
+      Gabinetes”, MU.SA, Sintra, Portugal (2021); “Cruise Control”, Mono, Lisbon
+      (2021).</p>"
+    imagem: ""
+  - title: Juliana Julieta
+    bio_pt: "<p>Juliana Julieta (Barcelos, 1994). Artista plástica, licenciada pela
+      FBAUP em Artes Plásticas, Pintura (2016) e Mestre em Pintura pela
+      Faculdade de Belas Artes Lisboa (FBAUL 2016-19), graduação que culminou na
+      Exposição Individual <em>MEND THE GAP</em>, 2019, Galeria Cisterna,
+      Lisboa. Publicou a tese <em>MEND THE GAP, O vazio que transborda em vida:
+      pintura</em>, 2019. O mestrado incluiu um Erasmus de 6 meses na EKA,
+      Estonian Academy of Arts (2017). Expõe a nível nacional e internacional
+      (Brasil, Estónia, Lituânia e Reino Unido). Estreou-se como artista
+      representada pela Galeria Módulo (Lisboa) com a sua exposição individual
+      <em>Singular Plural</em> (2021).</p>"
+    bio_eng: "<p>Juliana Julieta (Barcelos, 1994). Visual artist, she graduated in
+      Visual Arts and Painting from the Faculty of Arts of the University of
+      Porto (FBAUP, 2016), and has a MA in Painting from the Faculty of Fine
+      Arts of the University in Lisbon (FBAUL, 2016-19). Julieta published the
+      thesis “<em>MEND THE GAP, o vazio que transborda em vida: pintura”</em>,
+      2019. The master's degree included a 6-month Erasmus at EKA, Estonian
+      Academy of Arts (2017). She has been exhibiting her work in Portugal and
+      abroad (Brazil, Estonia, Lithuania and the United Kingdom). In 2021 she
+      started being represented by Galeria Módulo (Lisbon) with her individual
+      exhibition “Singular Plural” (2021).</p>"
+    imagem: ""
+  - title: Júlio F. R. Costa
+    bio_pt: <p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
+      de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da
+      obra de arte enquanto mercadoria e da posição do artista no mundo da arte
+      atual. Enquanto artista visual está principalmente interessado no
+      video-experimentalismo, com ênfase nas animações experimentais –
+      aproveitando o gosto pelo desenho para as tornar “um bocadinho animadas”.
+      Tem participado em festivais nacionais e internacionais, bem como em
+      exposições de artes visuais. O seu primeiro romance “Retalhos da Vida de
+      Eduardo Lopo” foi publicado em 2019. É presidente do Colectivo249
+      (www.colectivo249.com), onde luta pela descentralização da Arte.</p>
+    bio_eng: <p>Júlio F. R. Costa (b. 1989) has written and published articles in
+      the ambit of a philosophy within the framework of the contemporary art
+      market, namely about the work of art as a commodity and the position of
+      the artist in today's art world. As a visual artist, he is interested in
+      experimental video with an emphasis on experimental animation - taking
+      advantage of his taste for drawing to make it "a bit more animated". He
+      has participated in national and international festivals, as well as art
+      exhibitions. His first novel “Retalhos da Vida de Eduardo Lopo” (Fragments
+      of the Life of Eduardo Lopo) was published in 2019. Costa is President of
+      Colectivo249 (www.colectivo249.com), where he fights for the
+      decentralization of Art.</p>
+    imagem: ""
+  - title: Léna Lewis-King
+    bio_pt: <p>Léna Lewis-King (b.1999) é uma artista-cineasta baseada em Portugal.
+      O seu trabalho dedica-se às transformações mágicas quotidianas que surgem
+      no interior das intersecções entre a natureza e a tecnologia. Concebendo a
+      sua perspectiva de um ponto de vista feminista, debruça-se frequentemente
+      sobre os aspectos psíquicos e espirituais da experiência vivida. Os seus
+      filmes meditam sobre o impacto que a aceleração tecno-capitalista exerce
+      sobre a vida efémera e sobre a vida no mundo. As experiências curatoriais
+      de Lewis-King incluem a co-fundação do Apertura Institute (2022), a
+      criação da publicação online 'open2' (2020-21), e a curadoria da exposição
+      colectiva 'Point and Shoot' na Platform Gallery, Kingston School of Art,
+      Londres (2020).</p>
+    bio_eng: <p>Léna Lewis-King (b.1999) is an artist-filmmaker based in Portugal.
+      Léna Lewis-King’s work engages with everyday magical transformations
+      emerging from the intersections between nature and technology. Framing her
+      perspective from a feminist viewpoint, she often addresses psychic and
+      spiritual aspects of lived experience, as her films meditate on the impact
+      that the techno-capitalist acceleration exerts upon ephemeral life and
+      upon life on the planet. Lewis-King´s curatorial experiences include
+      co-founding the Apertura Institute (2022), and founding the online
+      publication ‘open2’ (2020-21), as well as curating the group show ‘Point
+      and Shoot’ at Platform Gallery, Kingston School of Art, London (2020).</p>
+    imagem: ""
+  - title: Leonor Sousa
+    bio_pt: <p>Leonor Sousa é uma artista visual nascida em Lisboa, onde reside e
+      trabalha. O seu trabalho desenvolve-se nos campos da pintura, performance
+      e instalação, através dos quais explora e pesquisa as noções de espaço,
+      arquitetura e trajetória. Criando gestos geográficos através de métodos
+      ensaísticos, questiona a experiência humana no espaço através de estados
+      de "estar em" e "existir onde". Pretende revisitar e repensar os
+      paradigmas do espaço e cartografia.</p>
+    bio_eng: <p>Leonor Sousa is a visual artist born in Lisbon (Portugal), where she
+      is currently based. Her work is focused on the fields of painting,
+      performance and installation, through which she explores and researches
+      the notions of space, architecture and trajectory. By creating
+      geographical gestures through essayistic methods, Sousa questions the
+      human experience in spaces, through the notions of "being in" and
+      "existing where". The aim is to rethink and revisit the paradigms of space
+      and cartography.</p>
+    imagem: ""
+  - title: Maria Lusitano
+    bio_pt: <p>Maria Lusitano, (Lisboa, 1971) Vive e trabalha em Malmo e
+      Londres.<br>Licenciada em Medicina na Universidade de Coimbra em 1997.
+      Estudou na Ar.Co e Maumaus – Escola de Artes Visuais. Concluiu o Mestrado
+      em Fine Arts na Malmo Art Academy, Suécia. Actualmente está inscrita no
+      Doutoramento na Universidade de Westminster, na Grã-Bretanha. O trabalho
+      da Maria Lusitano caracteriza-se principalmente pelo uso do vídeo.
+      Desenvolve projectos baseados em investigação que se apropria da
+      metodologia de disciplinas como a sociologia, história ou a realização de
+      documentários. Os seus principais interesses são as utopias históricas, a
+      emigração e retratos psicológicos. Explora o espaço híbrido entre vídeo
+      experimental, documentário e filmes de ficção.<br>Expõe regularmente em
+      diversas iniciativas artísticas tanto nacional como
+      internacionalmente.</p>
+    bio_eng: <p>Maria Lusitano, (Lisbon, 1971) Lives and works between Malmö and
+      London.Graduated in Medicine in 1997. Studied in ar.co and Maumaus-School
+      of Visual Arts in Lisbon. Concluded in 2009 an MA in Fine Art at the Art
+      Academy in Malmö, Sweden. Currently enrolled in a PhD at University of
+      Westminster, in the United Kingdom. Maria Lusitano’s work is characterized
+      mainly by the use of video. She develops projects based upon previous
+      artistic research that appropriate the methodologies of sociology, history
+      and documentary filmmaking, being her main interests historical utopias,
+      emigration and psychological video portraits. The artist explores the
+      hybrid space between the video essay, the documentary and the fictional
+      film. She exhibits regularly in several national and international
+      artistic events.</p>
+    imagem: ""
+  - title: Marcelo Moscheta
+    bio_pt: <p>Marcelo Moscheta (1976, São José do Rio Preto, Brasil). Vive e
+      trabalha em Coimbra, onde desenvolve sua investigação de Doutoramento em
+      Arte Contemporânea. Utilizando a prática do fazer artístico com acentuadas
+      referências conceituais, desde o início da sua carreira artística em 2000,
+      o artista cria obras e exposições decorrentes de viagens a locais remotos,
+      onde recolhe elementos e imagens da natureza e os reproduz através do
+      desenho e fotografia, criando instalações e objetos. Recentemente, sua
+      pesquisa está voltada para as principais relações do homem e meio
+      ambiente, tecnologia e memória, identidades e nomadismo. Deslocamento,
+      Território, Paisagem e Memória são seus principais interesses. Moscheta
+      recebeu vários prémios e bolsas de pesquisa, incluindo The Pollock-Krasner
+      Foundation Grant (2017), The Drawing Center Open Sessions Program (2015),
+      Bolsa Estímulo FUNARTE (2014), Prêmio de Fotografia Marc Ferrez (2012) e o
+      I Prêmio Pipa - júri popular em 2010, entre outros. O seu trabalho
+      encontra-se representado em várias coleções privadas e institucionais.</p>
+    bio_eng: "<p>Marcelo Moscheta (1976, São José do Rio Preto, Brazil). Lives and
+      works in Coimbra, where he is conducting research for his PhD in
+      Contemporary Art. Since the beginning of his artistic career in the year
+      2000, Moscheta works on a practice based art, with strong conceptual
+      references, creating works and exhibitions which result from journeys to
+      remote places, where he collects materials and images from nature,
+      reproducing them through drawing and photography to create installations
+      and objects. Lately, his research is focused on the main relationships of
+      man and environment, technology and memory, identities and
+      nomadism.<br>Displacement, Territory, Landscape and Memory are his main
+      interests. Moscheta has received several awards and research grants
+      including, among others: The Pollock-Krasner Foundation Grant (2017); The
+      Drawing Center Open Sessions Program (2015); Funarte's Visual Arts
+      Production Stimulus Grant (2014); Marc Ferrez Photography Prize (2012); I
+      Pipa Popular Jury Prize in 2010. He is represented in various private and
+      institutional collections.</p>"
+    imagem: ""
+  - title: Maxime Martinot
+    bio_pt: <p>Maxime Martinot é realizador de cinema, editor e autor. Após os
+      estudos na Université Paris 8, trabalhou entre a Bretanha, Paris e Lisboa.
+      A sua primeira longa metragem, “Trois contes de Borges” (2014) foi
+      premiada com dois prémios no FIDMarseille —Marseille International Film
+      Festival, no mesmo ano, e estreou nos cinemas em 2018. O seu ensaio
+      “Histoire de la Rèvolution” ganhou o Grand Prix André S. Labarthe do
+      Entrevues Belfort Film Festival (França/2019). Em 2022, o filme “Les
+      Antilopes” foi selecionado pela Académie des César para o César de melhor
+      curta metragem documental.</p><p><br></p>
+    bio_eng: <p>Maxime Martinot is a French director, editor and writer. After his
+      film studies at the University of Paris 8, he worked between Brittany,
+      Paris and Lisbon. His first feature film, “Trois contes de Borges” (Three
+      Tales of Borges) (2014), won two prizes at FIDMarseille —Marseille
+      International Film Festival,and was released in French theatres in 2018.
+      His short essay film Histoire de la révolution won the Best Short Film
+      Award at the Entrevues- Belfort International Film Festival (France/2019).
+      In 2022, his film “Les Antilopes” was selected by the Académie des César
+      for the César for best documentary short film.</p>
+    imagem: ""
+  - title: Monica de Miranda
+    bio_pt: "<p>Monica de Miranda é uma artista visual, realizadora e investigadora
+      portuguesa de origem angolana, que vive e trabalha entre Lisboa e Luanda.
+      O seu trabalho interdisciplinar incorpora fotografia, vídeo, desenho,
+      escultura e instalação - investiga as políticas pós-coloniais da
+      geografia, da história e da subjetividade em relação a África e à sua
+      diáspora, através de práticas espaciais críticas, prosseguindo uma
+      pesquisa que procura esbater fronteiras entre ficção e documentário. É
+      investigadora no Centro de Estudos Comparatistas da Universidade de
+      Lisboa, onde está envolvida em projetos que examinam aspectos éticos e
+      culturais dos movimentos migratórios contemporâneos, ligados à África
+      Lusófona, como “Pós-Arquivo: Política de Memória, Lugar e Identidade”.
+      Estudou Artes Visuais no Camberwell College of Arts e é doutorada em Artes
+      Visuais pela Universidade de Middlesex. Monica de Miranda é cofundadora do
+      projeto de residências artísticas Triangle Network (Lisboa, 2014), e uma
+      das fundadoras do projeto Hangar (Centro de residências artísticas,
+      Lisboa, 2014). O seu trabalho tem sido exibido internacionalmente,
+      incluindo: 12ª Berlin Biennale (2022); Bienalsur – International
+      Contemporary Art Biennial of South America (2020); Dakar Biennale, Senegal
+      (2016); Bamako Encounters - African Biennale of Photography, Mali (2016);
+      14ª Bienal de Arquitetura de Veneza (2014). Teve exposições no Pera
+      Museum, em Istanbul, Turquia (2017) e Caixa Cultural no Rio de Janeiro,
+      Brasil (2017). O seu trabalho está representado em coleções públicas,
+      incluindo o Museu de Arte, Arquitetura e Tecnologia (MAAT), Fundação
+      Calouste Gulbenkian e o Museu Nacional de Arte Contemporânea, todos em
+      Lisboa.</p>"
+    bio_eng: "<p>Monica de Miranda is an Angolan Portuguese visual artist, filmmaker
+      and researcher who works and lives between Lisbon and Luanda. Her work –
+      which incorporates photography, video, drawing, sculpture and installation
+      – investigates postcolonial politics of geography, history, and
+      subjectivity in relation to Africa and its diaspora through a critical
+      spatial arts practice often engaging documentary and fictional modes. De
+      Miranda is affiliated with the University of Lisbon where she is engaged
+      on projects dealing with ethical and cultural aspects of contemporary
+      migration movements linked to lusophone Africa, such as Post-Archive:
+      Politics of Memory, Place and Identity. She studied at Camberwell College
+      of Arts and Institute of Education and has a doctorate in Visual Art from
+      Middlesex University. De Miranda is a co-founder of the artist residency
+      project Triangle Network in Portugal and in 2014, she founded Hangar –
+      Center for Artistic Research in Lisbon Her works have been exhibited
+      internationally, including at the 12th Berlin Biennale (2022); Bienalsur –
+      International Contemporary Art Biennial from the South (2020); Houston
+      FotoFest Biennial (2020); Lubumbashi Biennale (2020); Dakar Biennale
+      (2016); Bamako Encounters African Biennale of Photography (2016); and the
+      14th Architecture Biennale of Venice (2014) as well as in museums and
+      galleries such as the Pera Museum in Istanbul (2017) and Caixa Cultural in
+      Rio de Janeiro (2017). Her work is represented in public collections
+      including The Museum of Art, Architecture and Technology (MAAT), The
+      Calouste Gulbenkian Foundation, and The National Museum of Contemporary
+      Art in Lisbon, Portugal.</p>"
+    imagem: ""
+  - title: Nuno Gonçalves
+    bio_pt: <p>Nuno Gonçalves<br>nasci em coimbra em 1976, no dia das bruxas<br>vivo
+      em lisboa<br>sou aluno de cinema / imagem em movimento no ar.co escola de
+      artes<br>sou ativista feminista e pelos direitos lgbti+<br>sou professor,
+      investigador e gestor de inovação, mas isso não interessa nada para
+      aqui<br>fiz teatro amador e cantei em vários coros<br>fiz um curso de
+      design de interiores na lsd<br>fiz parte de vários projetos de
+      voluntariado<br>já viajei pelos cinco continentes mas não conheço quase
+      nada</p>
+    bio_eng: <p>Nuno Gonçalves<br>I was born on Halloween, in the city of Coimbra in
+      1976<br>I live in Lisbon<br>I study Cinema/Moving Image at Ar.Co.<br>I am
+      a feminist activist for lgbti+ rights<br>I am a teacher, researcher and,
+      also, an innovation manager, but this is besides the point <br>I was
+      involved in amateur theatre<br>I took a course in interior design at LSD –
+      Lisbon School of Design in Lisbon<br>I have been involved with several
+      volunteer projects<br>I have travelled the five continents but I hardly
+      know them</p>
+    imagem: ""
+  - title: Pierre Coulibeuf
+    bio_pt: "<p>Pierre Coulibeuf é artista e cineasta. Nasceu em Elbeuf (França), em
+      1949. Vive e trabalha em Paris. Estudos literários (DEA e tese de
+      pós-graduação). Chevalier de l'Ordre des Arts et des Lettres, França
+      (2001). Pierre Coulibeuf está a desenvolver um projecto transdisciplinar:
+      faz ficções experimentais (em filme) que investem no campo da arte, e onde
+      as mudanças de identidade afectam os mundos ou artistas que inspiram as
+      suas obras. Os seus filmes são apresentados tanto no cinema como,
+      recompostos, sob a forma de instalações de vídeo-foto na rede de arte
+      contemporânea. Suas obras fazem parte de importantes colecções públicas em
+      França e no estrangeiro. Em 2013, a sua exposição no Espaço YUAN, Pequim,
+      foi seleccionada para o Prémio Art China, na categoria dos artistas
+      estrangeiros mais influentes na China (com Andy Warhol, Marcel Duchamp,
+      Nobuyoshi Araki, Shirin Neshat). Em 2019, é laureado das Résidences Sur
+      Mesure do Instituto Francês em Paris (Artes Visuais).</p>"
+    bio_eng: "<p>Pierre Coulibeuf is an artist and a film director. Born in Elbeuf
+      (France) in 1949, Coulibeuf lives and works in Paris. Pierre Coulibeuf
+      develops transdisciplinary projects: experimental fictions (films) in the
+      field of art, and in which changes of identity, influence the universes
+      and the artists that inspire his work. His films are present both in
+      cinema or, reworked, in the form of video-photo installations in the
+      contemporary art network. His works are represented in important public
+      collections in France and abroad. In 2013, his exhibition at Space YUAN,
+      Beijing, was selected for the ‘Art China Award’, in the category of the
+      most influential foreign artists in China (with Andy Warhol, Marcel
+      Duchamp, Nobuyoshi Araki, Shirin Neshat). In 2019 he was awarded the
+      Résidences Sur Mesure from the Institut Français, Paris (Visual
+      Arts).</p>"
+    imagem: ""
+  - title: Remy Jungerman
+    bio_pt: "<p>Remy Jungerman (1959), um dos artistas mais importantes dos Países
+      Baixos, estudou na Academy for Higher Arts and Cultural Studies em
+      Paramaribo, Suriname, antes de ir viver para Amesterdão, onde estudou na
+      Gerrit Rietveld Academy. No seu trabalho, Jungerman explora a interseção
+      entre padrão e símbolo na cultura Maroon do Suriname, a diáspora africana
+      em termos latos, e o modernismo do século XX, colocando fragmentos de
+      têxteis Maroon e outros materiais encontrados na diáspora africana – o
+      barro caulino usado em várias tradições religiosas ou os pregos na
+      escultura Nkisi Nkondi – em contacto direto com materiais e imagética
+      associada a tradições artísticas mais “instituídas”, apresentando, desta
+      forma, uma visão mais global que simultaneamente enriquece e informa a
+      nossa perspetiva da História da Arte. Jungerman representou os Países
+      Baixos na 59ª Bienal de Veneza, em 2019. É cofundador e curador do Wakaman
+      Project, Drawing Lines – Connecting Dots, que nasceu do desejo de examinar
+      o lugar dos artistas visuais de origem surinamesa e destacá-los na cena
+      internacional. Exibiu o seu trabalho a nível internacional em: Pavilhão
+      dos Países Baixos na 58ª Bienal de Veneza, Itália; Prospect3, Nova
+      Orleães; Brooklyn Museum, El Museo del Barrio e Jack Shainman Gallery, em
+      Nova Iorque, EUA; Rennie Museum, Vancouver, Canadá; Stedelijk Museum,
+      Amsterdão e Museum Arnhem, Arnhem, Países Baixos; Fridman Gallery, Nova
+      Iorque; Goodman Gallery, Londres; Havana Biennale, Cuba; Museum Bamako,
+      Mali; Museum Tromso, Noruega; Künstlerhaus Bethanien, Berlim, e Badischer
+      Kunstverein, Karlsruhe, Alemanha.</p>"
+    bio_eng: "<p>Remy Jungerman (1959), one of the most important artists in the
+      Netherlands, attended the Academy for Higher Arts and Cultural Studies in
+      Paramaribo, Surinam, before moving to Amsterdam where he studied at the
+      Gerrit Rietveld Academy. In his work, Jungerman explores the intersection
+      of pattern and symbol in Surinamese Maroon culture, the larger African
+      diaspora, and 20th century Modernism, placing fragments of Maroon textiles
+      and other materials found in the African diaspora—the kaolin clay used in
+      several religious traditions or the nails featured in Nkisi Nkondi power
+      sculpture—in direct contact with materials and imagery drawn from more
+      “established” art traditions, Jungerman presents a peripheral vision that
+      both enriches and informs our perspective on art history. <br>Jungerman
+      represented the Netherlands at the 58th Venice Biennale in 2019. Jungerman
+      is co-founder and curator of the Wakaman Project, drawing Lines –
+      connecting dots. Wakaman, which means “walking man,” was born out of a
+      desire to examine the position of visual artists of Surinamese origin and
+      to raise their profile(s) on the international stage. He has exhibited
+      works internationally including at: 58th Venice Biennial, Dutch Pavilion,
+      IT; Prospect3, New Orleans; Brooklyn Museum, New York, El Museo del
+      Barrio, New York, Jack Shainman Gallery, New York, US; Rennie Museum,
+      Vancouver, CA; Stedelijk Museum, Amsterdam; Museum Arnhem; Fridman
+      Gallery, New York; Goodman Gallery, London; Havana Biennale; Museum
+      Bamako, Mali; Museum Tromso, Norway; Künstlerhaus Bethanien, Berlin, DE;
+      Badischer Kunstverein, Karlsruhe.</p>"
+    imagem: ""
+  - title: Ricardo Leandro
+    bio_pt: <p>Ricardo Leandro (1982) é licenciado em Artes Visuais pela
+      Universidade de Évora e encontra-se neste momento no segundo ano do
+      mestrado de Arte Multimédia, na faculdade de Belas Artes da Universidade
+      de Lisboa.<br>O seu trabalho tem uma forte presença de vídeo e som,
+      instalação e escrita, e ultimamente tem desenvolvido projectos que usam
+      práticas transmedia, onde os conceitos de arte e entretenimento são
+      constantemente postos à prova, com o intuito de criar debates sobre a
+      mensagem da obra artística e o seu relacionamento com o público.</p>
+    bio_eng: <p>Ricardo Leandro (1982) has a degree in Visual Arts from the
+      University of Évora and is currently in the second year of his master's
+      degree in Multimedia Art at the Faculty of Fine Arts of the University of
+      Lisbon. His works are based on video and sound, installation and writing,
+      and of late he has been developing projects that use transmedia practices,
+      where the concepts of art and entertainment are constantly put to the
+      test, in order to incite debates about the message of the artistic work
+      and its relationship with the public.</p>
+    imagem: ""
+  - title: Rivane Neuenschwander
+    bio_pt: <p>Rivane Neuenschwander nasceu em Belo Horizonte, Minas Gerais, em
+      1967. Artista visual, em suas obras, apresenta percepções sobre o
+      cotidiano, usando materiais comuns, como plástico, casca, migalha, cabelo
+      e poeira. Vê a parceria como estratégia para sua poética e dialoga com
+      diversas áreas do conhecimento. Tem ampla pesquisa sobre o medo, em seus
+      aspectos psíquicos e sociais, e questiona os códigos de comunicação, como
+      a linguagem e o alfabeto. Participou de várias exposições nacionais e
+      internacionais, como 50ª e a 51ª Biennale di Venezia (2003, 2005, Veneza),
+      27ª e 28ª Bienal de São Paulo (2006, 2008, São Paulo), Histórias da
+      Sexualidade (2017, São Paulo), entre outras. Suas obras estão em grandes
+      coleções institucionais como Tate Modern (Londres), Guggenheim (Nova
+      York), MoMA (Nova York), TBA21 (Viena), Inhotim (Brumadinho).</p>
+    bio_eng: <p>Rivane Neuenschwander was born in Belo Horizonte, Minas Gerais, in
+      1967. A visual artist, she works on the perceptions about everyday life,
+      using ordinary materials such as plastic, shells, crumbs, hair and dust.
+      She defends partnership as a strategy for her poetics and dialogues with
+      various areas of knowledge. She has conducted extensive research on fear,
+      in its psychic and social aspects, and questions the codes of
+      communication, such as language and the alphabet. Rivane participated in
+      several national and international exhibitions, such as the 50th and 51st
+      Biennale di Venezia (2003, 2005, Venice), 27th and 28th Bienal de São
+      Paulo (2006, 2008, São Paulo), Histórias da Sexualidade (2017, São Paulo),
+      among others. Her works are in large institutional collections such as
+      Tate Modern (London), Guggenheim (New York), MoMA (New York), TBA21
+      (Vienna), Inhotim (Brumadinho).</p>
+    imagem: ""
+  - title: Salomé Lamas
+    bio_pt: "<p>Salomé Lamas estudou cinema em Lisboa e Praga, artes visuais (AMF)
+      em Amesterdão e é doutoranda em estudos fílmicos at the University of
+      Coimbra. O seu trabalho tem sido exibido tanto em contextos artísticos com
+      em festivais de cinema, tais como: Berlinale, Locarno, Museo Arte Reina
+      Sofia, MNAC – Museu do Chiado, DocLisboa, MoMA – Museum of Modern Art,
+      Museo Guggenheim Bilbao, Harvard Film Archive, Museum of Moving Images NY,
+      Jewish Museum NY, Fid Marseille, Arsenal Institut fur film und videokunst,
+      Viennale, Culturgest, CCB – Centro Cultural de Belém, Museu Serralves,
+      Tate Modern, entre outros. Foi bolseira de: Gardner Film Study Center
+      Fellowship – Harvard University, The Rockefeller Foundation – Bellagio
+      Center, Brown Foundation – Dora Maar House, Fundación Botín, Fundação
+      Calouste Gulbenkian, and Sundance. Colabora com a Universidade Católica
+      Portuguesa e com a Elias Querejeta Zine Eskola. Trabalha com as produtoras
+      de cinema O Som e a Fúria e Primeira Idade.</p>"
+    bio_eng: <p>Salomé Lamas (Lisbon), studied cinema in Lisbon and Prague, visual
+      arts in Amsterdam and is a Ph. D candidate in contemporary art studies in
+      Coimbra. Her work has been screened both in art venues and film festivals
+      such as Berlinale, Locarno, Museo Arte Reina Sofia, MNAC – Museu do
+      Chiado, DocLisboa, MoMA – Museum of Modern Art, Museo Guggenheim Bilbao,
+      Harvard Film Archive, Museum of Moving Images NY, Jewish Museum NY, Fid
+      Marseille, Arsenal Institut fur film und videokunst, Viennale, Culturgest,
+      CCB – Centro Cultural de Belém, Museu Serralves, Tate Modern, among
+      others. Lamas was granted several fellowships such as the Gardner Film
+      Study Center Fellowship – Harvard University, The Rockefeller Foundation –
+      Bellagio Center, Brown Foundation – Dora Maar House, Fundación Botín,
+      Fundação Calouste Gulbenkian, and Sundance. She collaborates with
+      Universidade Católica Portuguesa and Elias Querejeta Zine Eskola, and with
+      the production company O Som e a Fúria and Primeira Idade.</p>
+    imagem: ""
+  - title: Sara Carneiro
+    bio_pt: "<p>Sara Carneiro (Viseu, 1994) é uma artista visual portuguesa que
+      actualmente reside na Matola, Moçambique. Após terminar a sua
+      licenciatura em Multimédia na Faculdade de Belas Artes da Universidade do
+      Porto (Portugal) em 2016, mudou-se para Moçambique onde começou a
+      leccionar na Faculdade de Artes do Instituto Superior de Artes e Cultura
+      (ISArC). Nos últimos anos, a artista tem vindo a mostrar o seu trabalho
+      internacionalmente, em exposições e festivais de cinema. O seu filme
+      “Capítulo Um: A Chegada”, foi exibido em diversos festivais, com destaque
+      para: Boda Boda Lounge: Transcontinental Video Art Festival (18 cidades no
+      continente Africano); Proyector / Video Art Platform, Madrid, Espanha;
+      short/age – Shortfilms for a New Age, Viseu, Portugal; e Festival Kugoma,
+      Maputo, Moçambique. Em 2021 estreou o “Capítulo Dois: Dominação” no
+      festival Maputo Fast Forward, na icónica sala de cinema do Cineteatro
+      Scala. Através da criação de imagens abstratas e atmosféricas em obras
+      que vão da escultura à videoarte, Sara explora relações simbólicas
+      entre materiais, que lhe permitem falar sobre História, identidade e
+      noções de poder.</p>"
+    bio_eng: "<p>Sara Carneiro (Viseu, 1994) is a Portuguese visual artist,
+      presently living and working in Matola, Mozambique. After her graduation
+      in Multimedia from the Faculty of Fine Arts of the University of Porto,
+      Portugal (2017), Sara Carneiro moved to Mozambique, to teach multimedia at
+      the Faculty Arts of the Institute of Arts and Culture (ISArC). In the past
+      few years the artist has been showcasing her work in international
+      exhibitions and film festivals. Her film “Chapter One: The Arrival”, was
+      screened in various festivals, with particular emphasis on: the Boda Boda
+      Lounge: Transcontinental Video Art Festival, (18 cities across the African
+      continent); Proyector / Video Art Platform, Madrid, Spain; short/age –
+      Short Films for a New Age, Viseu, Portugal; and Kugoma Festival, Maputo,
+      Mozambique. In 2021, she premiered “Chapter Two: Dominance” in the Maputo
+      Fast Forward Festival at the iconic movie theatre Scala. Creating abstract
+      and atmospheric imagery in mediums ranging from sculpture to experimental
+      film, Sara explores symbolic relations between materials that allow her to
+      speak about history, identity and notions of power.</p>"
+    imagem: ""
+  - title: Susana Gaudêncio
+    bio_pt: "<p>Susana Gaudêncio, nasceu em Lisboa, vive e trabalha no Porto.
+      Gaudêncio vê a produção artística como plataforma para encontrar novas
+      possibilidades de problematização da utopia, enquanto dispositivo crítico
+      do cotidiano, eminentemente político.<br>Licenciada em Pintura (FBAUL).
+      Mestre em Belas Artes (Hunter College. City University New York).
+      Doutoranda (FBAUL) e membro do Centro de Investigação e de Estudos em
+      Belas Artes (CIEBA) onde investiga sobre o tema “Máquinas de Imaginar: O
+      Impulso Utópico na Arte Contemporânea”. É membro fundador do “Círculo de
+      Leitoras Peripatéticas”, com Sofia Gonçalves e Susana Pomba e do colectivo
+      Pessoa Colectiva com Mafalda Santos. Coordena o Programa Educativo da Casa
+      da Arquitectura – Centro Português de Arquitectura. É docente no Mestrado
+      de Artes Plásticas na ESAD, Caldas da Rainha.</p>"
+    bio_eng: <p>Susana Gaudêncio. Born in Lisbon, she lives and works in Porto.
+      Gaudêncio sees her artistic practice as a platform on which to find new
+      possibilities for questioning utopia as a critical device that is
+      eminently political. She graduated in Painting from the University of
+      Lisbon and holds an MBA from Hunter College, in NYC (CUNY). She is a PhD
+      researcher at the University of Lisbon, working on “The Utopian Impulse in
+      Contemporary Art practice”. She is founding member of “Círculo de Leitoras
+      Peripatéticas” (Circle of Peripatetic Readers), with Sofia Gonçalves and
+      Susana She is a professor at ESAD, School of Art and Design (IPL), in
+      Caldas da Rainha, in the Department of Fine Arts. Coordinator of the
+      Educational Service of the Lisbon Architecture Triennale and of Casa da
+      Arquitectura – Centro Português de Arquitectura Portuguese Centre for
+      Architecture.</p>
+    imagem: ""
+  - title: Teresa Olea Molina
+    bio_pt: <p>Teresa Olea Molina nasceu em Granada, Espanha, em 1991. Estudou
+      Tradução e Humanidades entre as Universidades de Granada, Poitiers e
+      Curitiba com especialização em Cultura Contemporânea na Univ. Complutense
+      de Madrid. Desde 2017 trabalha em diferentes áreas da cultura e das artes,
+      desde a produção e curadoria nas artes visuais à escrita e realização
+      cinematográfica. Atualmente reside em Lisboa, onde estuda Cinema e Imagem
+      em Movimento no Ar.Co.</p>
+    bio_eng: <p>Teresa Olea Molina. born in Granada, Spain, in 1991. Studied
+      Translation and Humanities between the universities of Granada, Poitiers,
+      France, and Curitiba, Brasil. MA in Contemporary Culture from Universidad
+      Complutense de Madrid. Since 2017 she has been working in different
+      culture and artistic areas, ranging from production, curating in the field
+      of the visual arts, to writing and filmmaking. Presently residing in
+      Lisbon, Molina is studying Cinema and Moving Images at Ar.Co.</p>
+    imagem: ""
+  - title: Tiago Bastos Nunes
+    bio_pt: <p>Tiago Bastos Nunes (n. 1999) Artista visual. Realizador. Diretor
+      criativo. Creative Media Learner of the Year 2021, Embaixador Criativo da
+      Pearson Education. O seu trabalho foi apresentado no Canal180, Centro
+      Cultural de Belém, RTP, Fantasporto e MOTELX e no TIFF Bell Lightbox
+      (Toronto, Canadá). Realizador e produtor pós-género para moda, ações
+      sociais e museus, entre os quais a Active Citizens, World Wildlife Fund -
+      WWF, Trienal de Arquitectura de Lisboa, Quantica, Village Underground e
+      MAAT.<br>É um dos criativos do ADVERSA, um estúdio centrado no poder da
+      identidade, estruturado por criativos visionários através de um manifesto
+      de 'ARTE CONTRA TIPO'.</p>
+    bio_eng: <p>Tiago Bastos Nunes (1999) Visual Artist. Director. Creative
+      Director. Creative Media Learner of the Year 2021 and Creative Media
+      Ambassador for Pearson Education. His work has been exhibited at Canal180,
+      Belém Cultural Center, RTP, Fantasporto, MOTELX, and TIFF Bell Lightbox
+      (Toronto, Canada). Award-winning post-genre director and producer for
+      fashion, social actions, and museums such as the Active Citizens program,
+      World Wildlife Fund - WWF, the Lisbon Architecture Triennale, Quantica,
+      Village Underground, and the state-of-the-art museum MAAT – Museum of Art,
+      Architecture and Technology.<br>He is one of the creatives of ADVERSA, a
+      studio centered on the power of identity and structured by visionaries
+      creatives that subscribe to the manifesto 'ART AGAINST TYPE'.</p>
+    imagem: ""
+  - title: Tomás Guedes
+    bio_pt: <p>Tomás Guedes nasceu no Porto no ano de 1998. É na cidade de Valongo
+      que passa a sua infância e adolescência e onde explora desde pequeno
+      várias atividades artísticas desde o teatro, pintura e especialmente
+      vídeo. Com apenas 18 anos, mudou-se para a cidade de Lisboa onde reside
+      até aos dias de hoje. É licenciado em Ciências da Comunicação pela
+      Universidade Nova de Lisboa, tendo ainda passado pelo curso de Comunicação
+      Audiovisual da Universidade Carlos III em Madrid. Atualmente, é aluno do
+      Ar.Co do curso de Cinema/Imagem em Movimento.</p>
+    bio_eng: <p>Tomás Guedes. Born in Porto in 1998. Lived in the city of Valongo as
+      a child and an adolescent. He started, at a very early age, exploring
+      different artistic fields, such as theatre, painting and, especially,
+      video. Guedes moved to Lisbon when he was 18 years old, and has lived
+      there ever since. He graduated in Science Communication from Universidade
+      Nova de Lisboa, frequenting as well the Audiovisual Communication course
+      at Universidade Carlos III in Madrid. Presently, he is studying at Ar.Co,
+      enrolled in the Cinema/Moving Image course.</p>
+    imagem: ""
