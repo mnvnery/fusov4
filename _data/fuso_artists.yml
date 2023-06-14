@@ -407,87 +407,29 @@ artistas:
       others opens up spaces for subjectivity and a different configuration of
       time.
     imagem: ""
-  - title: Susana Gaudêncio
-    bio_pt: "<p>Susana Gaudêncio, nasceu em Lisboa, vive e trabalha no Porto.
-      Gaudêncio vê a produção artística como plataforma para encontrar novas
-      possibilidades de problematização da utopia, enquanto dispositivo crítico
-      do cotidiano, eminentemente político.<br>Licenciada em Pintura (FBAUL).
-      Mestre em Belas Artes (Hunter College. City University New York).
-      Doutoranda (FBAUL) e membro do Centro de Investigação e de Estudos em
-      Belas Artes (CIEBA) onde investiga sobre o tema “Máquinas de Imaginar: O
-      Impulso Utópico na Arte Contemporânea”. É membro fundador do “Círculo de
-      Leitoras Peripatéticas”, com Sofia Gonçalves e Susana Pomba e do colectivo
-      Pessoa Colectiva com Mafalda Santos. Coordena o Programa Educativo da Casa
-      da Arquitectura – Centro Português de Arquitectura. É docente no Mestrado
-      de Artes Plásticas na ESAD, Caldas da Rainha.</p>"
-    bio_eng: <p>Susana Gaudêncio. Born in Lisbon, she lives and works in Porto.
-      Gaudêncio sees her artistic practice as a platform on which to find new
-      possibilities for questioning utopia as a critical device that is
-      eminently political. She graduated in Painting from the University of
-      Lisbon and holds an MBA from Hunter College, in NYC (CUNY). She is a PhD
-      researcher at the University of Lisbon, working on “The Utopian Impulse in
-      Contemporary Art practice”. She is founding member of “Círculo de Leitoras
-      Peripatéticas” (Circle of Peripatetic Readers), with Sofia Gonçalves and
-      Susana She is a professor at ESAD, School of Art and Design (IPL), in
-      Caldas da Rainha, in the Department of Fine Arts. Coordinator of the
-      Educational Service of the Lisbon Architecture Triennale and of Casa da
-      Arquitectura – Centro Português de Arquitectura Portuguese Centre for
-      Architecture.</p>
-    imagem: ""
-  - title: Teresa Olea Molina
-    bio_pt: <p>Teresa Olea Molina nasceu em Granada, Espanha, em 1991. Estudou
-      Tradução e Humanidades entre as Universidades de Granada, Poitiers e
-      Curitiba com especialização em Cultura Contemporânea na Univ. Complutense
-      de Madrid. Desde 2017 trabalha em diferentes áreas da cultura e das artes,
-      desde a produção e curadoria nas artes visuais à escrita e realização
-      cinematográfica. Atualmente reside em Lisboa, onde estuda Cinema e Imagem
-      em Movimento no Ar.Co.</p>
-    bio_eng: <p>Teresa Olea Molina. born in Granada, Spain, in 1991. Studied
-      Translation and Humanities between the universities of Granada, Poitiers,
-      France, and Curitiba, Brasil. MA in Contemporary Culture from Universidad
-      Complutense de Madrid. Since 2017 she has been working in different
-      culture and artistic areas, ranging from production, curating in the field
-      of the visual arts, to writing and filmmaking. Presently residing in
-      Lisbon, Molina is studying Cinema and Moving Images at Ar.Co.</p>
-    imagem: ""
-  - title: Tiago Bastos Nunes
-    bio_pt: <p>Tiago Bastos Nunes (n. 1999) Artista visual. Realizador. Diretor
-      criativo. Creative Media Learner of the Year 2021, Embaixador Criativo da
-      Pearson Education. O seu trabalho foi apresentado no Canal180, Centro
-      Cultural de Belém, RTP, Fantasporto e MOTELX e no TIFF Bell Lightbox
-      (Toronto, Canadá). Realizador e produtor pós-género para moda, ações
-      sociais e museus, entre os quais a Active Citizens, World Wildlife Fund -
-      WWF, Trienal de Arquitectura de Lisboa, Quantica, Village Underground e
-      MAAT.<br>É um dos criativos do ADVERSA, um estúdio centrado no poder da
-      identidade, estruturado por criativos visionários através de um manifesto
-      de 'ARTE CONTRA TIPO'.</p>
-    bio_eng: <p>Tiago Bastos Nunes (1999) Visual Artist. Director. Creative
-      Director. Creative Media Learner of the Year 2021 and Creative Media
-      Ambassador for Pearson Education. His work has been exhibited at Canal180,
-      Belém Cultural Center, RTP, Fantasporto, MOTELX, and TIFF Bell Lightbox
-      (Toronto, Canada). Award-winning post-genre director and producer for
-      fashion, social actions, and museums such as the Active Citizens program,
-      World Wildlife Fund - WWF, the Lisbon Architecture Triennale, Quantica,
-      Village Underground, and the state-of-the-art museum MAAT – Museum of Art,
-      Architecture and Technology.<br>He is one of the creatives of ADVERSA, a
-      studio centered on the power of identity and structured by visionaries
-      creatives that subscribe to the manifesto 'ART AGAINST TYPE'.</p>
-    imagem: ""
-  - title: Tomás Guedes
-    bio_pt: <p>Tomás Guedes nasceu no Porto no ano de 1998. É na cidade de Valongo
-      que passa a sua infância e adolescência e onde explora desde pequeno
-      várias atividades artísticas desde o teatro, pintura e especialmente
-      vídeo. Com apenas 18 anos, mudou-se para a cidade de Lisboa onde reside
-      até aos dias de hoje. É licenciado em Ciências da Comunicação pela
-      Universidade Nova de Lisboa, tendo ainda passado pelo curso de Comunicação
-      Audiovisual da Universidade Carlos III em Madrid. Atualmente, é aluno do
-      Ar.Co do curso de Cinema/Imagem em Movimento.</p>
-    bio_eng: <p>Tomás Guedes. Born in Porto in 1998. Lived in the city of Valongo as
-      a child and an adolescent. He started, at a very early age, exploring
-      different artistic fields, such as theatre, painting and, especially,
-      video. Guedes moved to Lisbon when he was 18 years old, and has lived
-      there ever since. He graduated in Science Communication from Universidade
-      Nova de Lisboa, frequenting as well the Audiovisual Communication course
-      at Universidade Carlos III in Madrid. Presently, he is studying at Ar.Co,
-      enrolled in the Cinema/Moving Image course.</p>
-    imagem: ""
+  - bio_pt: 'Ufuoma Essi é uma cineasta e artista londrina cujo trabalho abrange
+      filme, imagem em movimento, fotografia e som. O arquivo é uma ferramenta
+      fundamental para abordar a epistemologia feminista negra e a configuração
+      de histórias descontextualizadas, com o objetivo de interrogar e
+      interromper os silêncios e lacunas das narrativas políticas e históricas.
+      Projeções e exposições individuais e coletivas foram recentemente
+      apresentadas em: South London Gallery e Public Gallery, ambas em Londres;
+      Galerie Rudolfinum, Praga; Berwick Film and Media Arts Festival, Berwick,
+      Grã-Bretanha; Lisson Gallery, Londres; Museum of Contemporary Art, Los
+      Angeles, Maysles Documentary Center, Nova York e Black Star Film Festival,
+      em Filadélfia. Exposições individuais recentes e futuras incluem "Is My
+      Living in Vain", Gasworks, Londres (Outono de 2022) e na Te Uru Waitakere
+      Contemporary Gallery, Auckland (2023).'
+    title: Ufuoma Essi
+    bio_eng: Ufuoma Essi is a filmmaker and artist from south-east London whose work
+      spans film, moving image, photography and sound. Using the archive as an
+      essential medium, her work revolves around Black feminist epistemology and
+      the configuration of displaced histories, with the aim of interrogating
+      and disrupting the silences and gaps of political and historical
+      narratives. Recent screenings, solo and group exhibitions include South
+      London Gallery, Public Gallery, London, Galerie Rudolfinum, Prague;
+      Berwick Film and Media Arts Festival, Berwick; Lisson Gallery, London;
+      Museum of Contemporary Art, Los Angeles; Maysles Documentary Center, New
+      York; and Black Star Film Festival, Philadelphia. Recent and upcoming solo
+      exhibitions include Is My Living in Vain at Gasworks, London (Autumn 2022)
+      and Te Uru Waitakere Contemporary Gallery, Auckland (2023).
