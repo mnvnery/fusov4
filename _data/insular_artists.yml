@@ -1,1 +1,17 @@
-artistas: []
+artistas:
+  - bio_pt: "Charles Case nasceu em 1969 na Bélgica, vive e trabalha por toda a
+      parte. É cineasta, fotógrafo e artista. Estudou Comunicação Gráfica em La
+      Chambre e o seu trabalho inspira-se em Dumas, Orozco, Basquiat e Kapoor.
+      Fez os seus primeiros filmes em 1997 e realizou diversas curtas-metragens
+      e instalações: Friday, June 18 (1999), City of London (1999), Man Walking
+      (2004), Atomic Tree (2006), Woman Walking (2006), Inner Eclipse (2012),
+      Guide de politesse à l’attention de nos forces de l’ordre (2014)."
+    title: Charles Case
+    bio_eng: "Charles Case was born in 1969 in Belgium and lives and works all over
+      the place. He is a filmmaker, photographer, and artist. He studied Graphic
+      Communication at La Chambre and his work is inspired by Dumas, Orozco,
+      Basquiat, and Kapoor. He made his first films in 1997 and directed several
+      short films, and installations: Friday, June 18 (1999), City of London
+      (1999), Man Walking (2004), Atomic Tree (2006), Woman Walking (2006),
+      Inner Eclipse (2012), Guide de politesse à l’attention de nos forces de
+      l’ordre (2014)."
