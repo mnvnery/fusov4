@@ -9,61 +9,6 @@ artistas:
       children, youngsters and adults since 2007, using theatre as a personal
       development tool in its pedagogical, therapeutic and social components.
     imagem: ""
-  - title: Carolina Rocha
-    bio_pt: Carolina Rocha é licenciada em dança pela Escola Superior de Dança
-      (2010), incluindo um semestre em Viena no Konservatorium Wien
-      Privatuniversität. Atualmente vive em São Miguel onde é professora de
-      dança, instrutora de Pilates e personal trainer e continua a desenvolver
-      projetos na área da dança, performance e movimento**.**
-    bio_eng: Carolina Rocha was born in the Azores is graduated in Dance at Escola
-      Superior de Dança (ESD) \[Higher School of Dance] in 2010, with a semester
-      at the Konservatorium Wien Privatuniversität, in Vienna. She currently
-      lives in São Miguel where she is a dance teacher, Pilates instructor and
-      Personal Trainer, while continuing to develop projects in the fields of
-      dance, performance and movement.
-    imagem: ""
-  - title: Cristiana Branquinho
-    bio_pt: Cristiana Branquinho tem 20 anos e nasceu em São Miguel. Atualmente
-      estuda Teatro na ESAD em Caldas da Rainha. Em São Miguel estudou no liceu
-      Antero de Quental onde cursou artes visuais.
-    bio_eng: Cristiana Branquinho is 20 years old and was born in São Miguel.  She
-      is currently studying for a degree in Theatre at ESAD in Caldas da Rainha.
-      Previously, she was enrolled at the Antero de Quental high school where
-      she studied visual arts.
-    imagem: ""
-  - title: David Viveiros Meireles
-    bio_pt: David Viveiros Meireles, 28 anos, licenciado em Arte Multimédia na
-      Faculdade de Belas Artes de Lisboa.
-    bio_eng: David Viveiros Meireles, 28 years old, graduated in Multimedia Art at
-      the Faculty of Fine Arts in Lisbon.
-    imagem: ""
-  - title: Diogo Sousa
-    bio_pt: Diogo Sousa nasceu na ilha de Santa Maria, vive e trabalha em São
-      Miguel, Açores. Licenciado em artes plásticas na Esad Caldas da Rainha,
-      trabalha no Arquipélago - Centro de Artes Contemporâneas. Faz registos
-      fotográficos de eventos culturais, residências artísticas e concertos,
-      diluídos num fluxo de registos quotidianos. É parte do colectivo Cactus
-      Sessões
-    bio_eng: Diogo Sousa was born on the island of Santa Maria, lives and works in
-      the island of São Miguel, both in the Azores archipelago. Graduated in
-      fine arts at ESAD CR, Caldas da Rainha School of Arts and Design, in the
-      continent. Presently works at the Archipelago Contemporary Arts Centre.
-      Makes photographic covering of cultural events, residencies, and concerts,
-      diluted in a flow of daily records. Sousa is part of the collective Cactus
-      Sessões.
-    imagem: ""
-  - title: Filipe Freitas
-    bio_pt: Filipe Freitas licenciou-se em Design de Equipamento na faculdade de
-      Lisboa e agora começa os seus estudos na animação 3D e efeitos especiais
-      no mestrado de som e Imagem na Escola das Artes da Universidade católica
-      portuguesa do Porto. Muito do seu trabalho abrange a ficção científica e
-      as criaturas de fantasia.
-    bio_eng: Filipe Freitas graduated in Equipment Design at the Universidade de
-      Lisboa and is now beginning his studies in 3D animation and special
-      effects for his master’s degree in sound and image at the Art School at
-      Universidade Católica do Porto (Porto, Portugal). Much of his work
-      addresses science fiction and fantastic creatures.
-    imagem: ""
   - title: Gabriela Oliveira
     bio_pt: Gabriela Oliveira, nasceu nos Açores onde vive e trabalha. É bióloga
       e gestora ambiental. Foi responsável por projetos de sensibilização
@@ -90,41 +35,6 @@ artistas:
       understandings that question our perception and our potential to juggle
       with it.
     imagem: ""
-  - bio_pt: Inês Vieira é natural dos Açores, São Miguel, sempre mostrou interesse
-      nas artes, o que resultou na participação de aulas de teatro e em
-      workshops de atuação para cinema. É licenciada em Cinema, na Universidade
-      da Beira Interior, com interesse na área da fotografia.
-    bio_eng: Inês Vieira was born in São Miguel, in the Azores. She always
-      demonstrated an interest in the arts, which resulted in her participation
-      in theatre classes and acting workshops for cinema. She has a graduate
-      degree in Cinema from the Universidade da Beira Interior, with a
-      specialization in the field of photography.
-    title: Inês Vieira
-    imagem: ""
-  - title: João Amado
-    bio_pt: João Amado, natural de São Miguel (Açores) e autodidata no universo da
-      arte, é um artista plástico que recorre à técnica da colagem tradicional
-      para compor a estrutura visual e conceptual do seu trabalho. Aborda temas
-      em torno do espírito e da relação do homem com o mundo. No universo do
-      vídeo, o fuso insular representa a sua primeira aventura e reflexo de uma
-      curiosidade em experimentar novas formas de trabalhar e transmitir
-      posições e ideias.
-    bio_eng: João Amado was born on the island of São Miguel, Azores. He is
-      self-taught in the universe of art. He uses the traditional technique of
-      collage to compose the visual and conceptual structure of his work, which
-      addresses themes around the spirit and the relationship of man with the
-      world. FUSO INSULAR represents his first adventure in the realm of video
-      and reflects his curiosity in trying new ways of working and transmitting
-      positions and ideas.
-    imagem: ""
-  - title: John Tokumei
-    bio_pt: John Tokumei gosta de ficar acordado até às tantas a criar coisas novas.
-      Desde a música até o desenho e mais recentemente filmes, Tokumei é um
-      estudante de tudo o que provém da alma.
-    bio_eng: John Tokumei likes to stay up late creating new things. From music to
-      drawing and most recently, films. Tokumei is a student of all that comes
-      from the soul.
-    imagem: ""
   - title: Laura Brasil
     bio_pt: Laura Brasil é uma realizadora açoriana, natural de Angra do
       Heroísmo.Naturalmente desperta para explorar o sentido profundo das coisas
@@ -138,20 +48,6 @@ artistas:
       She graduated in Cinema from the Escola Superior de Teatro e Cinema de
       Lisboa. Currently, she is bringing photography and video together in
       installations.
-    imagem: ""
-  - title: Madalena Correia
-    bio_pt: Madalena Correia é licenciada em Arte Multimédia - Performance e
-      Instalação pela Faculdade de Belas Artes, Universidade de Lisboa. Iniciou
-      a sua atividade como fotógrafa e videasta em 2018, na Produtora de
-      Audiovisuais do Estúdio 13 – Espaço de Indústrias Criativas. Expôs no
-      Instituto Cultural de Ponta Delgada, em julho de 2019 no âmbito da
-      Walk&Talk, a vídeo instalação ‘Loading’.
-    bio_eng: Madalena Correia holds a degree in Multimedia Art - Performance and
-      Installation from the Faculty of Fine Arts, University of Lisbon. Begins
-      her activity as a photographer and video director in 2018, at the
-      Audiovisual Production Company of Studio 13 - Space of Creative
-      Industries. In July 2019, she exhibited the video installation “Loading”,
-      at the Ponta Delgada Cultural Institute, in the framework of Walk & Talk.
     imagem: ""
   - title: Marco Machado
     bio_pt: Marco Machado nasceu no século passado, no ano de 1981. É licenciado em
@@ -179,51 +75,6 @@ artistas:
       Arquipélago – Centro de Artes Contemporâneas, Azores and at the Temps
       d’Images festival in Lisbon.
     imagem: ""
-  - title: Mário Roberto
-    bio_pt: "Mário Roberto nasceu e vive nos Açores. Dedica-se ao desenho, pintura,
-      gravura, fotografia e vídeo. E à escrita literária com contos e crónicas.
-      Já produziu textos para teatro e de vez em quando faz de conta que é
-      actor. Também se arrisca na poesia, mas só quando está apaixonado. Ainda
-      tentou ter profissão como toda a gente, mas sem grande sucesso. Só lhe
-      resta mesmo o que sempre fez: vagabundear pelas artes."
-    bio_eng: "Mário Roberto was born and lives in the Azores. He dedicates himself
-      to drawing, painting, engraving, photography and video. And literary
-      writing with short stories and chronicles. He has written texts for
-      theater and from time to time pretends to be an actor. He also dabbles in
-      poetry, but only when he's in love. He tried to have a profession like
-      everyone else, but without much success. All that's left for him is what
-      he's always done: wander around in the arts."
-    imagem: ""
-  - title: Nina Medeiros
-    bio_pt: Nina Medeiros nasceu em Ponta Delgada em 1963. É licenciada em Artes
-      Plásticas/Pintura no Montserrat College of Art, Massachusetts, e em Art
-      Education na Universidade de Massachusetts – Dartmouth. É docente do
-      agrupamento de Artes Visuais na Escola Secundária Antero de Quental desde
-      1991. Integrou o Serviço Educativo do Museu Carlos Machado entre 2019 e
-      2021. Expõe regularmente desde 1991.
-    bio_eng: Nina Medeiros was born in Ponta Delgada in 1963. She graduated in Fine
-      Arts/Painting at Montserrat College of Art, Massachusetts, and in Art
-      Education at the University of Massachusetts - Dartmouth. Medeiros has
-      been teaching at the Antero de Quental Secondary School since 1991. She
-      held a position at the Educational Service of the Carlos Machado Museum
-      between 2019 and 2021. Exhibits regularly since 1991.
-    imagem: ""
-  - title: Pedro Páscoa
-    bio_pt: Pedro Páscoa, nasceu e viveu a sua infância inteira na ilha de São
-      Miguel nos Açores, com visitas ocasionais a outros países. Licenciado em
-      design de equipamento na Faculdade de Belas-Artes da Universidade de
-      Lisboa, desenvolveu um pequeno trabalho de motion graphics (ANIMA) com
-      algum reconhecimento na plataforma Behance, que o fez relembrar que o
-      vídeo e as artes digitais são uma paixão de longa data, na qual pretende
-      continuar a investir.
-    bio_eng: Pedro Páscoa was born and lived his entire childhood on the island of
-      São Miguel in the Azores, with occasional visits to other countries.
-      Graduated in equipment design at the Faculty of Fine Arts of the
-      University of Lisbon, he developed a small motion graphics work (ANIMA),
-      recognized by the Behance platform, which made him remember that video and
-      digital arts are a long-standing passion, in which he intends to continue
-      investing.
-    imagem: ""
   - title: Rodrigo Mota
     bio_pt: Rodrigo Mota nasceu na ilha de São Miguel em 1996. Tirou um curso em
       2018/19 de Realização de Cinema e Televisão na ETIC em Lisboa. Atualmente
@@ -231,34 +82,6 @@ artistas:
     bio_eng: Rodrigo Mota was born on the island of São Miguel, Azores, in 1996. He
       took a course in Film and Television at ETIC in Lisbon, in 2018/19.
       Currently he is a freelancer in the fields of video and photography.
-    imagem: ""
-  - title: Sara Brum
-    bio_pt: Sara Brum nasceu no Algarve, cresceu em Espanha e estendeu suas raízes
-      na ilha Terceira. Investiga o visual, a palavra e o corpo a partir de uma
-      perspectiva relacional, simbólica, íntima, cotidiana e feminista na
-      esperança de que suas imagens sejam canais e espaços de encontro para o
-      crescimento mútuo.
-    bio_eng: Sara Brum was born in the Algarve, grew up in Spain and extends her
-      roots to the island of Terceira. She conducts research in visuals, the
-      word, and the body, from a relational, symbolic, intimate, every day and
-      feminist perspective, in the hope that her images are channels and meeting
-      spaces for mutual growth.
-    imagem: ""
-  - title: Sara Leal
-    bio_pt: Sara Leal nasceu no Porto, cresceu nos Açores, estudou e trabalhou em
-      Lisboa e depois em Nova Iorque. Regressou à ilha Terceira onde tem
-      desenvolvido trabalho sobretudo no cinema. Autora de uma longa metragem
-      sobre a Fajã de Santo Cristo, e outra sobre o Carnaval da Ilha Terceira.
-      Fundou a produtora Alga Viva, com Nuno Costa Santos, e iniciaram uma
-      colecção de filmes sobre autores açorianos. Faz videoinstalação e
-      fotografia, que raramente mostra, e escreve.
-    bio_eng: Sara Leal was born in Porto, grew up in the Azores, studied and worked
-      in Lisbon and later in New York. She returned to the islands where she has
-      been working mainly in cinema. She is the author of a feature film about
-      Fajã de Santo Cristo, and another about the Carnival on Terceira Island.
-      She founded the production company Alga Viva, with Nuno Costa Santos, and
-      they started a collection of films about Azorean authors. She makes video
-      installations and photography, which she rarely shows, and writes.
     imagem: ""
   - title: Sara Massa
     bio_pt: Sara Massa é micaelense, mas não gosta de laranjada, gosta de estar
@@ -709,3 +532,29 @@ artistas:
 
 
       He currently lives and works in Lisbon.
+  - bio_pt: "Mariana Lacerda, nascida no Recife, vive e trabalha em São Paulo.
+      Cineasta e documentarista, aborda nos seus filmes temas como: memória,
+      meio ambiente, indigenismo, violência, feminismo. Realizou alguns filmes
+      de curta duração, e dirigiu episódios de série para TV. A sua primeira
+      longa-metragem chama-se Gyuri (2020), sobre o encontro de Claudia Andujar
+      e Davi Kopenawa e a demarcação da Terra Indígena Yanomami, na Amazônia.
+      Dirigiu a série infantil Histórias de Fantasmas Verdadeiros para Crianças,
+      sobre a ditadura militar brasileira. Os seus filmes participaram de
+      mostras de cinema e exposições no México, Holanda, Lituânia, França,
+      Espanha, Estados Unidos, Itália e Portugal. Colabora com o Instituto
+      Socioambiental (ISA, em São Paulo) e com o Movimento Sem Teto do Centro
+      (MSTC, em São Paulo)."
+    title: Mariana Lacerda
+    bio_eng: "Mariana Lacerda was born in Recife. She lives and works in São Paulo.
+      Filmmaker and documentarist, she addresses in her films subjects such as:
+      memory, environment, Indigenism, violence, and feminism. She has directed
+      short films and episodes for a TV series. Her first feature film, called
+      *Gyuri* (2020), is about the encounter of Claudia Andujar with Davi
+      Kopenawa, and the demarcation of Yanomami Indigenous Lands in the Amazon.
+      Lacerda directed the TV series *Histórias de Fantasmas Verdadeiros para
+      Crianças* (True Ghost Stories for Children), about the Brazilian military
+      dictatorship. Her films have been shown in festivals and in exhibitions in
+      Mexico, The Netherlands, Lithuania, France, Spain and Portugal. She
+      collaborates with the Instituto Socioambiental (ISA, the
+      Socio-Environmental Institute), and the  Movimento Sem Teto do Centro
+      (MSTC, the Movement to End Homelessness), both based in São Paulo."
