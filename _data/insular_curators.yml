@@ -72,6 +72,16 @@ curadores:
 
       Jean-François Chougnet is a curator and consultant on museum projects.
     retrato: assets/img/foto-jean-francois-chougnet.png
+  - title: Daniel Blaufuks
+    bio_pt: Daniel Blaufuks utiliza no seu trabalho a fotografia e o vídeo,
+      apresentando o resultado através de livros, instalações e filmes. Os seus
+      temas de predilecção são a ligação entre o tempo e o espaço e a
+      representação da memória privada e pública.
+    bio_eng: Daniel Blaufuks uses mainly photography and video, presenting his work
+      through books, installations and films. He has a predilection for issues
+      such as the connection between time and space and the intersection between
+      private and public memory.
+    retrato: /assets/img/daniel.jpeg
   - title: "André Laranjinha "
     bio_pt: "André Laranjinha (n. 1977) vive e trabalha em São Miguel. É formado em
       Belas-Artes pela Universidade de Lisboa e desenvolve trabalhos em cinema,
@@ -88,13 +98,3 @@ curadores:
       Clarissas (2016); Bread (2014); Slaughter (2011); Negro Island (2010);
       Nature and Ingeniousness (2009) and Pilgrimages from São Miguel (2009)."
     retrato: assets/img/foto.jpeg
-  - title: Daniel Blaufuks
-    bio_pt: Daniel Blaufuks utiliza no seu trabalho a fotografia e o vídeo,
-      apresentando o resultado através de livros, instalações e filmes. Os seus
-      temas de predilecção são a ligação entre o tempo e o espaço e a
-      representação da memória privada e pública.
-    bio_eng: Daniel Blaufuks uses mainly photography and video, presenting his work
-      through books, installations and films. He has a predilection for issues
-      such as the connection between time and space and the intersection between
-      private and public memory.
-    retrato: /assets/img/daniel.jpeg
