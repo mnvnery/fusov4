@@ -60,10 +60,12 @@
         </div>
     </div>
 </div>
-        <div class="border border-dark border-2 border-bottom-0 background-white">
+        <!--
+<div class="border border-dark border-2 border-bottom-0 background-white">
     <img src="/assets/img/2023/FUSO_DESKTOP_LABORATORIO.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red desktop">
     <img src="/assets/img/2023/FUSO_MOBILE_LAB.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red mobile">
 </div>
+-->
 <div class="border border-dark border-2">
     <img src="/assets/img/2023/FUSO_DESKTOP_INSULAR.jpg" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 desktop">
     <img src="/assets/img/2023/FUSO_MOBILE_INSULAR.jpg" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 mobile">
@@ -71,38 +73,6 @@
 <!--
 <div class="fuso mx-3 mb-3 fuso-programs">
     
-    
-    <a href="/insular_programas/nos-ser-o-outro-para-uma-poetica-do-relacionamento/"><div class="border border-2 border-dark mx-2 mb-3 position-relative programa-container">
-        <img src="/assets/img/allthatburns_clean-00_06_08_03-still069.jpg" alt="imagem-evento" class="h-100 w-100 object-fit-cover saturate">
-        <div class="position-absolute d-flex top-0 left-0 text-red p-3 gradient w-100">
-            <h1 class="font-rossa prog-title">27<br>Outubro</h1>
-            <h5 class="ms-5 w-md-25">Nós ser o outro: para uma poética do relacionamento</h5>
-        </div>
-    </div></a>
-    
-    <a href="/insular_programas/open-call-fuso-lisboa-obras-selecionadas/"><div class="border border-2 border-dark mx-2 mb-3 position-relative programa-container">
-        <img src="/assets/img/os-antilopes-maxime-martinot.png" alt="imagem-evento" class="h-100 w-100 object-fit-cover saturate">
-        <div class="position-absolute d-flex top-0 left-0 text-red p-3 gradient w-100">
-            <h1 class="font-rossa prog-title">28<br>Outubro</h1>
-            <h5 class="ms-5 w-md-25">Open Call FUSO Lisboa – obras selecionadas</h5>
-        </div>
-    </div></a>
-    
-    <a href="/insular_programas/laboratorio-imagem-em-movimento/"><div class="border border-2 border-dark mx-2 mb-3 position-relative programa-container">
-        <img src="/assets/img/itinerario2.jpg" alt="imagem-evento" class="h-100 w-100 object-fit-cover saturate">
-        <div class="position-absolute d-flex top-0 left-0 text-red p-3 gradient w-100">
-            <h1 class="font-rossa prog-title">29<br>Outubro</h1>
-            <h5 class="ms-5 w-md-25">Laboratório Imagem em Movimento </h5>
-        </div>
-    </div></a>
-    
-    <a href="/insular_programas/ciclo-de-cinema-de-autor/"><div class="border border-2 border-dark mx-2 mb-3 position-relative programa-container">
-        <img src="/assets/img/captura-de-tela-2022-09-05-as-18-43-07.png" alt="imagem-evento" class="h-100 w-100 object-fit-cover saturate">
-        <div class="position-absolute d-flex top-0 left-0 text-red p-3 gradient w-100">
-            <h1 class="font-rossa prog-title">30<br>Outubro</h1>
-            <h5 class="ms-5 w-md-25">Ciclo de Cinema de Autor</h5>
-        </div>
-    </div></a>
     
 </div>    
 -->
@@ -115,7 +85,7 @@
         var Logo = document.querySelector(".site-title")
         var logoContainer = document.querySelector(".insular-nav")
         var insularSection = document.querySelector(".insular-section")
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
             Logo.classList.remove("w-100");
             logoContainer.classList.remove("flex-column");
             insularSection.classList.remove("insular-full-width");
