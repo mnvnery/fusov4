@@ -49,11 +49,13 @@
         </div>
     </div>
 </div>
-        <div class="border border-dark border-2 border-bottom-0 background-white">
+        <!--
+<div class="border border-dark border-2 border-bottom-0 background-white">
     <img src="/assets/img/2023/FUSO_DESKTOP_OPEN CALL_eng.jpg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022" class="w-100 desktop">
     <img src="/assets/img/2023/FUSO_MOBILE_OPEN_CALL-eng.jpg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022" class="w-100 mobile">
     
 </div>
+-->
 <div class="border border-dark border-2">
     <img src="/assets/img/2023/FUSO_DESKTOP_eng.jpg" alt="Fuso 2022 23 a 28 de Agosto" class="w-100 desktop">
     <img src="/assets/img/2023/FUSO_MOBILE_eng.jpg" alt="Fuso 2022 23 a 28 de Agosto" class="w-100 mobile">
@@ -128,7 +130,7 @@ window.onscroll = function() {
 function growShrinkLogo() {
     var Logo = document.querySelector(".site-title")
     var navbar = document.querySelector(".navbar-container")
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
         Logo.classList.remove("w-100");
         
     } else {

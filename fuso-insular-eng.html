@@ -1,10 +1,12 @@
 ---
 layout: fuso-insular-eng
 ---
+<!--
 <div class="border border-dark border-2 border-bottom-0 background-white">
     <img src="{{site.baseurl}}/assets/img/2023/FUSO_DESKTOP_LABORATORIO_eng.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red desktop">
     <img src="{{site.baseurl}}/assets/img/2023/FUSO_MOBILE_LAB-eng.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red mobile">
 </div>
+-->
 <div class="border border-dark border-2">
     <img src="{{site.baseurl}}/assets/img/2023/FUSO_DESKTOP_INSULAR_eng.jpg" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 desktop">
     <img src="{{site.baseurl}}/assets/img/2023/FUSO_MOBILE_INSULAR_eng.jpg" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 mobile">
@@ -32,7 +34,7 @@ layout: fuso-insular-eng
         var Logo = document.querySelector(".site-title")
         var logoContainer = document.querySelector(".insular-nav")
         var insularSection = document.querySelector(".insular-section")
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
             Logo.classList.remove("w-100");
             logoContainer.classList.remove("flex-column");
             insularSection.classList.remove("insular-full-width");

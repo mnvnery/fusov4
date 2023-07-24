@@ -135,7 +135,7 @@ a:hover { color: inherit; }
 
 .online-btn:hover { color: #fff22d; }
 
-@media only screen and (min-width: 600px) { .desktop { display: block; } .mobile { display: none; } .w-70 { width: 70%; } }
+@media only screen and (min-width: 600px) { .desktop { display: block; } .mobile { display: none; } .w-70 { width: 70%; } #footer { margin-bottom: 10vh !important; } }
 
 @media only screen and (max-width: 600px) { .desktop { display: none !important; } .mobile { display: block !important; } .hero-insular { width: 100%; } .insular-title { font-size: 1.5em; } .esfera-insular-mobile { width: 55%; margin-bottom: -5px; } .font-larger { font-size: 1.5em; } .mobile-45-logo { height: 44vh; } .esfera-1 { width: 100%; float: left; } .fuso-index-dates { margin-top: -18%; } .fuso-banner { height: auto; } .fuso-insular-banner { padding-bottom: 15vh !important; } .title2-size { font-size: 12vw; } }
 
