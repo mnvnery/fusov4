@@ -99,7 +99,7 @@ p { line-height: 1.6em; }
 
 .financing-logo { height: 88px; }
 
-@media only screen and (min-width: 1024px) { .logos-footer { margin-left: 20vw; } .partners-logo-footer { height: 50px; } }
+@media only screen and (min-width: 1024px) { .logos-footer { margin-left: 18vw; } .partners-logo-footer { height: 50px; } }
 
 @media only screen and (max-width: 1024px) { .logos-footer { margin-top: 2em; } }
 
