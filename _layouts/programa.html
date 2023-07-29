@@ -15,7 +15,7 @@ layout: fuso
             </h5>
             <h5 class="me-3 me-md-5">
                 <u>Local</u> <br>
-                <div class="hover-red">{{ page.local }}</div>
+                <div class="hover-red">{{ page.local | markdownify }}</div>
             </h5>
         </div>
     </div>
@@ -25,7 +25,7 @@ layout: fuso
         {{page.texto_curatorial | markdownify }}
     </div>
 </div>
-{% unless page.title == 'WARM UP FUSO Resiliência.  Esperança. Comunidade.' %}
+{% unless page.title == "Conversa Aberta" %}
 <div class="border border-top border-black"></div>
 <h5 class="text-center mt-3 mb-4">NESTA SESSÃO</h5>
 {% endunless %}

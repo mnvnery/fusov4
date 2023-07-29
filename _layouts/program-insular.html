@@ -15,7 +15,7 @@ layout: fuso-insular-eng
             </h5>
             <h5 class="me-3 me-md-5">
                 <u>Location</u> <br>
-                <div class="hover-white">{{ page.local }}</div>
+                <div class="hover-white">{{ page.local | markdownify }}</div>
             </h5>
             
         </div>
@@ -26,7 +26,7 @@ layout: fuso-insular-eng
         {{page.texto_curatorial_eng | markdownify}}
     </div>
 </div>
-{% unless page.title == "WARM UP FUSO Resiliência.  Esperança. Comunidade." %}
+{% unless page.title == "Conversa Aberta  " %}
 <div class="border border-top border-dark"></div>
 <h5 class="text-center mt-3 mb-4">ON THIS SESSION</h5>
 {% endunless %}

@@ -9,7 +9,6 @@ intro: 'Todos os anos são convidados curadores Portugueses e internacionais, qu
         {% for curator in site.data.fuso_curators.curadores %}
             <div id="{{curator.title | slugify }}" class="curator-text">{{curator.bio_pt| markdownify }}</div>
         {% endfor %}
-        <img src="/assets/img/esfera_coral_3.gif" alt="Esfera" class="curators-esfera">
     </div>
     <div class="w-md-50 mt-4 mt-md-0">
         <div class="event-grid">
