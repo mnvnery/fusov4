@@ -26,10 +26,8 @@
 
 // artistas
 .flex-artistas
-    display: flex
-    flex-direction: column
-    flex-wrap: wrap
-    max-height: 76vh
+    display: grid
+    grid-template-columns: 1fr 1fr
 
 .flex-artistas-insular
     max-height: 45vh
@@ -40,10 +38,6 @@
 
 .curator-btn
     cursor: pointer
-
-@media only screen and (min-width: 600px and max-width: 1300px) 
-.flex-artistas
-    max-height: 85vh
 
 
 @media only screen and (max-width: 600px) 
