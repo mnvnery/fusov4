@@ -3,7 +3,7 @@ layout: fuso-insular-eng
 ---
 <div class="d-md-flex mx-4 mb-3">
     <div class="h-100 me-3 w-md-50 mb-4">
-        <img src="{{site.baseurl}}/{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate mb-3 max-height-60">
+        <img src="{{site.baseurl}}{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate mb-3 max-height-60">
         <div class="d-flex programa-info">
             <h5 class="me-3 me-md-5">
                 <u>Curator</u><br>
@@ -35,7 +35,7 @@ layout: fuso-insular-eng
     {% assign these_events = site.insular_events | where:'programa', this_session %}
     {% for evento in these_events  %}
     <div class="border border-dark mx-2 mb-5 programa-container programa-margin">
-        <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+        <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
         <div class="d-flex mt-2">
             <h5 class="text-uppercase me-5">{{ evento.title_eng }}</h5>
             <h5>{{ evento.artista }}</h5>

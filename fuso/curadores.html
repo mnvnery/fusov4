@@ -15,7 +15,7 @@ intro: 'Todos os anos são convidados curadores Portugueses e internacionais, qu
         <div class="event-grid">
             {% for curator in site.data.fuso_curators.curadores %}
             <div class="curator-btn mx-md-2" data-curator="{{curator.title | slugify }}">
-                    <img src="{{site.baseurl}}/{{curator.retrato}}" alt="{{curator.title}}" class="w-100 programa-container h-25vh object-fit-cover curators-position saturate">
+                    <img src="{{site.baseurl}}{{curator.retrato}}" alt="{{curator.title}}" class="w-100 programa-container h-25vh object-fit-cover curators-position saturate">
                 <p class="mb-1 curator-title">{{ curator.title }}</p>
                 <div class="mobile">{{ curator.bio_pt | markdownify }}</div>
             </div>
