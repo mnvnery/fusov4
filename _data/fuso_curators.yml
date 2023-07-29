@@ -39,7 +39,7 @@ curadores:
       was president of the Musée des Civilizations de l’Europe et de la
       Méditerranée (Mucem), in Marseille, France. Jean-François Chougnet is a
       curator and consultant on museum projects.
-    retrato: assets/img/foto-jean-francois-chougnet.png
+    retrato: /assets/img/foto-jean-francois-chougnet.png
   - title: Pascale Cassagnau
     bio_pt: >-
       Pascale Cassagnau é doutorada em História da Arte, crítica de arte e,
@@ -162,7 +162,7 @@ curadores:
       juries, funding panels, symposia, and advisory boards. She currently
       serves on the Advisory Committees of Times Square Arts and Collaborative
       Cataloging Japan, and as Director Emerita of EAI.
-    retrato: assets/img/foto-lori-zippay-hauteliving-magazine.jpg
+    retrato: /assets/img/foto-lori-zippay-hauteliving-magazine.jpg
   - title: Rachel Korman
     bio_pt: >-
       Rachel Korman é coordenadora geral e curatorial do FUSO - Festival
@@ -243,4 +243,4 @@ curadores:
       recently released the book <em>Não Dá Para Ficar Parado</em>, where music
       is the starting point, but only because it includes everything else. He
       worked for The Público newspaper for more than twenty years.
-    retrato: assets/img/foto-mediador-vitor-belanciano-copyright_.jpg
+    retrato: /assets/img/foto-mediador-vitor-belanciano-copyright_.jpg
