@@ -36,7 +36,7 @@ layout: fuso-insular-eng
     {% for evento in these_events  %}
     <div class="border border-dark mx-2 mb-5 programa-container programa-margin">
         <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
-        <div class="d-flex mt-2">
+        <div class="d-flex justify-content-between mt-2">
             <h5 class="text-uppercase me-5">{{ evento.title_eng }}</h5>
             <h5>{{ evento.artista }}</h5>
         </div>
