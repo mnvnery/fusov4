@@ -157,7 +157,7 @@ collections:
       - {label: 'Texto Curatorial ENG', name: texto_curatorial_eng, required: false, widget: markdown, modes: [rich_text]}
       - {name: imagem, widget: image, label: 'Imagem'}
       - {name: link_vimeo, widget: string, label: 'Link Vimeo'}
-      - {name: layout, widget: hidden, default: 'programa', label: 'Layout'}
+      - {name: layout, widget: hidden, default: 'programa-insular', label: 'Layout'}
   - name: 'insular_eventos'
     label: 'Eventos Insular'
     folder: '_insular_eventos'
@@ -178,4 +178,4 @@ collections:
       - {label: 'Synopsis', name: sinopse_eng, required: false, widget: markdown, modes: [rich_text]}
       - {name: imagem, widget: image, label: 'Imagem'}
       - {name: credito_imagem, widget: string, label: 'Crédito Imagem'}
-      - {name: layout, widget: hidden, default: 'evento', label: 'Layout'}
+      - {name: layout, widget: hidden, default: 'evento-insular', label: 'Layout'}
