@@ -139,7 +139,7 @@ collections:
       - {name: layout, widget: hidden, default: 'evento', label: 'Layout'}
   - name: 'insular_programs'
     label: 'Programas Insular'
-    folder: '_insular_programs'
+    folder: '_insular_programas'
     create: true
     extension: html
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
