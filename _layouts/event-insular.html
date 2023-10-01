@@ -5,7 +5,7 @@ layout: fuso-insular-eng
 <div class="mx-4 mb-3">
     <div class="h-100 me-3">
         <div class="position-relative">
-            <img src="{{site.baseurl}}/{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover mb-3 max-height-60">
+            <img src="{{site.baseurl}}{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover mb-3 max-height-60">
             <p class="position-absolute bottom-0 left-0 text-white px-2 py-1"></p>
         </div>
         <div class="d-md-flex">
@@ -40,7 +40,7 @@ layout: fuso-insular-eng
     {% for evento in these_events  %}
         {% if evento.title != page.title %}
         <div class="border border-dark mx-2 mb-5 programa-container programa-margin">
-            <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+            <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
             <div class="d-flex justify-content-between mt-2">
                 <h5 class="text-uppercase w-md-50 me-5">{{ evento.title }}</h5>
                 <h5>{{ evento.artista }}</h5>

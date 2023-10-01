@@ -71,7 +71,7 @@ curadores:
       Méditerranée (Mucem), in Marseille, France. \
 
       Jean-François Chougnet is a curator and consultant on museum projects.
-    retrato: assets/img/foto-jean-francois-chougnet.png
+    retrato: /assets/img/foto-jean-francois-chougnet.png
   - title: "André Laranjinha "
     bio_pt: "André Laranjinha (n. 1977) vive e trabalha em São Miguel. É formado em
       Belas-Artes pela Universidade de Lisboa e desenvolve trabalhos em cinema,
@@ -87,7 +87,7 @@ curadores:
       Garcia.</p><p>Among his films are: Wine (2018); Stone Walls (2017);
       Clarissas (2016); Bread (2014); Slaughter (2011); Negro Island (2010);
       Nature and Ingeniousness (2009) and Pilgrimages from São Miguel (2009)."
-    retrato: assets/img/foto.jpeg
+    retrato: /assets/img/foto.jpeg
   - title: Isabel Nogueira
     bio_pt: "Isabel Nogueira (n. 1974) é doutorada em Belas-Artes, especialização em
       Ciências da Arte (Universidade de Lisboa) e pós-doutorada em História e
