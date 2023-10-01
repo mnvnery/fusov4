@@ -1,11 +1,11 @@
 - text: sobre
   url: /fuso-insular/sobre/
-#- text: programa
-#  url: /fuso-insular/programa/
-#- text: curadores
-#  url: /fuso-insular/curadores/
-#- text: artistas
-#  url: /fuso-insular/artistas/
+- text: programa
+  url: /fuso-insular/programa/
+- text: curadores
+  url: /fuso-insular/curadores/
+- text: artistas
+  url: /fuso-insular/artistas/
 - text: laboratório
   url: /fuso-insular/laboratorio/
 
