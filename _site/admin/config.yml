@@ -20,6 +20,16 @@ collections:
           - {label: 'Data Fuso Insular', name: insular_data, widget: string}
           - {label: 'Mês Fuso Insular', name: insular_mes, widget: string}
           - { label: 'Côr', name: colour, widget: color }
+          - label: 'Imagens Fuso Pre'
+            name: imagens_fuso_pre
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Imagens Insular Pre'
+            name: imagens_insular_pre
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
       - label: 'Sobre'
         name: 'sobre'
         file: '_data/sobre-fuso.yml'
