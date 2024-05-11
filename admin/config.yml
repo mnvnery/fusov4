@@ -69,7 +69,20 @@ collections:
               - {name: title, widget: string, label: 'Nome'}
               - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
-              
+      - label: 'Parceiros Fuso'
+        name: parceiros-fuso
+        file: '_data/parceiros-footer.yml'
+        fields: 
+          - label: 'Produção'
+            name: producao
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Financiamento'
+            name: financiamento
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
   - name: 'paginas_insular'
     label: 'Páginas Insular'
     editor:
