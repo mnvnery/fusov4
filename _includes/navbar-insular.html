@@ -1,4 +1,4 @@
-<div class="p-4 pb-0 mb-0 d-flex align-items-start justify-content-between align-items-start flex-xl-column navbar-container bg-red ps-xl">
+<div style="background-color: {{ site.data.index.colour }} !important;" class="p-4 pb-0 mb-0 d-flex align-items-start justify-content-between align-items-start flex-xl-column navbar-container ps-xl">
     <a href="{{site.baseurl}}/" class="insular-nav d-flex w-100 fuso-insular-nav-mobile {% if page.url == '/fuso-insular/' %} flex-column {% endif %}">
         <img src="{{ site.baseurl }}/assets/img/logo.svg" alt="Fuso" class="site-title {% if page.url == '/fuso-insular/' %} w-100 {% endif %}">
         <div class="d-flex justify-content-between insular-section {% if page.url == '/fuso-insular/' %} insular-full-width {% endif %}">
@@ -13,17 +13,24 @@
     </a>
     <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
         <div class="nav-flex align-items-center">
-        {% for nav in site.data.navigation-fuso-insular limit:1 %}
-            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item-first {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
-            <div class="mx-1 desktop-nav">/</div>
-        {% endfor %}
-        {% for nav in site.data.navigation-fuso-insular offset:1 %}
-            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
-            <div class="mx-1 desktop-nav">/</div>
-        {% endfor %}
+            {% if site.data.index.fase == 0 %}
+                {% assign navigation_data = site.data.navigation-fuso-insular-pre %}
+            {% else %}
+                {% assign navigation_data = site.data.navigation-fuso-insular %}
+            {% endif %}
+            
+            {% for nav in navigation_data limit:1 %}
+                <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item-first {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
+                <div class="mx-1 desktop-nav">/</div>
+            {% endfor %}
+            
+            {% for nav in navigation_data offset:1 %}
+                <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
+                <div class="mx-1 desktop-nav">/</div>
+            {% endfor %}
         </div>
         <br class="mobile-nav">
-        <a href="{{ site.baseurl }}/fuso/"><div class="switch-button py-1 px-lg-3 switch-btn-insular navbar-btn-mobile">FUSO</div></a>
+        <a href="{{ site.baseurl }}/fuso/"><div style="color: {{ site.data.index.colour }}" class="switch-button py-1 px-lg-3 switch-btn-insular navbar-btn-mobile">FUSO</div></a>
         <br class="mobile-nav">
         {% assign match = site.data.nav-matches | where: "pt-version", page.url %}
         {% for nav in match %}

@@ -1,12 +1,22 @@
 producao:
-- '/assets/img/producao.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 financiamento:
-- '/assets/img/financing.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 institucional:
-- '/assets/img/institutional.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 partner:
-- '/assets/img/apoio.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 media:
-- '/assets/img/divulgacao.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 hosts:
-- '/assets/img/hosts.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'

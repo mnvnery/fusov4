@@ -77,9 +77,9 @@ p { line-height: 1.6em; }
 
 .nav-item-first { font-size: 1.8em; }
 
-.switch-button { background-color: #fff22d; border: 2px solid #fff22d; border-radius: 50%; text-align: center; margin-bottom: 2vh; }
+.switch-button { border: 2px solid; border-radius: 50%; text-align: center; margin-bottom: 2vh; }
 
-.switch-button:hover { background-color: transparent !important; border: 2px solid #fff22d; color: #fff22d; }
+.switch-button:hover { background-color: transparent !important; border: 2px solid; color: black !important; }
 
 .switch-btn-insular { border: 2px solid black; }
 
@@ -99,7 +99,7 @@ p { line-height: 1.6em; }
 
 .financing-logo { height: 88px; }
 
-@media only screen and (min-width: 1024px) { .logos-footer { margin-left: 18vw; } .partners-logo-footer { height: 58px; } }
+@media only screen and (min-width: 1024px) { .logos-footer { margin-left: 18vw; } .partners-logo-footer { height: 32px; } }
 
 @media only screen and (max-width: 1024px) { .logos-footer { margin-top: 2em; } }
 

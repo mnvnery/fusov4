@@ -11,6 +11,15 @@ collections:
     editor:
       preview: false
     files:
+      - label: 'Geral'
+        name: geral
+        file: '_data/index.yml'
+        fields: 
+          - {label: 'Data Fuso', name: fuso_data, widget: string}
+          - {label: 'Mês Fuso', name: fuso_mes, widget: string}
+          - {label: 'Data Fuso Insular', name: insular_data, widget: string}
+          - {label: 'Mês Fuso Insular', name: insular_mes, widget: string}
+          - { label: 'Côr', name: colour, widget: color }
       - label: 'Sobre'
         name: 'sobre'
         file: '_data/sobre-fuso.yml'
@@ -139,7 +148,7 @@ collections:
       - {name: layout, widget: hidden, default: 'evento', label: 'Layout'}
   - name: 'insular_programs'
     label: 'Programas Insular'
-    folder: '_insular_programs'
+    folder: '_insular_programas'
     create: true
     extension: html
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -157,7 +166,7 @@ collections:
       - {label: 'Texto Curatorial ENG', name: texto_curatorial_eng, required: false, widget: markdown, modes: [rich_text]}
       - {name: imagem, widget: image, label: 'Imagem'}
       - {name: link_vimeo, widget: string, label: 'Link Vimeo'}
-      - {name: layout, widget: hidden, default: 'programa', label: 'Layout'}
+      - {name: layout, widget: hidden, default: 'programa-insular', label: 'Layout'}
   - name: 'insular_eventos'
     label: 'Eventos Insular'
     folder: '_insular_eventos'
@@ -178,4 +187,4 @@ collections:
       - {label: 'Synopsis', name: sinopse_eng, required: false, widget: markdown, modes: [rich_text]}
       - {name: imagem, widget: image, label: 'Imagem'}
       - {name: credito_imagem, widget: string, label: 'Crédito Imagem'}
-      - {name: layout, widget: hidden, default: 'evento', label: 'Layout'}
+      - {name: layout, widget: hidden, default: 'evento-insular', label: 'Layout'}

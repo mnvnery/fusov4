@@ -11,6 +11,15 @@ collections:
     editor:
       preview: false
     files:
+      - label: 'Geral'
+        name: geral
+        file: '_data/index.yml'
+        fields: 
+          - {label: 'Data Fuso', name: fuso_data, widget: string}
+          - {label: 'Mês Fuso', name: fuso_mes, widget: string}
+          - {label: 'Data Fuso Insular', name: insular_data, widget: string}
+          - {label: 'Mês Fuso Insular', name: insular_mes, widget: string}
+          - { label: 'Côr', name: colour, widget: color }
       - label: 'Sobre'
         name: 'sobre'
         file: '_data/sobre-fuso.yml'

@@ -1,10 +1,17 @@
 producao:
-- '/assets/img/producao.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 financiamento:
-- '/assets/img/financing_insular.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 co-prod:
-- '/assets/img/co-prod.png'
+- '/assets/img/2-dgartes.jpg'
 parceria:
-- '/assets/img/parceria_insular.png'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
+- '/assets/img/2-dgartes.jpg'
+- '/assets/img/3-EGEAC.jpg'
 apoio:
-- '/assets/img/apoio-insular.png'
+- '/assets/img/2-dgartes.jpg'
