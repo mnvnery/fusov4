@@ -3,6 +3,22 @@ fuso_mes: Agosto
 insular_data: 26 — 28
 insular_mes: Outubro
 colour: rgb(8,266,8)
-imagens_fuso_pre:
-imagens_insular_pre:
 fase: 0
+imagens_fuso_pre:
+  - image: /assets/img/fuso_2024_site_desktop_imagem_1_pt.jpg
+    lang: pt
+  - image: /assets/img/fuso_2024_site_desktop_imagem_1.jpg
+    lang: eng
+  - image: /assets/img/fuso_imagem_2.jpg
+    lang: pt
+  - image: /assets/img/fuso_imagem_2_eng.jpg
+    lang: eng
+imagens_insular_pre:
+  - image: /assets/img/insular_2024_site_desktop_imagem_1.jpg
+    lang: pt
+  - image: /assets/img/insular_2024_site_desktop_imagem_1_eng.jpg
+    lang: eng
+  - image: /assets/img/insular_imagem_2_eng.jpg
+    lang: pt
+  - image: /assets/img/insular_imagem_2.jpg
+    lang: eng
