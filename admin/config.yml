@@ -20,28 +20,47 @@ collections:
           - {label: 'Data Fuso Insular', name: insular_data, widget: string}
           - {label: 'Mês Fuso Insular', name: insular_mes, widget: string}
           - { label: 'Côr', name: colour, widget: color }
+          - label: 'Fase'
+            name: fase
+            widget: select
+            options: 
+              - { label: "Pré-Programa", value: 0 }
+              - { label: "Programa", value: 1 }
+              - { label: "Pós-Programa", value: 2 }
           - label: 'Imagens Fuso Pre'
             name: imagens_fuso_pre
             widget: list
             summary: '{{fields.image}}'
-            field: {label: Image, name: image, widget: image}
+            fields: 
+              - {label: Image, name: image, widget: image}
+              - {label: Lingua, name: lang, widget: select,  options: ["eng", "pt"]}
           - label: 'Imagens Insular Pre'
             name: imagens_insular_pre
             widget: list
             summary: '{{fields.image}}'
-            field: {label: Image, name: image, widget: image}
+            fields: 
+              - {label: Image, name: image, widget: image}
+              - {label: Lingua, name: lang, widget: select,  options: ["eng", "pt"]}
       - label: 'Sobre'
         name: 'sobre'
         file: '_data/sobre-fuso.yml'
         fields: 
           - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
           - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
+          - label: 'Ficha Técnica'
+            name: ficha_tecnica
+            widget: list
+            fields:
+              - {name: title_pt, widget: string, label: 'Titulo PT'}
+              - {name: title_eng, widget: string, label: 'Titulo ENG'}
+              - {name: name, widget: string, label: 'Nome'}
       - label: 'Open Call'
         name: 'open_call'
         file: '_data/open-call.yml'
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
           - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
+          - {name: image, widget: image, label: 'Imagem'}
       - label: 'Curadores'
         name: curadores
         file: '_data/fuso_curators.yml'
@@ -71,6 +90,7 @@ collections:
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
       - label: 'Parceiros Fuso'
         name: parceiros-fuso
+        hint: 'tamanho recomendado: 245×130'
         file: '_data/parceiros-footer.yml'
         fields: 
           - label: 'Produção'
@@ -80,6 +100,56 @@ collections:
             field: {label: Image, name: image, widget: image}
           - label: 'Financiamento'
             name: financiamento
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Parceria Institucional'
+            name: institucional
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Apoio'
+            name: partner
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Apoio à divulgação'
+            name: media
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Acolhimento'
+            name: hosts
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+      - label: 'Parceiros Insular'
+        name: parceiros-insular
+        file: '_data/parceiros-insular.yml'
+        hint: 'tamanho recomendado: 245×130'
+        fields: 
+          - label: 'Produção'
+            name: producao
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Financiamento'
+            name: financiamento
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Co-Produção'
+            name: co-prod
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Apoio'
+            name: apoio
+            widget: list
+            summary: '{{fields.image}}'
+            field: {label: Image, name: image, widget: image}
+          - label: 'Parceria'
+            name: parceria
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
@@ -100,6 +170,7 @@ collections:
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
           - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
+          - {name: image, widget: image, label: 'Imagem'}
       - label: 'Curadores'
         name: curadores
         file: '_data/insular_curators.yml'

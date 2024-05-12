@@ -24,13 +24,10 @@ $('.fuso-insular-banner').mouseout(function(){
 */
 
 $('.fuso-insular-banner').mouseover(function() {
-    var color = $('.index-container').data('color'); // Retrieve the color from the data attribute
+    var color = $(this).data('color'); // Retrieve the color from the data attribute
     $('.index-container').css('background-color', color); // Apply the color
-    $('.fuso-insular-banner').css('background-color', '');
 });
 
 $('.fuso-insular-banner').mouseout(function() {
-    var color = $('.index-container').data('color'); // Retrieve the color from the data attribute
-    $('.index-container').css('background-color', '');
-    $('.fuso-insular-banner').css('background-color', color); // Reset the background color
+    $('.index-container').css('background-color', ''); // Reset the background color
 });
