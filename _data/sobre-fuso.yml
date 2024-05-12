@@ -44,7 +44,6 @@ informacao: >-
 
 
   *FUSO - festival internacional de videoarte de Lisboa é uma produção Duplacena/Horta Seca, financiado por República Portuguesa - Cultura, Direção-Geral das Artes, Câmara Municipal de Lisboa e Fundação EDP/MAAT; com parceria institucional da EGEAC e apoio do Institut Français du Portugal, no âmbito do programa MaisFrança. O FUSO está inserido no programa Lisboa na Rua 2023, uma iniciativa da CML e da EGEAC.*
-ficha_tecnica: ""
 informacao_eng: >-
   ##### FUSO 2023 | 15th EDITION
 
@@ -91,3 +90,41 @@ informacao_eng: >-
 
 
   *FUSO - Lisbon international video art festival is a Duplacena/Horta Seca production, funded by República Portuguesa – Cultura / DgArtes, Lisbon City Council and EDP/MAAT Foundation; with the institutional partnership of Egeac and support of the Institut Français Portugal, under the MaisFrança program. FUSO is part of the Lisboa na Rua 2023 programme, an initiative by CML and EGEAC.*
+ficha_tecnica:
+  - title_pt: Diretor
+    name: António Câmara Manuel
+    title_eng: Director
+  - title_eng: Artistic Diretor
+    title_pt: Diretor Artístico
+    name: Jean-François Chougnet
+  - title_pt: Coordenadora Geral e Curatorial
+    name: Rachel Korman
+    title_eng: General and Curatorial Coordinator
+  - name: Ana Calheiros
+    title_pt: Diretora de Produção
+    title_eng: Production Diretor
+  - title_pt: Diretor Técnico
+    name: Alexandre Almeida Coelho
+    title_eng: Technical Diretor
+  - title_pt: Comunicação
+    name: Rita Bonifácio / Paris, Texas
+    title_eng: Communication
+  - title_pt: Imprensa e Redes Sociais
+    name: Ricardo Rodrigues
+    title_eng: Press | Social Media
+  - name: ilhas studio
+    title_pt: Design Gráfico
+    title_eng: Graphic Design
+  - title_pt: Website
+    name: Maria Nery
+    title_eng: Website
+  - title_pt: Fotografia
+    name: Alípio Padilha
+    title_eng: Photography
+  - title_pt: Júri Open Call
+    name: Irit Batsry, Isabel Nogueira, Margarida Chantre, Maxime Martinot e Susana
+      De Sousa Dias
+    title_eng: Open Call Jury
+  - name: DuplaCena, Horta Seca - Associação Cultural
+    title_pt: Produção
+    title_eng: Production
