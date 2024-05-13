@@ -12,7 +12,7 @@
             <div class="mx-1 desktop-nav">/</div>
         {% endfor %}
         {% for nav in navigation_data offset:1 %}
-            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
+            <div><a href="{{ site.baseurl}}{{ nav.url }}" style="border-color: {{ site.data.index.colour }} !important;" class="nav-item {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
             <div class="mx-1 desktop-nav">/</div>
         {% endfor %}
         </div>

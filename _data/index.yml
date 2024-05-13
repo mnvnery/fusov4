@@ -4,21 +4,20 @@ insular_data: 26 — 28
 insular_mes: Outubro
 colour: rgb(8,266,8)
 fase: 0
-imagens_fuso_pre:
-  - image: /assets/img/fuso_2024_site_desktop_imagem_1_pt.jpg
-    lang: pt
-  - image: /assets/img/fuso_2024_site_desktop_imagem_1.jpg
-    lang: eng
-  - image: /assets/img/fuso_imagem_2.jpg
-    lang: pt
-  - image: /assets/img/fuso_imagem_2_eng.jpg
-    lang: eng
-imagens_insular_pre:
-  - image: /assets/img/insular_2024_site_desktop_imagem_1.jpg
-    lang: pt
-  - image: /assets/img/insular_2024_site_desktop_imagem_1_eng.jpg
-    lang: eng
-  - image: /assets/img/insular_imagem_2_eng.jpg
-    lang: pt
-  - image: /assets/img/insular_imagem_2.jpg
-    lang: eng
+imagem_opencall_pt: /assets/img/fuso_2024_site_desktop_imagem_1_pt.jpg
+imagem_opencall_pt_mobile: /assets/img/fuso_2024_site_desktop_imagem_1_pt.jpg
+imagem_opencall_eng: /assets/img/fuso_2024_site_desktop_imagem_1.jpg
+imagem_opencall_eng_mobile: /assets/img/fuso_2024_site_desktop_imagem_1_pt.jpg
+imagem_datas_pt: /assets/img/fuso_imagem_2.jpg
+imagem_datas_pt_mobile: /assets/img/fuso_imagem_2.jpg
+imagem_datas_eng: /assets/img/fuso_imagem_2_eng.jpg
+imagem_datas_eng_mobile: /assets/img/fuso_imagem_2_eng.jpg
+imagem_lab_pt: /assets/img/insular_2024_site_desktop_imagem_1.jpg
+imagem_lab_pt_mobile: /assets/img/insular_2024_site_desktop_imagem_1.jpg
+imagem_lab_eng: /assets/img/insular_2024_site_desktop_imagem_1_eng.jpg
+imagem_lab_eng_mobile: /assets/img/insular_2024_site_desktop_imagem_1_eng.jpg
+imagem_datas_ins_pt: /assets/img/insular_imagem_2_eng.jpg
+imagem_datas_ins_pt_mobile: /assets/img/insular_imagem_2_eng.jpg
+imagem_datas_ins_eng: /assets/img/insular_imagem_2.jpg
+imagem_datas_ins_eng_mobile: /assets/img/insular_imagem_2.jpg
+

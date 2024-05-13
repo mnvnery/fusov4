@@ -27,20 +27,22 @@ collections:
               - { label: "Pré-Programa", value: 0 }
               - { label: "Programa", value: 1 }
               - { label: "Pós-Programa", value: 2 }
-          - label: 'Imagens Fuso Pre'
-            name: imagens_fuso_pre
-            widget: list
-            summary: '{{fields.image}}'
-            fields: 
-              - {label: Image, name: image, widget: image}
-              - {label: Lingua, name: lang, widget: select,  options: ["eng", "pt"]}
-          - label: 'Imagens Insular Pre'
-            name: imagens_insular_pre
-            widget: list
-            summary: '{{fields.image}}'
-            fields: 
-              - {label: Image, name: image, widget: image}
-              - {label: Lingua, name: lang, widget: select,  options: ["eng", "pt"]}
+          - {label: 'Imagem Open Call PT', name: imagem_opencall_pt, widget: image}
+          - {label: 'Imagem Open Call PT Mobile', name: imagem_opencall_pt_mobile, widget: image}
+          - {label: 'Imagem Open Call ENG', name: imagem_opencall_eng, widget: image}          
+          - {label: 'Imagem Open Call ENG Mobile', name: imagem_opencall_eng_mobile, widget: image}
+          - {label: 'Imagem Datas Fuso PT', name: imagem_datas_pt, widget: image}
+          - {label: 'Imagem Datas Fuso PT Mobile', name: imagem_datas_pt_mobile, widget: image}
+          - {label: 'Imagem Datas Fuso ENG', name: imagem_datas_eng, widget: image}
+          - {label: 'Imagem Datas Fuso ENG Mobile', name: imagem_datas_eng_mobile, widget: image}
+          - {label: 'Imagem Lab PT', name: imagem_lab_pt, widget: image}
+          - {label: 'Imagem Lab PT Mobile', name: imagem_lab_pt_mobile, widget: image}
+          - {label: 'Imagem Lab ENG', name: imagem_lab_eng, widget: image}
+          - {label: 'Imagem Lab ENG Mobile', name: imagem_lab_eng_mobile, widget: image}
+          - {label: 'Imagem Datas Insular PT', name: imagem_datas_ins_pt, widget: image}
+          - {label: 'Imagem Datas Insular PT Mobile', name: imagem_datas_ins_pt_mobile, widget: image}
+          - {label: 'Imagem Datas Insular ENG', name: imagem_datas_ins_eng, widget: image}
+          - {label: 'Imagem Datas Insular ENG Mobile', name: imagem_datas_ins_eng_mobile, widget: image}
       - label: 'Sobre'
         name: 'sobre'
         file: '_data/sobre-fuso.yml'
