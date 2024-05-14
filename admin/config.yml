@@ -93,36 +93,41 @@ collections:
               - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
       - label: 'Parceiros Fuso'
         name: parceiros-fuso
-        hint: 'tamanho recomendado: 245×130'
         file: '_data/parceiros-footer.yml'
         fields: 
           - label: 'Produção'
             name: producao
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Financiamento'
             name: financiamento
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Parceria Institucional'
             name: institucional
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Apoio'
             name: partner
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Apoio à divulgação'
             name: media
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Acolhimento'
             name: hosts
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
@@ -186,26 +191,31 @@ collections:
         fields: 
           - label: 'Produção'
             name: producao
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Financiamento'
             name: financiamento
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Co-Produção'
             name: co-prod
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Apoio'
             name: apoio
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
           - label: 'Parceria'
             name: parceria
+            hint: 'tamanho recomendado: 245×130, fundo transparente (png)'
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
