@@ -1,17 +1,5 @@
-producao:
-- '/assets/img/2-dgartes.jpg'
-- '/assets/img/3-EGEAC.jpg'
-financiamento:
-- '/assets/img/2-dgartes.jpg'
-- '/assets/img/3-EGEAC.jpg'
-- '/assets/img/2-dgartes.jpg'
-- '/assets/img/3-EGEAC.jpg'
-co-prod:
-- '/assets/img/2-dgartes.jpg'
-parceria:
-- '/assets/img/2-dgartes.jpg'
-- '/assets/img/3-EGEAC.jpg'
-- '/assets/img/2-dgartes.jpg'
-- '/assets/img/3-EGEAC.jpg'
-apoio:
-- '/assets/img/2-dgartes.jpg'
+producao: []
+financiamento: []
+co-prod: []
+apoio: []
+parceria: []
