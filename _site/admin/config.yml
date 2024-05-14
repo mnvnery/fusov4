@@ -62,7 +62,8 @@ collections:
         fields: 
           - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
           - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
-          - {name: image, widget: image, label: 'Imagem'}
+          - {name: image, widget: image, label: 'Imagem PT'}
+          - {name: image_eng, widget: image, label: 'Imagem ENG'}
       - label: 'Curadores'
         name: curadores
         file: '_data/fuso_curators.yml'
@@ -125,6 +126,52 @@ collections:
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
+  - name: 'paginas_insular'
+    label: 'Páginas Insular'
+    editor:
+      preview: false
+    files:
+      - label: 'Sobre'
+        name: 'sobre'
+        file: '_data/sobre-insular.yml'
+        fields: 
+          - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
+          - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
+      - label: 'Laboratório'
+        name: 'laboratorio'
+        file: '_data/laboratorio.yml'
+        fields: 
+          - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
+          - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
+          - {name: image, widget: image, label: 'Imagem PT'}
+          - {name: image_eng, widget: image, label: 'Imagem ENG'}
+      - label: 'Curadores'
+        name: curadores
+        file: '_data/insular_curators.yml'
+        fields: 
+          - {label: 'Intro', name: intro_pt, widget: markdown, modes: [rich_text]}
+          - {label: 'Intro ENG', name: intro_eng, widget: markdown, modes: [rich_text]}
+          - label: 'Curadores'
+            name: curadores
+            widget: list
+            summary: '{{fields.title}}'
+            fields:
+              - {name: title, widget: string, label: 'Nome'}
+              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
+              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
+              - {name: retrato, widget: image, label: 'Retrato'}
+      - label: 'Artists'
+        name: artistas
+        file: '_data/insular_artists.yml'
+        fields: 
+          - label: 'Artists'
+            name: artistas
+            widget: list
+            summary: '{{fields.title}}'
+            fields:
+              - {name: title, widget: string, label: 'Nome'}
+              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
+              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
       - label: 'Parceiros Insular'
         name: parceiros-insular
         file: '_data/parceiros-insular.yml'
@@ -155,51 +202,6 @@ collections:
             widget: list
             summary: '{{fields.image}}'
             field: {label: Image, name: image, widget: image}
-  - name: 'paginas_insular'
-    label: 'Páginas Insular'
-    editor:
-      preview: false
-    files:
-      - label: 'Sobre'
-        name: 'sobre'
-        file: '_data/sobre-insular.yml'
-        fields: 
-          - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
-          - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
-      - label: 'Laboratório'
-        name: 'laboratorio'
-        file: '_data/laboratorio.yml'
-        fields: 
-          - {label: 'Regulamento', name: regulamento, widget: markdown, modes: [rich_text]}
-          - {label: 'Regulamento ENG', name: regulamento_eng, widget: markdown, modes: [rich_text]}
-          - {name: image, widget: image, label: 'Imagem'}
-      - label: 'Curadores'
-        name: curadores
-        file: '_data/insular_curators.yml'
-        fields: 
-          - {label: 'Intro', name: intro_pt, widget: markdown, modes: [rich_text]}
-          - {label: 'Intro ENG', name: intro_eng, widget: markdown, modes: [rich_text]}
-          - label: 'Curadores'
-            name: curadores
-            widget: list
-            summary: '{{fields.title}}'
-            fields:
-              - {name: title, widget: string, label: 'Nome'}
-              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
-              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
-              - {name: retrato, widget: image, label: 'Retrato'}
-      - label: 'Artists'
-        name: artistas
-        file: '_data/insular_artists.yml'
-        fields: 
-          - label: 'Artists'
-            name: artistas
-            widget: list
-            summary: '{{fields.title}}'
-            fields:
-              - {name: title, widget: string, label: 'Nome'}
-              - {label: 'Bio PT', name: bio_pt, widget: markdown, modes: [rich_text]}
-              - {label: 'Bio ENG', name: bio_eng, widget: markdown, modes: [rich_text]}
   - name: 'fuso_programs'
     label: 'Programas Fuso'
     folder: '_fuso_programs'
