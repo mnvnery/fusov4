@@ -39,3 +39,41 @@ informacao_eng: >-
 
 
   In this way FUSO INSULAR fulfills its mission to train local artists, disseminate Portuguese art and enrich the cultural offer in the Azores, enriching the general knowledge of the population, while building new audiences.
+ficha_tecnica:
+  - title_pt: Diretor
+    name: António Câmara Manuel
+    title_eng: Director
+  - title_eng: Artistic Diretor
+    title_pt: Diretor Artístico
+    name: Jean-François Chougnet
+  - title_pt: Coordenadora Geral e Curatorial
+    name: Rachel Korman
+    title_eng: General and Curatorial Coordinator
+  - name: Ana Calheiros
+    title_pt: Diretora de Produção
+    title_eng: Production Diretor
+  - title_pt: Diretor Técnico
+    name: Alexandre Almeida Coelho
+    title_eng: Technical Diretor
+  - title_pt: Comunicação
+    name: Rita Bonifácio / Paris, Texas
+    title_eng: Communication
+  - title_pt: Imprensa e Redes Sociais
+    name: Ricardo Rodrigues
+    title_eng: Press | Social Media
+  - name: ilhas studio
+    title_pt: Design Gráfico
+    title_eng: Graphic Design
+  - title_pt: Website
+    name: Maria Nery
+    title_eng: Website
+  - title_pt: Fotografia
+    name: Alípio Padilha
+    title_eng: Photography
+  - title_pt: Júri Open Call
+    name: Irit Batsry, Isabel Nogueira, Margarida Chantre, Maxime Martinot e Susana
+      De Sousa Dias
+    title_eng: Open Call Jury
+  - name: DuplaCena, Horta Seca - Associação Cultural
+    title_pt: Produção
+    title_eng: Production
