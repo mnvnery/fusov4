@@ -103,7 +103,7 @@ p { line-height: 1.6em; }
 
 @media only screen and (max-width: 1024px) { .logos-footer { margin-top: 2em; } }
 
-@media only screen and (max-width: 325px) { .partners-logo-footer { height: 33px; } }
+@media only screen and (max-width: 400px) { .partners-logo-footer { height: 33px; } }
 
 .hero-insular { width: 47%; }
 

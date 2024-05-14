@@ -8,16 +8,8 @@ layout: fuso-insular
     </div>
 
     <div class="w-xl-50 about-right">
-        <img src="{{site.baseurl}}/assets/img/glitch-double.png" alt="Esfera" class="esfera-about-right">
-        <p>Diretor<br><u>António Câmara Manuel</u></p>
-        <p>Diretora Artística e Coordenadora Geral<br><u>Rachel Korman</u></p>
-        <p>Diretor Técnico<br><u>Alexandre Almeida Coelho</u></p>
-        <p>Produção<br><u>Ana Calheiros</u></p>
-        <p>Assessoria de Imprensa e Redes Sociais<br><u>Rachel Korman</u><br><u>Rita Bonifácio / Paris, Texas</u></p> 
-        <p>Design Gráfico<br><a href="https://ilhastudio.com" target="_blank"><u>ilhas studio</u></a></p>
-        <p>Website<br><u>Maria Nery</u></p>
-        <p>Equipamentos audiovisuais<br><u>Eduardo Oliveira</u></p>
-        <p>Fotografia<br><u>Carlos Brum Melo Photography</u></p>
-        <p>Produção<br><u>DuplaCena<br>Horta Seca</u></p>
+        {% for person in site.data.sobre-insular.ficha_tecnica %}
+        <p>{{ person.title_pt }}<br><u>{{ person.name }}</u></p>
+        {% endfor %}
     </div>
 </div>
