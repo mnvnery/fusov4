@@ -137,6 +137,13 @@ collections:
         fields: 
           - {label: 'Informação', name: informacao, widget: markdown, modes: [rich_text]}
           - {label: 'Informação ENG', name: informacao_eng, widget: markdown, modes: [rich_text]}
+          - label: 'Ficha Técnica'
+            name: ficha_tecnica
+            widget: list
+            fields:
+              - {name: title_pt, widget: string, label: 'Titulo PT'}
+              - {name: title_eng, widget: string, label: 'Titulo ENG'}
+              - {name: name, widget: string, label: 'Nome'}
       - label: 'Laboratório'
         name: 'laboratorio'
         file: '_data/laboratorio.yml'
