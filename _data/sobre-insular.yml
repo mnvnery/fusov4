@@ -18,7 +18,6 @@ informacao: >-
 
 
   Desta forma FUSO INSULAR cumpre a sua missão de dar formação aos artistas locais, divulgar a arte portuguesa e enriquecer a oferta cultural nos Açores e o conhecimento geral da população, contribuindo para a formação de novos públicos.
-
 informacao_eng: >-
   FUSO INSULAR is launched in 2019 with the intention of surmounting an existing
   gap in the artistic panorama of the Azores, concerning the knowledge and the
@@ -39,42 +38,34 @@ informacao_eng: >-
 
 
   In this way FUSO INSULAR fulfills its mission to train local artists, disseminate Portuguese art and enrich the cultural offer in the Azores, enriching the general knowledge of the population, while building new audiences.
-
 ficha_tecnica:
   - title_pt: Diretor
     name: António Câmara Manuel
     title_eng: Director
-  - title_eng: Artistic Diretor
-    title_pt: Diretor Artístico
-    name: Jean-François Chougnet
-  - title_pt: Coordenadora Geral e Curatorial
+  - title_pt: Diretora Artística e Coordenadora Geral
     name: Rachel Korman
     title_eng: General and Curatorial Coordinator
-  - name: Ana Calheiros
-    title_pt: Diretora de Produção
-    title_eng: Production Diretor
   - title_pt: Diretor Técnico
     name: Alexandre Almeida Coelho
     title_eng: Technical Diretor
-  - title_pt: Comunicação
-    name: Rita Bonifácio / Paris, Texas
-    title_eng: Communication
-  - title_pt: Imprensa e Redes Sociais
-    name: Ricardo Rodrigues
-    title_eng: Press | Social Media
+  - name: Ana Calheiros
+    title_pt: Produção
+    title_eng: Production
+  - title_pt: Assessoria de Imprensa e Redes Sociais
+    name: Rachel Korman, Rita Bonifácio / Paris, Texas
+    title_eng: Press and Social Media
   - name: ilhas studio
     title_pt: Design Gráfico
     title_eng: Graphic Design
   - title_pt: Website
     name: Maria Nery
     title_eng: Website
+  - title_pt: Equipamentos audiovisuais
+    name: Eduardo Oliveira
+    title_eng: Audio Visual Equipment
   - title_pt: Fotografia
-    name: Alípio Padilha
+    name: Carlos Brum Melo Photography
     title_eng: Photography
-  - title_pt: Júri Open Call
-    name: Irit Batsry, Isabel Nogueira, Margarida Chantre, Maxime Martinot e Susana
-      De Sousa Dias
-    title_eng: Open Call Jury
   - name: DuplaCena, Horta Seca - Associação Cultural
     title_pt: Produção
     title_eng: Production
