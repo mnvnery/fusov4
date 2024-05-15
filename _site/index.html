@@ -42,8 +42,7 @@
                     <path class="st1" d="M1857.3,194.3c0-79.8-213.3-144.4-476.3-144.4s-476.3,64.7-476.3,144.4S1118,338.7,1381,338.7
                         S1857.3,274,1857.3,194.3L1857.3,194.3z"/>
                 </g>
-                <text transform="matrix(1 0 0 1 1041.4492 221.8636)" class="st0 st2 st3">27 — 31 </text>
-                <text transform="matrix(1 0 0 1 1425.7227 221.8636)" class="st0 st2 st3">Agosto</text>
+                <text transform="matrix(1 0 0 1 1041.4492 221.8636)" class="st0 st2 st3">27 Ago — 01 Set </text>
                 </svg>
             </div>
             
@@ -86,7 +85,11 @@
             <div class="d-flex align-items-center justify-content-center w-100">
                 <img src="/assets/img/logo-45.svg" alt="Fuso 25-29 August" class="mobile-45-logo link-hover">
             </div>
-            <div class="fuso-index-dates font-larger float-end text-end mb-4">22 — <br>27 Agosto</div>
+            <div class="fuso-index-dates font-larger float-end text-end mb-4">
+                    <span id="fuso-before"></span><span> —</span>
+                    <br>
+                    <span id="fuso-after"></span>
+            </div>
         </div></a>
         <a href="/fuso-insular"><div style="background-color: rgb(8,266,8);" class="fuso-insular-banner d-flex flex-column py-5 px-4 border-top border-dark border-3">
             <img src="/assets/img/logo.svg" alt="Fuso 25-29 August" class="hero-insular">
@@ -100,8 +103,10 @@
                 <span class="font-rossa insular-title">A</span>
                 <span class="font-rossa insular-title">R</span>
             </div>
-            <div class="d-flex justify-content-between align-items-end">
-                <div class="font-larger">26 — <br>28 Outubro</div>
+            <div class="font-larger">
+                <span id="insular-before"></span><span> —</span>
+                <br>
+                <span id="insular-after"></span>
             </div>
         </div>
         </a>
@@ -117,6 +122,30 @@ if (window.netlifyIdentity) {
     }
     });
 }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        // Get the text from the insular_data
+        var insularData = "24 — 27 Outubro";
+        
+        // Check if the text contains "—" or "-" and split accordingly
+        var parts = insularData.includes("—") ? insularData.split("—") : insularData.split("-");
+        
+        // Populate the span elements
+        document.getElementById("insular-before").textContent = parts[0].trim();
+        document.getElementById("insular-after").textContent = parts[1].trim();
+
+        var fusoData = "27 Ago — 01 Set";
+        
+        // Check if the text contains "—" or "-" and split accordingly
+        var parts = fusoData.includes("—") ? fusoData.split("—") : fusoData.split("-");
+        
+        // Populate the span elements
+        document.getElementById("fuso-before").textContent = parts[0].trim();
+        document.getElementById("fuso-after").textContent = parts[1].trim();
+    });
+
+
+
 </script>
 
     </body>
