@@ -24,7 +24,6 @@ layout: default
                         S1857.3,274,1857.3,194.3L1857.3,194.3z"/>
                 </g>
                 <text transform="matrix(1 0 0 1 1041.4492 221.8636)" class="st0 st2 st3">{{site.data.index.fuso_data}} </text>
-                <text transform="matrix(1 0 0 1 1425.7227 221.8636)" class="st0 st2 st3">{{site.data.index.fuso_mes}}</text>
                 </svg>
             </div>
             
@@ -47,7 +46,7 @@ layout: default
                     s30.8,8.6,34.6,26.3L367.7,46.5L367.7,46.5L367.7,46.5z"/>
                 <path class="st1b" d="M844.1,76.2c0-36.9-98.5-66.7-220.1-66.7S403.9,39.3,403.9,76.2s98.5,66.7,220.1,66.7S844.1,113.1,844.1,76.2
                     L844.1,76.2L844.1,76.2z"/>
-                <text transform="matrix(1 0 0 1 448.32 95.19)" class="st0b st2b st3b">{{site.data.index.insular_data}} {{site.data.index.insular_mes}}</text>
+                <text transform="matrix(1 0 0 1 448.32 95.19)" class="st0b st2b st3b">{{site.data.index.insular_data}}</text>
                 </svg>
             </div>
             <span class="font-rossa insular-title">I</span>
@@ -67,7 +66,11 @@ layout: default
             <div class="d-flex align-items-center justify-content-center w-100">
                 <img src="{{site.baseurl}}/assets/img/logo-45.svg" alt="Fuso 25-29 August" class="mobile-45-logo link-hover">
             </div>
-            <div class="fuso-index-dates font-larger float-end text-end mb-4">22 — <br>27 Agosto</div>
+            <div class="fuso-index-dates font-larger float-end text-end mb-4">
+                    <span id="fuso-before"></span><span> —</span>
+                    <br>
+                    <span id="fuso-after"></span>
+            </div>
         </div></a>
         <a href="{{site.baseurl}}/fuso-insular"><div style="background-color: {{ site.data.index.colour }};" class="fuso-insular-banner d-flex flex-column py-5 px-4 border-top border-dark border-3">
             <img src="{{site.baseurl}}/assets/img/logo.svg" alt="Fuso 25-29 August" class="hero-insular">
@@ -81,8 +84,10 @@ layout: default
                 <span class="font-rossa insular-title">A</span>
                 <span class="font-rossa insular-title">R</span>
             </div>
-            <div class="d-flex justify-content-between align-items-end">
-                <div class="font-larger">26 — <br>28 Outubro</div>
+            <div class="font-larger">
+                <span id="insular-before"></span><span> —</span>
+                <br>
+                <span id="insular-after"></span>
             </div>
         </div>
         </a>
@@ -98,4 +103,28 @@ if (window.netlifyIdentity) {
     }
     });
 }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        // Get the text from the insular_data
+        var insularData = "{{site.data.index.insular_data}}";
+        
+        // Check if the text contains "—" or "-" and split accordingly
+        var parts = insularData.includes("—") ? insularData.split("—") : insularData.split("-");
+        
+        // Populate the span elements
+        document.getElementById("insular-before").textContent = parts[0].trim();
+        document.getElementById("insular-after").textContent = parts[1].trim();
+
+        var fusoData = "{{site.data.index.fuso_data}}";
+        
+        // Check if the text contains "—" or "-" and split accordingly
+        var parts = fusoData.includes("—") ? fusoData.split("—") : fusoData.split("-");
+        
+        // Populate the span elements
+        document.getElementById("fuso-before").textContent = parts[0].trim();
+        document.getElementById("fuso-after").textContent = parts[1].trim();
+    });
+
+
+
 </script>
