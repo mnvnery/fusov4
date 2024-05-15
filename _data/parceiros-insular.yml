@@ -1,5 +1,14 @@
-producao: []
-financiamento: []
-co-prod: []
-apoio: []
-parceria: []
+producao:
+  - /assets/img/duplacena_h_rgb_black-site.png
+  - /assets/img/logotipo-hs.png
+financiamento:
+  - /assets/img/rp_cultura.png
+  - /assets/img/dgartes_horizontal-pb-cinzas.png
+  - /assets/img/gra-vp-horizontal-rgb-sitepng
+  - /assets/img/azul_vh-site.png
+co-prod:
+  - /assets/img/arqu_logo_screen_s_pos-site.png
+apoio:
+  - /assets/img/logo-cmpd.png
+parceria:
+  - /assets/img/mcm_logo_preto.png
