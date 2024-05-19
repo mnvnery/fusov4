@@ -99,11 +99,11 @@ p { line-height: 1.6em; }
 
 .financing-logo { height: 88px; }
 
-@media only screen and (min-width: 1024px) { .logos-footer { margin-left: 18vw; } .partners-logo-footer { margin-bottom: 10px; height: 32px; } }
+@media only screen and (min-width: 1024px) { .logos-footer { margin-left: 18vw; } .partners-logo-footer { margin-bottom: 10px; height: 40px; } }
 
 @media only screen and (max-width: 1024px) { .logos-footer { margin-top: 2em; } }
 
-@media only screen and (max-width: 400px) { .partners-logo-footer { height: 33px; width: fit-content; } }
+@media only screen and (max-width: 400px) { .partners-logo-footer { height: 33px; object-fit: contain; } }
 
 .hero-insular { width: 47%; }
 
