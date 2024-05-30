@@ -235,7 +235,9 @@ collections:
       - {name: title, widget: string, label: 'Titulo'}
       - {name: title_eng, widget: string, label: 'Title ENG'}
       - {name: curadoria, widget: string, label: 'Curadoria'}
-      - {name: data, widget: select, required: false, label: 'Data', options: ['22', '23', '24', '25', '26', '27']}
+      - {name: data, widget: string, required: false, label: 'Dia'}
+      - {name: month_pt, widget: string, required: false, label: 'Mês PT'}
+      - {name: month_eng, widget: string, required: false, label: 'Month ENG'}
       - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
       - {name: horas, widget: string, required: false, label: 'Horas'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
@@ -277,7 +279,9 @@ collections:
       - {name: title, widget: string, label: 'Titulo'}
       - {name: title_eng, widget: string, label: 'Title ENG'}
       - {name: curadoria, widget: string, label: 'Curadoria'}
-      - {name: data, widget: select, required: false, label: 'Data', options: ['26', '27', '28', '29']}
+      - {name: data, widget: string, required: false, label: 'Dia'}
+      - {name: month_pt, widget: string, required: false, label: 'Mês PT'}
+      - {name: month_eng, widget: string, required: false, label: 'Month ENG'}
       - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
       - {name: horas, widget: string, required: false, label: 'Horas'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
