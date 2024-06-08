@@ -6,9 +6,9 @@ financiamento:
   - /assets/img/dgartes.svg
   - /assets/img/gra-vp-horizontal-rgb-site.png
   - /assets/img/flad-site.png
+  - /assets/img/logo-cmpd.png
 co-prod:
   - /assets/img/arquipelago-site.png
-apoio:
-  - /assets/img/cmpd-site.png
+apoio: []
 parceria:
   - /assets/img/mcm_logo_preto.png
