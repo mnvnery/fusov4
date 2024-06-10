@@ -41,6 +41,56 @@ curadores:
       curator and consultant on museum projects and director of the « Lille 3000
       » festival.
     retrato: /assets/img/foto-jean-francois-chougnet.png
+  - title: Bruno Z'Graggen
+    bio_pt: Bruno Z'Graggen estudou História Social e da Arte na Universidade de
+      Zurique, e tem um doutoramento em História Social. Em 2000 obteve o
+      certificado em Advanced Studies Culture Management Audience (CAS) da
+      Lucerne University of Applied Sciences and Arts. Trabalha como curador e
+      consultor freelancer desde 2012, principalmente em videoarte. Tem um
+      interesse especial na fotografia originária de Moçambique. Entre 2006 e
+      2023 dirigiu a unidade de Investigação em Promoção da mesma Universidade.
+      Participou no programa Futuro Próximo da Fundação Calouste Gulbenkian em
+      2013.
+    bio_eng: Bruno Z'Graggen studied Social and Art History at the University of
+      Zurich, and has a PhD in Social History. He continued his education and
+      obtained a Certificate of Advanced Studies Culture Management Audience
+      (CAS) from the Lucerne University of Applied Sciences and Arts,in the year
+      2000. He has been working as a freelance curator and consultant since
+      2012, mainly in the field of video art. He has a special interest in
+      photography originating from Mozambique. Between 2006 and 2023 he was head
+      of the Research Promotion office at the University of Lucerne. He
+      participated in the Calouste Gulbenkian Foundation programme Próximo
+      Futuro in 2013.
+    retrato: /assets/img/bruno-zgreggen.png
+  - bio_pt: Laila Hida é uma artista que trabalha sobre a cultura marroquina. Vive e
+      trabalha em Marrakech. Está fundamentalmente interessada na imagem e na
+      fotografia, explorando o seu uso enquanto material de arquivo para
+      despoletar os seus projectos de ficção. Na sua mais recente obra , Le
+      Voyage du Phoenix, utiliza a fotografia, literatura e cinema como
+      ferramentas para descodificar o mecanismo do desejo no século XX. Em 2013,
+      fundou o LE 18 na medina de Marrakech, um espaço cultural multidisciplinar
+      e de residências artísticas. O seu projeto a longo prazo centra-se no
+      questionamento e exploração do impacto do meio ambiente na produção,
+      mediação e investigação na arte. Foi curadora de vários projetos, quer em 
+      Marrocos, quer a nível internacional, destacando a participação do
+      coletivo LE 18 na Documenta 15, em 2022. Iniciou o projeto Dabaphoto, um
+      programa anual sobre fotografia e criação de imagens em Marrocos, já na
+      sua 8ª edição.
+    title: Laila Hida
+    bio_eng: Laila Hida is a Moroccan artist and cultural worker based in Marrakech.
+      She is primarily interested in images and photography, exploring their use
+      both as archival material and as triggers for fiction. Her recent work, Le
+      Voyage du Phoenix examines the use of photography, literature, and cinema
+      as tools to distill the 20th century's attitudes toward desire. In 2013
+      she founded LE 18 Marrakech, a multidisciplinary cultural space and arts
+      residency based in the medina of Marrakech. It is within this context that
+      she develops her long-term intention to question and explore the impact of
+      the environment on art production, mediation and research. She has curated
+      many programs in Morocco and internationally, including the LE 18
+      collective project at documenta 15. She launched Dabaphoto, an annual
+      program on photography and image-making in Morocco, which is now in its
+      8th edition.
+    retrato: /assets/img/portrait-laila-2021.jpg
   - title: Lori Zippay
     bio_pt: Lori Zippay é uma curadora, escritora e consultora baseada em
       Nova-Iorque, ativa na organização de exposições de&nbsp;media art&nbsp;e
@@ -83,6 +133,32 @@ curadores:
       serves on the Advisory Committees of Times Square Arts and Collaborative
       Cataloging Japan, and as Diretor Emerita of EAI.
     retrato: /assets/img/foto-lori-zippay-hauteliving-magazine.jpg
+  - bio_pt: "Marie Voignier é uma artista que vive e trabalha em Paris. Estudou
+      Belas Artes na École nationale supérieure des beaux-arts de Lyon. O seu
+      trabalho debruça-se, essencialmente, sobre realidades intrincadas e
+      histórias complexas que conjugam verdades e factos. Cada um dos seus
+      projetos tem uma abordagem única, sempre guiada pela questão das relações
+      humanas. Os seus filmes foram exibidos em vários espaços expositivos, tais
+      como: Centre Pompidou (Paris), LAXART (Los Angeles), Haus der Kunst
+      (Munique), Museum of Contemporary Photography (Chicago), 57th Venice
+      Biennale 2017, La Triennale, Palais de Tokyo (Paris, 2012), the 6th Berlin
+      Biennale for Contemporary Art (2010), and also at film festivals, such as
+      the Berlinale (Berlim), the Viennale (Viena), IFFR Rotterdam (Países
+      Baixos), and FID (Marselha)."
+    title: Marie Voignier
+    bio_eng: "Marie Voignier is an artist who lives and works in Paris. She studied
+      Fine Arts at the École nationale supérieure des beaux-arts de Lyon. Marie
+      Voignier is primarily concerned with intricate realities and complex
+      stories that incorporate authenticity and facts. Each of her projects has
+      a unique approach which is guided by the subject of human relationships.
+      Her films have been shown in various exhibition spaces such as: Centre
+      Pompidou (Paris), LAXART (Los Angeles), Haus der Kunst (Munich), Museum of
+      Contemporary Photography (Chicago), 57th Venice Biennale 2017, La
+      Triennale, Palais de Tokyo (Paris, 2012), the 6th Berlin Biennale for
+      Contemporary Art (2010), and also at film festivals, such as the Berlinale
+      (Berlin), the Viennale (Vienna), IFFR Rotterdam (The Netherlands), and FID
+      (Marseille)."
+    retrato: /assets/img/©viennale-roland-ferrigato.jpg
   - title: Rachel Korman
     bio_pt: >-
       Rachel Korman é coordenadora geral e curatorial do FUSO - Festival
@@ -164,79 +240,3 @@ curadores:
       is the starting point, but only because it includes everything else. He
       worked for The Público newspaper for more than twenty years.
     retrato: /assets/img/foto-mediador-vitor-belanciano-copyright_.jpg
-  - title: Bruno Z'Graggen
-    bio_pt: Bruno Z'Graggen estudou História Social e da Arte na Universidade de
-      Zurique, e tem um doutoramento em História Social. Em 2000 obteve o
-      certificado em Advanced Studies Culture Management Audience (CAS) da
-      Lucerne University of Applied Sciences and Arts. Trabalha como curador e
-      consultor freelancer desde 2012, principalmente em videoarte. Tem um
-      interesse especial na fotografia originária de Moçambique. Entre 2006 e
-      2023 dirigiu a unidade de Investigação em Promoção da mesma Universidade.
-      Participou no programa Futuro Próximo da Fundação Calouste Gulbenkian em
-      2013.
-    bio_eng: Bruno Z'Graggen studied Social and Art History at the University of
-      Zurich, and has a PhD in Social History. He continued his education and
-      obtained a Certificate of Advanced Studies Culture Management Audience
-      (CAS) from the Lucerne University of Applied Sciences and Arts,in the year
-      2000. He has been working as a freelance curator and consultant since
-      2012, mainly in the field of video art. He has a special interest in
-      photography originating from Mozambique. Between 2006 and 2023 he was head
-      of the Research Promotion office at the University of Lucerne. He
-      participated in the Calouste Gulbenkian Foundation programme Próximo
-      Futuro in 2013.
-    retrato: /assets/img/bruno-zgreggen.png
-  - bio_pt: Laila Hida é uma artista que trabalha sobre a cultura marroquina. Vive e
-      trabalha em Marrakech. Está fundamentalmente interessada na imagem e na
-      fotografia, explorando o seu uso enquanto material de arquivo para
-      despoletar os seus projectos de ficção. Na sua mais recente obra , Le
-      Voyage du Phoenix, utiliza a fotografia, literatura e cinema como
-      ferramentas para descodificar o mecanismo do desejo no século XX. Em 2013,
-      fundou o LE 18 na medina de Marrakech, um espaço cultural multidisciplinar
-      e de residências artísticas. O seu projeto a longo prazo centra-se no
-      questionamento e exploração do impacto do meio ambiente na produção,
-      mediação e investigação na arte. Foi curadora de vários projetos, quer em 
-      Marrocos, quer a nível internacional, destacando a participação do
-      coletivo LE 18 na Documenta 15, em 2022. Iniciou o projeto Dabaphoto, um
-      programa anual sobre fotografia e criação de imagens em Marrocos, já na
-      sua 8ª edição.
-    title: Laila Hida
-    bio_eng: Laila Hida is a Moroccan artist and cultural worker based in Marrakech.
-      She is primarily interested in images and photography, exploring their use
-      both as archival material and as triggers for fiction. Her recent work, Le
-      Voyage du Phoenix examines the use of photography, literature, and cinema
-      as tools to distill the 20th century's attitudes toward desire. In 2013
-      she founded LE 18 Marrakech, a multidisciplinary cultural space and arts
-      residency based in the medina of Marrakech. It is within this context that
-      she develops her long-term intention to question and explore the impact of
-      the environment on art production, mediation and research. She has curated
-      many programs in Morocco and internationally, including the LE 18
-      collective project at documenta 15. She launched Dabaphoto, an annual
-      program on photography and image-making in Morocco, which is now in its
-      8th edition.
-    retrato: /assets/img/portrait-laila-2021.jpg
-  - bio_pt: "Marie Voignier é uma artista que vive e trabalha em Paris. Estudou
-      Belas Artes na École nationale supérieure des beaux-arts de Lyon. O seu
-      trabalho debruça-se, essencialmente, sobre realidades intrincadas e
-      histórias complexas que conjugam verdades e factos. Cada um dos seus
-      projetos tem uma abordagem única, sempre guiada pela questão das relações
-      humanas. Os seus filmes foram exibidos em vários espaços expositivos, tais
-      como: Centre Pompidou (Paris), LAXART (Los Angeles), Haus der Kunst
-      (Munique), Museum of Contemporary Photography (Chicago), 57th Venice
-      Biennale 2017, La Triennale, Palais de Tokyo (Paris, 2012), the 6th Berlin
-      Biennale for Contemporary Art (2010), and also at film festivals, such as
-      the Berlinale (Berlim), the Viennale (Viena), IFFR Rotterdam (Países
-      Baixos), and FID (Marselha)."
-    title: Marie Voignier
-    bio_eng: "Marie Voignier is an artist who lives and works in Paris. She studied
-      Fine Arts at the École nationale supérieure des beaux-arts de Lyon. Marie
-      Voignier is primarily concerned with intricate realities and complex
-      stories that incorporate authenticity and facts. Each of her projects has
-      a unique approach which is guided by the subject of human relationships.
-      Her films have been shown in various exhibition spaces such as: Centre
-      Pompidou (Paris), LAXART (Los Angeles), Haus der Kunst (Munich), Museum of
-      Contemporary Photography (Chicago), 57th Venice Biennale 2017, La
-      Triennale, Palais de Tokyo (Paris, 2012), the 6th Berlin Biennale for
-      Contemporary Art (2010), and also at film festivals, such as the Berlinale
-      (Berlin), the Viennale (Vienna), IFFR Rotterdam (The Netherlands), and FID
-      (Marseille)."
-    retrato: /assets/img/©viennale-roland-ferrigato.jpg
