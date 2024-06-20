@@ -4,36 +4,46 @@
         <a href="https://www.facebook.com/FUSOanualvideoarte/" target="_blank"><u>Facebook</u></a><br>
     </div>
     <div class="d-md-flex flex-wrap align-items-start logos-footer">
+            {% if site.data.parceiros-insular.producao.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column align-items-start">
                 <h6 class="capitalize pe-3 smaller-text">Production</h6>
                 {% for logo in site.data.parceiros-insular.producao %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Production" class="partners-logo-footer pe-3 multiply">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-insular.financiamento.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column align-items-start">
                 <h6 class="capitalize pe-3 smaller-text">Financing</h6>
                 {% for logo in site.data.parceiros-insular.financiamento %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Financing" class="partners-logo-footer pe-3 multiply">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-insular.apoio.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Support</h6>
                 {% for logo in site.data.parceiros-insular.apoio %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Support" class="partners-logo-footer pe-3">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-insular.co-prod.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column align-items-start ">
                 <h6 class="capitalize pe-3 smaller-text">Co-Production</h6>
                 {% for logo in site.data.parceiros-insular.co-prod %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Co-Production" class="partners-logo-footer pe-3 multiply">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-insular.parceria.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column align-items-start">    
                 <h6 class="capitalize pe-3 smaller-text">Partner</h6>
                 {% for logo in site.data.parceiros-insular.parceria %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Partner" class="partners-logo-footer pe-3 multiply">
                 {% endfor %}
             </div>
+            {% endif %}
             <!--
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Apoio à<br>Divulgação</h6>

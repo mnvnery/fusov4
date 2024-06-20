@@ -33,30 +33,38 @@
         <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=EMAIL;ftypes[0]=merge;,fnames[1]=FNAME;ftypes[1]=merge;,fnames[undefined]=interests_11867;ftypes[undefined]=group;false}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
     </div>
     <div class="d-md-flex flex-wrap align-items-start logos-footer">
+            {% if site.data.parceiros-footer.producao.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Produção</h6>
                 {% for logo in site.data.parceiros-footer.producao %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Producao" class="partners-logo-footer pe-3">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-footer.financiamento.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Financiamento</h6>
                 {% for logo in site.data.parceiros-footer.financiamento %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Finaciamento" class="partners-logo-footer pe-3">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-footer.institucional.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Parceria<br>Institucional</h6>
                 {% for logo in site.data.parceiros-footer.institucional %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Parceria Institucional" class="partners-logo-footer pe-3">
                 {% endfor %}
             </div>
+            {% endif %}
+            {% if site.data.parceiros-footer.partner.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column">    
                 <h6 class="capitalize pe-3 smaller-text">Apoio</h6>
                 {% for logo in site.data.parceiros-footer.partner %}
                 <img src="{{ site.baseurl }}{{ logo }}" alt="Logo Apoio" class="partners-logo-footer pe-3">
                 {% endfor %}
             </div>
+            {% endif %}
             {% if site.data.parceiros-footer.media.size > 0 %}
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Apoio à<br>Divulgação</h6>
@@ -74,7 +82,6 @@
             </div>
             {% endif %}
             {% if site.data.parceiros-footer.hosts.size > 0 %}
-
             <div class="d-md-flex flex-xl-row flex-column">
                 <h6 class="capitalize pe-3 smaller-text">Acolhimento</h6>
                 {% for logo in site.data.parceiros-footer.hosts %}
