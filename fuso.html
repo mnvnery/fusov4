@@ -10,15 +10,20 @@ layout: fuso
 -->
 {% if site.data.index.fase == 0 %}
 
+{% if site.data.index.imagem_opencall_pt %}
 <div>
     <img src="{{site.baseurl}}{{ site.data.index.imagem_opencall_pt }}" alt="Fuso 2024" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_opencall_pt_mobile }}" alt="Fuso 2024" class="w-100 mobile">
 </div>
+{% endif %}
 
-<a href="{{site.baseurl}}/fuso/programa"><div>
+{% if site.data.index.imagem_datas_pt %}
+<div>
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_pt }}" alt="FusoPrograma" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_pt_mobile }}" alt="FusoPrograma" class="w-100 mobile">
-</div></a>
+</div>
+{% endif %}
+
 {% else if site.data.index.fase == 1 %}
 
 

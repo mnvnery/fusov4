@@ -9,16 +9,20 @@ layout: fuso-eng
 </div></a>
 -->
 {% if site.data.index.fase == 0 %}
+
+{% if site.data.index.imagem_opencall_eng %}
 <div>
     <img src="{{site.baseurl}}{{ site.data.index.imagem_opencall_eng }}" alt="Fuso 2024" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_opencall_eng_mobile }}"  alt="Fuso 2024" class="w-100 mobile">
 </div>
+{% endif %}
 
-<a href="{{site.baseurl}}/fuso-eng/program"><div>
+{% if site.data.index.imagem_datas_eng %}
+<div>
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_eng }}" alt="FusoPrograma" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_eng_mobile }}" alt="FusoPrograma" class="w-100 mobile">
-</div></a>
-
+</div>
+{% endif %}
 
 {% else if site.data.index.fase == 1 %}
 <div class="fuso mx-3 mb-3 fuso-programs">
