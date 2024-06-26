@@ -10,10 +10,10 @@ imagem_datas_pt: /assets/img/fuso_imagem_2.jpg
 imagem_datas_pt_mobile: /assets/img/fuso_2024_mobile_images4.jpg
 imagem_datas_eng: /assets/img/fuso_imagem_2_eng.jpg
 imagem_datas_eng_mobile: /assets/img/fuso_2024_mobile_images3.jpg
-imagem_lab_pt: /assets/img/fuso_2024_site_desktop_imagens3.jpg
-imagem_lab_pt_mobile: /assets/img/fuso_2024_mobile_images7.jpg
-imagem_lab_eng: /assets/img/insular_2024_site_desktop_imagem_1_eng.jpg
-imagem_lab_eng_mobile: /assets/img/fuso_2024_mobile_images8.jpg
+imagem_lab_pt: ""
+imagem_lab_pt_mobile: ""
+imagem_lab_eng: ""
+imagem_lab_eng_mobile: ""
 imagem_datas_ins_pt: /assets/img/insular_imagem_2_eng.jpg
 imagem_datas_ins_pt_mobile: /assets/img/fuso_2024_mobile_images2.jpg
 imagem_datas_ins_eng: /assets/img/insular_imagem_2.jpg
