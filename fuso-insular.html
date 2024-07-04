@@ -3,14 +3,14 @@ layout: fuso-insular
 ---
 {% if site.data.index.fase == 0 %}
 
-{% if site.data.index.imagem_lab_pt %}
+{% if site.data.index.imagem_lab_pt and site.data.index.imagem_lab_pt != '' %}
 <div class="border border-dark border-2 border-bottom-0 background-white">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_lab_pt }}" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_lab_pt_mobile }}"alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 mobile">
 </div>
 {% endif %}
 
-{% if site.data.index.imagem_datas_ins_pt %}
+{% if site.data.index.imagem_datas_ins_pt and   site.data.index.imagem_datas_ins_pt != '' %}
 <div class="border border-dark border-2">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_ins_pt }}" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_ins_pt_mobile }}" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 mobile">

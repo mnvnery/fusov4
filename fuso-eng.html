@@ -10,14 +10,14 @@ layout: fuso-eng
 -->
 {% if site.data.index.fase == 0 %}
 
-{% if site.data.index.imagem_opencall_eng %}
+{% if site.data.index.imagem_opencall_eng and site.data.index.imagem_opencall_eng != '' %}
 <div>
     <img src="{{site.baseurl}}{{ site.data.index.imagem_opencall_eng }}" alt="Fuso 2024" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_opencall_eng_mobile }}"  alt="Fuso 2024" class="w-100 mobile">
 </div>
 {% endif %}
 
-{% if site.data.index.imagem_datas_eng %}
+{% if site.data.index.imagem_datas_eng and site.data.index.imagem_datas_eng != '' %}
 <div>
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_eng }}" alt="FusoPrograma" class="w-100 desktop">
     <img src="{{site.baseurl}}{{ site.data.index.imagem_datas_eng_mobile }}" alt="FusoPrograma" class="w-100 mobile">
