@@ -6,11 +6,23 @@ financiamento:
   - /assets/img/dgartes.svg
   - /assets/img/03-logotipo-cml_horizontal_preto-site.png
   - /assets/img/prh_cd_rgb_black_pt_logo-copy.png
+  - /assets/img/mf_logoif_n.png
   - /assets/img/if_logo_noir_rvb-site.png
 institucional:
   - /assets/img/egeac.png
 partner:
   - /assets/img/maat-fedp-logo-2022-positivo-_site.png
-media: []
-hosts: []
-parceria: []
+media:
+  - /assets/img/antena2_site.png
+hosts:
+  - /assets/img/duplacena-site-2.png
+  - /assets/img/maat-fedp-logo-2022-positivo-_site.png
+  - /assets/img/mnac_logotipo_institucional-site.png
+  - /assets/img/tal_logo_black_v2-site.png
+  - /assets/img/blx_logo_black.png
+  - /assets/img/logo_marioneta_final-01-site.png
+parceria:
+  - /assets/img/2560px-logo_cnap.svg-site.png
+  - /assets/img/logo-le-18-vert.png
+  - /assets/img/logo_video_window-site.png
+  - /assets/img/museu-da-policia.png
