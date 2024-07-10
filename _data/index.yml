@@ -3,9 +3,9 @@ insular_data: 24 — 27 Outubro
 colour: rgb(8,266,8)
 fase: 0
 imagem_opencall_pt: ""
-imagem_opencall_pt_mobile: /assets/img/fuso_2024_mobile_images5.jpg
-imagem_opencall_eng: /assets/img/fuso_2024_site_desktop_imagem_1.jpg
-imagem_opencall_eng_mobile: /assets/img/fuso_2024_mobile_images6.jpg
+imagem_opencall_pt_mobile: ""
+imagem_opencall_eng: ""
+imagem_opencall_eng_mobile: ""
 imagem_datas_pt: /assets/img/fuso_imagem_2.jpg
 imagem_datas_pt_mobile: /assets/img/fuso_2024_mobile_images4.jpg
 imagem_datas_eng: /assets/img/fuso_imagem_2_eng.jpg
