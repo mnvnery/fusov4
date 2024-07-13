@@ -21,26 +21,6 @@ intro_eng: >-
 
   The daily interaction of curators and artists during the festival week provides for the meeting and establishment of numerous partnerships, generating a network of connections and collaborations.
 curadores:
-  - title: Jean-François Chougnet
-    bio_pt: Jean-François Chougnet (França) é director artístico do FUSO, e tem
-      dedicado sua carreira às políticas culturais. Foi diretor-geral do Parc de
-      la Villette, Paris (2001-2006). Dirigiu o Museu Berardo, em Lisboa, de
-      2007 a 2011. Em 2011, Jean-François Chougnet tornou-se diretor da
-      Marseille-Provence 2013, Capital Europeia da Cultura. De 2014 a 2022 foi
-      presidente do Musée des Civilisations de l’Europe et de la Méditerranée
-      (Mucem), em Marselha, França. É curador e consultor em projetos de museus
-      e director do festival « Lille 3000 ».
-    bio_eng: Jean-François Chougnet (France) is the artistic director of FUSO and
-      has dedicated his career to cultural policies. He was Managing Director of
-      Villette, Paris (2001-2006). In 2005, he was the General Commissioner of
-      the Year of Brazil in France. He directed the Berardo Foundation in Lisbon
-      from 2007 to 2011. In 2011, Jean-François Chougnet became CEO of
-      Marseille-Provence Capital of European Culture 2013. From 2014 to 2022 he
-      was president of the Musée des Civilizations de l’Europe et de la
-      Méditerranée (Mucem), in Marseille, France. Jean-François Chougnet is a
-      curator and consultant on museum projects and director of the « Lille 3000
-      » festival.
-    retrato: /assets/img/foto-jean-francois-chougnet.png
   - title: Bruno Z'Graggen
     bio_pt: Bruno Z'Graggen estudou História Social e da Arte na Universidade de
       Zurique, e tem um doutoramento em História Social. Em 2000 obteve o
@@ -62,6 +42,87 @@ curadores:
       participated in the Calouste Gulbenkian Foundation programme Próximo
       Futuro in 2013.
     retrato: /assets/img/bruno-zgreggen.png
+  - title: Jean-François Chougnet
+    bio_pt: Jean-François Chougnet (França) é director artístico do FUSO, e tem
+      dedicado sua carreira às políticas culturais. Foi diretor-geral do Parc de
+      la Villette, Paris (2001-2006). Dirigiu o Museu Berardo, em Lisboa, de
+      2007 a 2011. Em 2011, Jean-François Chougnet tornou-se diretor da
+      Marseille-Provence 2013, Capital Europeia da Cultura. De 2014 a 2022 foi
+      presidente do Musée des Civilisations de l’Europe et de la Méditerranée
+      (Mucem), em Marselha, França. É curador e consultor em projetos de museus
+      e director do festival « Lille 3000 ».
+    bio_eng: Jean-François Chougnet (France) is the artistic director of FUSO and
+      has dedicated his career to cultural policies. He was Managing Director of
+      Villette, Paris (2001-2006). In 2005, he was the General Commissioner of
+      the Year of Brazil in France. He directed the Berardo Foundation in Lisbon
+      from 2007 to 2011. In 2011, Jean-François Chougnet became CEO of
+      Marseille-Provence Capital of European Culture 2013. From 2014 to 2022 he
+      was president of the Musée des Civilizations de l’Europe et de la
+      Méditerranée (Mucem), in Marseille, France. Jean-François Chougnet is a
+      curator and consultant on museum projects and director of the « Lille 3000
+      » festival.
+    retrato: /assets/img/foto-jean-francois-chougnet.png
+  - title: João Pinharanda
+    bio_pt: "Diretor do MAAT - Museu de Arte, Arquitetura e Tecnologia desde 2022,
+      João Pinharanda (Moçambique, 1957) é historiador e crítico de arte. É
+      licenciado em História (Faculdade de Letras da Universidade Clássica de
+      Lisboa, 1980) e Mestre em História de Arte (Faculdade de Ciências Humanas
+      e Sociais da Universidade Nova de Lisboa, 1985). A par da carreira
+      docente, foi programador da Fundação EDP (2000-2015), tendo sido criador e
+      organizador do Prémios de Arte dinamizados pela instituição: Prémio Novos
+      Artistas Fundação EDP e Grande Prémio Fundação EDP. Participou também na
+      constituição da Coleção de Arte da Fundação EDP. Exerceu posteriormente as
+      funções de Adido Cultural da Embaixada de Portugal em Paris e diretor do
+      Centro Cultural Português em Paris – Camões I.P., entre 2016 e 2021."
+    bio_eng: "Director of MAAT - Museum of Art, Architecture and Technology since
+      2022, João Pinharanda (Mozambique, 1957) is an art historian and critic.
+      He has a degree in History (Faculty of Letters of the Universidade
+      Clássica de Lisboa, 1980) and a Master's degree in Art History (Faculty of
+      Human and Social Sciences of the Universidade Nova de Lisboa, 1985).
+      Alongside his teaching career, he was a programmer at the EDP Foundation
+      (2000-2015), having created and organized the Art Awards promoted by the
+      institution: the EDP Foundation New Artists Award and the EDP Foundation
+      Grand Prize. He also took part in setting up the EDP Foundation Art
+      Collection. He later served as Cultural Attaché at the Portuguese Embassy
+      in Paris and director of the Portuguese Cultural Center in Paris - Camões
+      I.P., between 2016 and 2021."
+    retrato: /assets/img/joão-pinharanda.jpg
+  - title: Isabel Nogueira
+    bio_pt: "Isabel Nogueira (n. 1974) é doutorada em Belas-Artes, especialização em
+      Ciências da Arte (Universidade de Lisboa) e pós-doutorada em História e
+      Teoria da Arte Contemporânea e Teoria da Imagem (Université Paris
+      1-Panthéon Sorbonne). É historiadora e crítica de arte contemporânea,
+      professora e ensaísta. É professora na Sociedade Nacional de Belas-Artes,
+      investigadora integrada do CIEBA/Faculdade de Belas-Artes/Universidade de
+      Lisboa, membro da Associação Internacional de Críticos de Arte (AICA). É
+      crítica de arte na revista Contemporânea e colaboradora da revista
+      Recherches en Esthétique. É editora/Diretora da revista académica Arte e
+      Cultura Visual (CIEBA/Faculdade de Belas-Artes/Universidade de Lisboa).
+      Livros recentes: Teorias da arte: do modernismo à actualidade
+      (BookBuilders, 2019, 2ªed. 2020); Zona de Rebentação (BookBuilders, 2020);
+      Como pode ‘isto’ ser arte? Breve ensaio sobre crítica de arte e juízo de
+      gosto (Húmus, 2020); História da arte em Portugal: do Marcelismo ao final
+      do século XX (BookBuilders, 2021); Crítica de arte ou o espaço entre a
+      obra e o Mundo: críticas escolhidas (Húmus, 2021); Histoire de l’art au
+      Portugal, 1968-2000 (Éditions de l’Harmattan, 2022)."
+    bio_eng: "Isabel Nogueira (b. 1974) holds a PhD in Fine Arts, specialization in
+      Art Sciences (University of Lisbon) and a post-doctorate in History and
+      Theory of Contemporary Art and Image Theory (Université Paris 1-Panthéon
+      Sorbonne). She is a contemporary art historian and critic, teacher and
+      essayist. She is a professor at the National Society of Fine Arts,
+      integrated researcher at CIEBA / Faculty of Fine Arts / University of
+      Lisbon, member of the International Association of Art Critics (AICA). She
+      is an art critic for the magazine Contemporânea and a contributor to the
+      magazine Recherches en Esthétique. She is editor/Diretor of the academic
+      journal Arte e Cultura Visual (CIEBA / Faculty of Fine Arts / University
+      of Lisbon). Recent books: Theories of art: from modernism to the present
+      (BookBuilders, 2019, 2nd ed. 2020); Zona de Rebentação (BookBuilders,
+      2020); How can 'this' be art? Brief essay on art criticism and judgment of
+      taste (Húmus, 2020); History of art in Portugal: from Marcelismo to the
+      end of the 20th century (BookBuilders, 2021); Art Criticism or the Space
+      Between the Work and the World: Chosen Criticism (Húmus, 2021); Histoire
+      de l’art au Portugal, 1968-2000 (Éditions de l’Harmattan, 2022)."
+    retrato: /assets/img/foto-isabel.jpg
   - bio_pt: Laila Hida é uma artista que trabalha sobre a cultura marroquina. Vive e
       trabalha em Marrakech. Está fundamentalmente interessada na imagem e na
       fotografia, explorando o seu uso enquanto material de arquivo para
@@ -179,42 +240,6 @@ curadores:
 
       Cofounded with Paulo Reis (in memory), Carpe Diem Art & Research, a center for residencies, exhibitions and investigation in contemporary art and collaborated with Hangar - Center for Research and Art as communication Diretor and manager of artistic residencies.
     retrato: /assets/img/fusoinsular-©carlos-melo-brum-2022-10-27_.jpg
-  - title: Isabel Nogueira
-    bio_pt: "Isabel Nogueira (n. 1974) é doutorada em Belas-Artes, especialização em
-      Ciências da Arte (Universidade de Lisboa) e pós-doutorada em História e
-      Teoria da Arte Contemporânea e Teoria da Imagem (Université Paris
-      1-Panthéon Sorbonne). É historiadora e crítica de arte contemporânea,
-      professora e ensaísta. É professora na Sociedade Nacional de Belas-Artes,
-      investigadora integrada do CIEBA/Faculdade de Belas-Artes/Universidade de
-      Lisboa, membro da Associação Internacional de Críticos de Arte (AICA). É
-      crítica de arte na revista Contemporânea e colaboradora da revista
-      Recherches en Esthétique. É editora/Diretora da revista académica Arte e
-      Cultura Visual (CIEBA/Faculdade de Belas-Artes/Universidade de Lisboa).
-      Livros recentes: Teorias da arte: do modernismo à actualidade
-      (BookBuilders, 2019, 2ªed. 2020); Zona de Rebentação (BookBuilders, 2020);
-      Como pode ‘isto’ ser arte? Breve ensaio sobre crítica de arte e juízo de
-      gosto (Húmus, 2020); História da arte em Portugal: do Marcelismo ao final
-      do século XX (BookBuilders, 2021); Crítica de arte ou o espaço entre a
-      obra e o Mundo: críticas escolhidas (Húmus, 2021); Histoire de l’art au
-      Portugal, 1968-2000 (Éditions de l’Harmattan, 2022)."
-    bio_eng: "Isabel Nogueira (b. 1974) holds a PhD in Fine Arts, specialization in
-      Art Sciences (University of Lisbon) and a post-doctorate in History and
-      Theory of Contemporary Art and Image Theory (Université Paris 1-Panthéon
-      Sorbonne). She is a contemporary art historian and critic, teacher and
-      essayist. She is a professor at the National Society of Fine Arts,
-      integrated researcher at CIEBA / Faculty of Fine Arts / University of
-      Lisbon, member of the International Association of Art Critics (AICA). She
-      is an art critic for the magazine Contemporânea and a contributor to the
-      magazine Recherches en Esthétique. She is editor/Diretor of the academic
-      journal Arte e Cultura Visual (CIEBA / Faculty of Fine Arts / University
-      of Lisbon). Recent books: Theories of art: from modernism to the present
-      (BookBuilders, 2019, 2nd ed. 2020); Zona de Rebentação (BookBuilders,
-      2020); How can 'this' be art? Brief essay on art criticism and judgment of
-      taste (Húmus, 2020); History of art in Portugal: from Marcelismo to the
-      end of the 20th century (BookBuilders, 2021); Art Criticism or the Space
-      Between the Work and the World: Chosen Criticism (Húmus, 2021); Histoire
-      de l’art au Portugal, 1968-2000 (Éditions de l’Harmattan, 2022)."
-    retrato: /assets/img/foto-isabel.jpg
   - title: Vitor Belanciano
     bio_pt: Jornalista cultural, crítico de música e cronista. Trabalhou no  jornal
       Público por  mais de vinte anos. Tem formação em antropologia e
@@ -243,28 +268,3 @@ curadores:
       because it includes everything else and Estás na moda ou na merda? a
       compilation of short reflective texts.
     retrato: /assets/img/foto-mediador-vitor-belanciano-copyright_.jpg
-  - title: João Pinharanda
-    bio_pt: "Diretor do MAAT - Museu de Arte, Arquitetura e Tecnologia desde 2022,
-      João Pinharanda (Moçambique, 1957) é historiador e crítico de arte. É
-      licenciado em História (Faculdade de Letras da Universidade Clássica de
-      Lisboa, 1980) e Mestre em História de Arte (Faculdade de Ciências Humanas
-      e Sociais da Universidade Nova de Lisboa, 1985). A par da carreira
-      docente, foi programador da Fundação EDP (2000-2015), tendo sido criador e
-      organizador do Prémios de Arte dinamizados pela instituição: Prémio Novos
-      Artistas Fundação EDP e Grande Prémio Fundação EDP. Participou também na
-      constituição da Coleção de Arte da Fundação EDP. Exerceu posteriormente as
-      funções de Adido Cultural da Embaixada de Portugal em Paris e diretor do
-      Centro Cultural Português em Paris – Camões I.P., entre 2016 e 2021."
-    bio_eng: "Director of MAAT - Museum of Art, Architecture and Technology since
-      2022, João Pinharanda (Mozambique, 1957) is an art historian and critic.
-      He has a degree in History (Faculty of Letters of the Universidade
-      Clássica de Lisboa, 1980) and a Master's degree in Art History (Faculty of
-      Human and Social Sciences of the Universidade Nova de Lisboa, 1985).
-      Alongside his teaching career, he was a programmer at the EDP Foundation
-      (2000-2015), having created and organized the Art Awards promoted by the
-      institution: the EDP Foundation New Artists Award and the EDP Foundation
-      Grand Prize. He also took part in setting up the EDP Foundation Art
-      Collection. He later served as Cultural Attaché at the Portuguese Embassy
-      in Paris and director of the Portuguese Cultural Center in Paris - Camões
-      I.P., between 2016 and 2021."
-    retrato: /assets/img/joão-pinharanda.jpg
