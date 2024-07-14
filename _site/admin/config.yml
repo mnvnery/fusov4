@@ -246,7 +246,7 @@ collections:
       - {name: month_pt, widget: string, label: 'Mês PT'}
       - {name: month_eng, widget: string, label: 'Month ENG'}
       - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
-      - {name: horas, widget: markdown, modes: [rich_text], required: false, label: 'Horas'}
+      - {name: horas, widget: string, required: false, label: 'Horas'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
       - {label: 'Texto Curatorial', name: texto_curatorial, required: false, widget: markdown, modes: [rich_text]}
       - {label: 'Texto Curatorial ENG', name: texto_curatorial_eng, required: false, widget: markdown, modes: [rich_text]}

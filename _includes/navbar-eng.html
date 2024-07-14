@@ -21,7 +21,7 @@
         <br class="mobile-nav">
         {% assign match = site.data.nav-matches | where: "eng-version", page.url %}
         {% for nav in match %}
-        <a href="{{site.baseurl}}{{ nav.pt-version }}" class="font-mesclo mx-xl-0 nav-item language">pt</a>
+        <a href="{{site.baseurl}}{{ nav.pt-version }}" class="font-mesclo mx-xl-0 nav-item language pt-selector">pt</a>
         {% endfor %}
     </div>
     <div class="mobile-nav ms-4">

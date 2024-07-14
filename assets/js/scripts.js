@@ -31,3 +31,37 @@ $('.fuso-insular-banner').mouseover(function() {
 $('.fuso-insular-banner').mouseout(function() {
     $('.index-container').css('background-color', ''); // Reset the background color
 });
+
+
+$('.language').on( "click", function() {
+    let language = $(this).text();
+    localStorage.setItem('selectedLanguage', language);
+    var x = localStorage.getItem("selectedLanguage");
+    $(this).addClass('active').siblings().removeClass('active');
+    if (x == 'pt') {
+        $('.pt').show();
+        $('.eng').hide();
+    } 
+    else {
+        $('.eng').show();
+        $('.pt').hide();
+    }
+});
+
+
+$(function() {
+    var x = localStorage.getItem("selectedLanguage");
+    console.log(x)
+    if (x == 'pt') {
+        $('.pt').show();
+        $('.eng').hide();
+        $('.pt-selector').addClass('active');
+        $('.eng-selector').removeClass('active');
+    } 
+    else {
+        $('.eng').show();
+        $('.pt').hide();
+        $('.eng-selector').addClass('active');
+        $('.pt-selector').removeClass('active');
+    }
+});
