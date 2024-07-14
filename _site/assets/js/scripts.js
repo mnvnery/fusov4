@@ -51,6 +51,12 @@ $('.language').on( "click", function() {
 
 $(function() {
     var x = localStorage.getItem("selectedLanguage");
+
+    // If not set, default to 'pt'
+    if (!x) {
+        selectedLanguage = 'pt';
+        localStorage.setItem('selectedLanguage', selectedLanguage);
+    }
     console.log(x)
     if (x == 'pt') {
         $('.pt').show();
