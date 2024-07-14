@@ -167,7 +167,7 @@ a:hover { color: inherit; }
 
 .programa-container { height: 50vh; }
 
-.hover-red:hover { color: #fff22d; text-decoration: underline; }
+.hover-red:hover { cursor: pointer; text-decoration: underline; }
 
 .hover-white:hover { color: white; }
 
@@ -195,7 +195,9 @@ a:hover { color: inherit; }
 
 .flex-artistas-insular { max-height: 45vh; }
 
-.artist-btn:hover { color: #fff22d; cursor: pointer; }
+.artist-btn { transition: color 0.3s; }
+
+.artist-btn:hover { cursor: pointer; }
 
 .curator-btn { cursor: pointer; }
 

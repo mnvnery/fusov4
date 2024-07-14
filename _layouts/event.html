@@ -39,7 +39,7 @@ layout: fuso-eng
     {% assign these_events = site.fuso_events | where:'programa', page_session.path %}
     {% for evento in these_events  %}
         {% if evento.title != page.title %}
-        <div class="border border-red mx-2 mb-5 programa-container programa-margin">
+        <div style="border-color: {{ site.data.index.colour }} !important;" class="border mx-2 mb-5 programa-container programa-margin">
             <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
             <div class="d-flex justify-content-between mt-2">
                 <h5 class="text-uppercase w-md-50 me-5">{{ evento.title }}</h5>

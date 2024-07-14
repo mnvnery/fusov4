@@ -11,7 +11,7 @@ layout: fuso
             </h5>
             <h5 class="me-3 data-programa me-md-5">
                 {{ page.data }} {{page.month_pt}}<br>
-                às {{ page.horas | markdownify }}
+                às {{ page.horas }}
             </h5>
             <h5 class="me-3 me-md-5">
                 <u>Local</u> <br>
@@ -33,7 +33,7 @@ layout: fuso
     {% assign this_session = page.path %}
     {% assign these_events = site.fuso_eventos | where:'programa', this_session %}
     {% for evento in these_events  %}
-    <div class="border border-red mx-2 mb-5 programa-container programa-margin">
+    <div style="border-color: {{ site.data.index.colour }} !important;"  class="border mx-2 mb-5 programa-container programa-margin">
         <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
         <div class="d-flex justify-content-between  mt-2">
             <h5 class="text-uppercase w-md-50 me-5">{{ evento.title }}</h5>
@@ -44,5 +44,5 @@ layout: fuso
 </div>
 
 <script>
-    $(".pages-nav").append('<a href="{{site.baseurl}}/programs_eng/{{page.slug}}" class="font-mesclo mx-xl-0 nav-item language">eng</a>')
+    //$(".pages-nav").append('<a href="{{site.baseurl}}/programs_eng/{{page.slug}}" class="font-mesclo mx-xl-0 nav-item language">eng</a>')
 </script>
