@@ -245,6 +245,14 @@ collections:
       - {name: data, widget: string, label: 'Dia'}
       - {name: month_pt, widget: string, label: 'Mês PT'}
       - {name: month_eng, widget: string, label: 'Month ENG'}
+      - label: "Data (para ordem)"
+        name: "start"
+        widget: "datetime"
+        default: ""
+        date_format: "DD.MM.YYYY" # e.g. 24.12.2021
+        time_format: "HH:mm" # e.g. 21:07
+        format: "LLL"
+        picker_utc: false
       - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
       - {name: horas, widget: string, required: false, label: 'Horas'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
