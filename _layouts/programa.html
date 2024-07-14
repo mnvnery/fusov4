@@ -1,48 +1,103 @@
----
-layout: fuso
----
-<div class="d-md-flex mx-4 mb-3">
-    <div class="h-100 me-3 w-md-50 mb-4">
-        <img src="{{site.baseurl}}{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate mb-3 max-height-60">
-        <div class="d-flex programa-info">
-            <h5 class="me-3 me-md-5">
-                <u>Curadoria</u><br>
-                {{ page.curadoria }}
-            </h5>
-            <h5 class="me-3 data-programa me-md-5">
-                {{ page.data }} {{page.month_pt}}<br>
-                às {{ page.horas }}
-            </h5>
-            <h5 class="me-3 me-md-5">
-                <u>Local</u> <br>
-                <div class="hover-red">{{ page.local | markdownify }}</div>
-            </h5>
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        <div class="pt">
+        {% include navbar.html %}
+        <div class="d-md-flex mx-4 mb-3">
+            <div class="h-100 me-3 w-md-50 mb-4">
+                <img src="{{site.baseurl}}{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate mb-3 max-height-60">
+                <div class="d-flex programa-info">
+                    <h5 class="me-3 me-md-5">
+                        <u>Curadoria</u><br>
+                        {{ page.curadoria }}
+                    </h5>
+                    <h5 class="me-3 data-programa me-md-5">
+                        {{ page.data }} {{page.month_pt}}<br>
+                        às {{ page.horas }}
+                    </h5>
+                    <h5 class="me-3 me-md-5">
+                        <u>Local</u> <br>
+                        <div class="hover-red">{{ page.local | markdownify }}</div>
+                    </h5>
+                </div>
+            </div>
+            <div class="ms-md-3 w-md-50">
+                <h5 class="text-uppercase">{{page.title }}</h5>
+                <br>
+                {{page.texto_curatorial | markdownify }}
+            </div>
         </div>
-    </div>
-    <div class="ms-md-3 w-md-50">
-        <h5 class="text-uppercase">{{page.title }}</h5>
-        <br>
-        {{page.texto_curatorial | markdownify }}
-    </div>
-</div>
-{% unless page.title == "Conversa Aberta" %}
-<div class="border border-top border-black"></div>
-<h5 class="text-center mt-3 mb-4">NESTA SESSÃO</h5>
-{% endunless %}
-<div class="event-grid mx-2 mb-5 pb-3 pb-md-0">
-    {% assign this_session = page.path %}
-    {% assign these_events = site.fuso_eventos | where:'programa', this_session %}
-    {% for evento in these_events  %}
-    <div style="border-color: {{ site.data.index.colour }} !important;"  class="border mx-2 mb-5 programa-container programa-margin">
-        <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
-        <div class="d-flex justify-content-between  mt-2">
-            <h5 class="text-uppercase w-md-50 me-5">{{ evento.title }}</h5>
-            <h5>{{ evento.artista }}</h5>
+        {% unless page.title == "Conversa Aberta" %}
+        <div class="border border-top border-black"></div>
+        <h5 class="text-center mt-3 mb-4">NESTA SESSÃO</h5>
+        {% endunless %}
+        <div class="event-grid mx-2 mb-5 pb-3 pb-md-0">
+            {% assign this_session = page.path %}
+            {% assign these_events = site.fuso_eventos | where:'programa', this_session %}
+            {% for evento in these_events  %}
+            <div style="border-color: {{ site.data.index.colour }} !important;"  class="border mx-2 mb-5 programa-container programa-margin">
+                <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+                <div class="d-flex justify-content-between  mt-2">
+                    <h5 class="text-uppercase w-md-50 me-5">{{ evento.title }}</h5>
+                    <h5>{{ evento.artista }}</h5>
+                </div>
+            </div>
+            {% endfor %}
         </div>
-    </div>
-    {% endfor %}
-</div>
-
-<script>
-    //$(".pages-nav").append('<a href="{{site.baseurl}}/programs_eng/{{page.slug}}" class="font-mesclo mx-xl-0 nav-item language">eng</a>')
-</script>
+        {% include footer.html %}
+        </div>
+        <div class="eng">
+            {% include navbar-eng.html %}
+            <div class="d-md-flex mx-4 mb-3">
+                <div class="h-100 me-3 w-md-50 mb-4">
+                    <img src="{{site.baseurl}}{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate mb-3 max-height-60">
+                    <div class="d-flex programa-info">
+                        <h5 class="me-3 me-md-5">
+                            <u>Curator</u><br>
+                            {{ page.curadoria }}
+                        </h5>
+                        <h5 class="me-3 data-programa me-md-5">
+                            {{ page.data }} {{page.month_eng}}<br>
+                            at {{ page.horas }}
+                        </h5>
+                        <h5 class="me-3 me-md-5">
+                            <u>Location</u> <br>
+                            <div class="hover-red">{{ page.local | markdownify }}</div>
+                        </h5>
+                        
+                    </div>
+                </div>
+                <div class="ms-md-3 w-md-50">
+                    <h5 class="text-uppercase">{{page.title_eng }}</h5>
+                    <br>
+                    {{page.texto_curatorial_eng | markdownify}}
+                </div>
+            </div>
+            {% unless page.title == "Conversa Aberta" %}
+            <div class="border border-top border-black"></div>
+            <h5 class="text-center mt-3 mb-4">ON THIS SESSION</h5>
+            {% endunless %}
+            <div class="event-grid mx-2 mb-5 pb-3 pb-md-0">
+                {% assign this_session = page.path %}
+                {% assign these_events = site.fuso_eventos | where:'programa', this_session %}
+                {% for evento in these_events  %}
+                <div style="border-color: {{ site.data.index.colour }} !important;" class="border mx-2 mb-5 programa-container programa-margin">
+                    <a href="{{evento.url}}"><img src="{{site.baseurl}}{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+                    <div class="d-flex justify-content-between mt-2">
+                        <h5 class="text-uppercase me-5">{{ evento.title_eng }}</h5>
+                        <h5>{{ evento.artista }}</h5>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        {% include footer-eng.html %}
+        </div>
+        <script>
+            $(".pages-nav").append('<a href="" class="font-mesclo mx-xl-0 nav-item language pt eng-selector">eng</a>')
+            $(".pages-nav").append('<a href="" class="font-mesclo mx-xl-0 nav-item language eng pt-selector">pt</a>')
+        </script>
+    </body>
+</html>
