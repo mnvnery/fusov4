@@ -1,7 +1,8 @@
 fuso_data: 27 Ago — 01 Set
 insular_data: 24 — 27 Outubro
 colour: rgb(8,266,8)
-fase: 0
+fase: 1
+fase-insular: 0
 imagem_opencall_pt: ""
 imagem_opencall_pt_mobile: ""
 imagem_opencall_eng: ""

@@ -20,13 +20,32 @@ layout: fuso-eng
 </div>
 
 <script>
+    const highlightColor = "{{ site.data.index.colour }}";
+
     $('.artist-text').first().show();
-    $('.artist-btn').first().addClass('text-red');
+    $('.artist-btn').first().css('color', highlightColor);
+
+    $('.artist-btn').hover(
+        function() {
+            if (!$(this).hasClass('active')) {
+                $(this).css('color', highlightColor);
+            }
+        },
+        function() {
+            if (!$(this).hasClass('active')) {
+                $(this).css('color', 'black');
+            }
+        }
+    );
+
     $('.artist-btn').click(function() {
         const artist = '#' + $(this).data('artist');
         $('.artist-text').hide();
         $(artist).toggle();
-        $('.artist-btn').removeClass('text-red');
-        $(this).toggleClass('text-red');
+
+        $('.artist-btn').css('color', 'black').removeClass('active');
+        $(this).toggleClass('active').css('color', function(_, oldColor) {
+            return oldColor === highlightColor ? 'black' : highlightColor;
+        });
     });
 </script>

@@ -18,12 +18,19 @@ collections:
           - {label: 'Data Fuso', name: fuso_data, widget: string}
           - {label: 'Data Fuso Insular', name: insular_data, widget: string}
           - { label: 'Côr', name: colour, widget: color }
-          - label: 'Fase'
+          - label: 'Fase Fuso'
             name: fase
             widget: select
             options: 
               - { label: "Pré-Programa", value: 0 }
-              - { label: "Programa", value: 1 }
+              - { label: "Programa Fuso", value: 1 }
+              - { label: "Pós-Programa", value: 2 }
+          - label: 'Fase Insular'
+            name: fase-insular
+            widget: select
+            options: 
+              - { label: "Pré-Programa", value: 0 }
+              - { label: "Programa Fuso", value: 1 }
               - { label: "Pós-Programa", value: 2 }
           - {label: 'Imagem Open Call PT', name: imagem_opencall_pt, widget: image, required: false}
           - {label: 'Imagem Open Call PT Mobile', name: imagem_opencall_pt_mobile, widget: image, required: false}
@@ -239,7 +246,7 @@ collections:
       - {name: month_pt, widget: string, label: 'Mês PT'}
       - {name: month_eng, widget: string, label: 'Month ENG'}
       - {name: local,  widget: markdown, modes: [rich_text], required: false, label: 'Local'}
-      - {name: horas, widget: string, required: false, label: 'Horas'}
+      - {name: horas, widget: markdown, modes: [rich_text], required: false, label: 'Horas'}
       - {name: duracao, widget: string, required: false, label: 'Duração'}
       - {label: 'Texto Curatorial', name: texto_curatorial, required: false, widget: markdown, modes: [rich_text]}
       - {label: 'Texto Curatorial ENG', name: texto_curatorial_eng, required: false, widget: markdown, modes: [rich_text]}
