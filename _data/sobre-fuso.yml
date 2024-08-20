@@ -112,24 +112,24 @@ informacao_eng: >-
 
   *FUSO is part of the Lisboa na Rua 2024 programme, an initiative of Lisbon City Council and EGEAC*
 ficha_tecnica:
-  - title_pt: Diretor
+  - title_pt: Direção
     name: António Câmara Manuel
-    title_eng: Director
-  - title_eng: Artistic Diretor
-    title_pt: Diretor Artístico
+    title_eng: Direction
+  - title_eng: Artistic Direction
+    title_pt: Direção Artística
     name: Jean-François Chougnet
-  - title_pt: Coordenadora Geral e Curatorial
+  - title_pt: Coordenação Geral e Curatorial
     name: Rachel Korman
-    title_eng: General and Curatorial Coordinator
+    title_eng: General and Curatorial Coordination
   - name: Ana Calheiros
-    title_pt: Diretora de Produção
-    title_eng: Production Diretor
-  - title_pt: Diretor Técnico
+    title_pt: Direção de Produção
+    title_eng: Production Direction
+  - title_pt: Direção Técnica
     name: Alexandre Coelho
-    title_eng: Technical Diretor
+    title_eng: Technical Direction
   - title_pt: Comunicação e Assessoria de Imprensa
     name: Rita Bonifácio / Paris, Texas
-    title_eng: Communication and Press Advisor
+    title_eng: Communication and Press Advisory
   - name: Ilhas Studio
     title_pt: Design Gráfico
     title_eng: Graphic Design
