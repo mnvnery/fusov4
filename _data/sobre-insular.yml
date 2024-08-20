@@ -42,13 +42,13 @@ informacao_eng: >-
 ficha_tecnica:
   - title_pt: Diretor
     name: António Câmara Manuel
-    title_eng: Director
-  - title_pt: Diretora Artística e Coordenadora Geral
+    title_eng: Direction
+  - title_pt: Direção Artística e Coordenação Geral
     name: Rachel Korman
-    title_eng: General and Curatorial Coordinator
-  - title_pt: Diretor Técnico
+    title_eng: General and Curatorial Coordination
+  - title_pt: Direção Técnica
     name: Alexandre Almeida Coelho
-    title_eng: Technical Diretor
+    title_eng: Technical Direction
   - name: Ana Calheiros
     title_pt: Produção
     title_eng: Production
