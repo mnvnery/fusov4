@@ -19,7 +19,7 @@ layout: fuso-insular-eng
 
 {% else if site.data.index.fase-insular == 1 %}
 <div class="fuso mx-3 mb-3 fuso-programs">
-    {% assign programs = site.insular_programs | sort:'data' %}
+    {% assign programs = site.insular_programas | sort:'data' %}
     {% for programa in programs  %}
     <a href="{{programa.url}}"><div class="border border-2 border-dark mx-2 mb-3 position-relative programa-container">
         <img src="{{site.baseurl}}{{programa.imagem}}" alt="imagem-evento" class="h-100 w-100 object-fit-cover saturate">
