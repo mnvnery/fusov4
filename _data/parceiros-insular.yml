@@ -5,12 +5,12 @@ financiamento:
   - /assets/img/gra-vp-horizontal-rgb-site.png
   - /assets/img/rp_cultura_vertical.png
   - /assets/img/dgartes.svg
+  - /assets/img/fuso_2025_logotipos_site4.png
   - /assets/img/ica-site.png
-  - /assets/img/logo-cmpd-resalta.png
-  - /assets/img/flad-site.png
-  - /assets/img/prh_cd_rgb_black_pt_logo-copy.png
 co-prod:
   - /assets/img/arquipelago-site.png
-apoio: []
+apoio:
+  - /assets/img/logo-cmpd-resalta.png
 parceria:
   - /assets/img/mcm_logo_preto.png
+  - /assets/img/fuso_2025_logotipos_site3.png
