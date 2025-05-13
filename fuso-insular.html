@@ -1,7 +1,7 @@
 ---
 layout: fuso-insular
 ---
-{% if site.data.index.fase-insular == 0 or site.data.index.fase-insular == 2 %}
+{% if site.data.index.fase-insular == "0" or site.data.index.fase-insular == "2" %}
 
 {% if site.data.index.imagem_lab_pt and site.data.index.imagem_lab_pt != '' %}
 <div class="border border-dark border-2 border-bottom-0 background-white">
@@ -17,7 +17,7 @@ layout: fuso-insular
 </div>
 {% endif %}
 
-{% else if site.data.index.fase-insular == 1 %}
+{% else if site.data.index.fase-insular == "1" %}
 <div class="fuso mx-3 mb-3 fuso-programs">
     {% assign programs = site.insular_programas | sort:'data' %}
     {% for programa in programs  %}
