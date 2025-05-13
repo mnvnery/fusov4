@@ -30,15 +30,6 @@
             <div class="mx-1 desktop-nav">/</div>
         
         
-            <div><a href="/fuso-eng/program/" style="border-color: #f826fb !important;" class="nav-item ">program</a></div>
-            <div class="mx-1 desktop-nav">/</div>
-        
-            <div><a href="/fuso-eng/curators/" style="border-color: #f826fb !important;" class="nav-item ">curators</a></div>
-            <div class="mx-1 desktop-nav">/</div>
-        
-            <div><a href="/fuso-eng/artists/" style="border-color: #f826fb !important;" class="nav-item ">artists</a></div>
-            <div class="mx-1 desktop-nav">/</div>
-        
             <div><a href="/fuso-eng/open-call/" style="border-color: #f826fb !important;" class="nav-item ">open call</a></div>
             <div class="mx-1 desktop-nav">/</div>
         
@@ -67,10 +58,16 @@
 </div></a>
 -->
 
-<div class="fuso mx-3 mb-3 fuso-programs">
-    
-    
+
+
+
+
+<div>
+    <img src="/assets/img/site_edição2025_en.jpg" alt="FusoPrograma" class="w-100 desktop">
+    <img src="/assets/img/mobile_datas_en.jpg" alt="FusoPrograma" class="w-100 mobile">
 </div>
+
+
 
 <script>
     window.onscroll = function() {
@@ -80,7 +77,7 @@
     function growShrinkLogo() {
         var Logo = document.querySelector(".site-title")
         var navbar = document.querySelector(".navbar-container")
-        if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
+        if (document.body.scrollTop > 1 || document.documentElement.scrollTop > 1) {
             Logo.classList.remove("w-100");
         } else {
             Logo.classList.add("w-100");

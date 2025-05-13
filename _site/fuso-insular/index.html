@@ -43,15 +43,6 @@
             
             
             
-                <div><a href="/fuso-insular/programa/" class="nav-item ">programa</a></div>
-                <div class="mx-1 desktop-nav">/</div>
-            
-                <div><a href="/fuso-insular/curadores/" class="nav-item ">curadores</a></div>
-                <div class="mx-1 desktop-nav">/</div>
-            
-                <div><a href="/fuso-insular/artistas/" class="nav-item ">artistas</a></div>
-                <div class="mx-1 desktop-nav">/</div>
-            
                 <div><a href="/fuso-insular/laboratorio/" class="nav-item ">laboratório</a></div>
                 <div class="mx-1 desktop-nav">/</div>
             
@@ -73,10 +64,16 @@
     </div>
 </div>
         
-<div class="fuso mx-3 mb-3 fuso-programs">
-    
-    
-</div>    
+
+
+
+
+<div class="border border-dark border-2">
+    <img src="/assets/img/site_insular_data-pt.jpg" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 desktop">
+    <img src="/assets/img/mobile_datas-pt.jpg" alt="Fuso Insular 2023 28 a 30 de Outubro" class="w-100 mobile">
+</div>
+
+
 
 <script>
     window.onscroll = function() {
@@ -87,7 +84,7 @@
         var Logo = document.querySelector(".site-title")
         var logoContainer = document.querySelector(".insular-nav")
         var insularSection = document.querySelector(".insular-section")
-        if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
+        if (document.body.scrollTop > 1 || document.documentElement.scrollTop > 1) {
             Logo.classList.remove("w-100");
             logoContainer.classList.remove("flex-column");
             insularSection.classList.remove("insular-full-width");
