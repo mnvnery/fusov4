@@ -8,7 +8,7 @@ layout: fuso-eng
     
 </div></a>
 -->
-{% if site.data.index.fase == 0 or site.data.index.fase == 2 %}
+{% if site.data.index.fase == "0" or site.data.index.fase == "2" %}
 
 {% if site.data.index.imagem_opencall_eng and site.data.index.imagem_opencall_eng != '' %}
 <div>
@@ -24,7 +24,7 @@ layout: fuso-eng
 </div>
 {% endif %}
 
-{% else if site.data.index.fase == 1 %}
+{% else if site.data.index.fase == "1" %}
 <div class="fuso mx-3 mb-3 fuso-programs">
     {% assign programs = site.fuso_programs | sort:'start' %}
     {% for programa in programs  %}

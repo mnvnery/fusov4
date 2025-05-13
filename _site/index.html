@@ -21,7 +21,7 @@
     </head>
     <body>
         <div class="desktop">
-    <div class="d-flex flex-column justify-content-between vh-100 index-container" data-color="rgb(8,266,8)">
+    <div class="d-flex flex-column justify-content-between vh-100 index-container" data-color="#f826fb">
         <a href="/fuso" class="h-100 d-flex align-items-center position-relative z-10"><div class="fuso-banner px-4 pt-2 w-100">
             <div class="w-100 link-hover">
                 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -42,12 +42,12 @@
                     <path class="st1" d="M1857.3,194.3c0-79.8-213.3-144.4-476.3-144.4s-476.3,64.7-476.3,144.4S1118,338.7,1381,338.7
                         S1857.3,274,1857.3,194.3L1857.3,194.3z"/>
                 </g>
-                <text transform="matrix(1 0 0 1 1041.4492 221.8636)" class="st0 st2 st3">27 Ago — 01 Set </text>
+                <text transform="matrix(1 0 0 1 1041.4492 221.8636)" class="st0 st2 st3">26 — 31 Agosto </text>
                 </svg>
             </div>
             
         </div></a>
-        <a href="/fuso-insular" class="position-relative z-0"><div style="background-color: rgb(8,266,8);" class="fuso-insular-banner d-flex align-items-center justify-content-between py-5 px-4 border-top border-dark border-3">
+        <a href="/fuso-insular" class="position-relative z-0"><div style="background-color: #f826fb;" class="fuso-insular-banner d-flex align-items-center justify-content-between py-5 px-4 border-top border-dark border-3">
             <div class="hero-insular">
                 <svg version="1.1" id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                     viewBox="0 0 853.6 152.4" style="enable-background:new 0 0 853.6 152.4;" xml:space="preserve">
@@ -65,7 +65,7 @@
                     s30.8,8.6,34.6,26.3L367.7,46.5L367.7,46.5L367.7,46.5z"/>
                 <path class="st1b" d="M844.1,76.2c0-36.9-98.5-66.7-220.1-66.7S403.9,39.3,403.9,76.2s98.5,66.7,220.1,66.7S844.1,113.1,844.1,76.2
                     L844.1,76.2L844.1,76.2z"/>
-                <text transform="matrix(1 0 0 1 448.32 95.19)" class="st0b st2b st3b">24 — 27 Outubro</text>
+                <text transform="matrix(1 0 0 1 448.32 95.19)" class="st0b st2b st3b">23 — 26 Outubro</text>
                 </svg>
             </div>
             <span class="font-rossa insular-title">I</span>
@@ -91,7 +91,7 @@
                     <span id="fuso-after"></span>
             </div>
         </div></a>
-        <a href="/fuso-insular"><div style="background-color: rgb(8,266,8);" class="fuso-insular-banner d-flex flex-column py-5 px-4 border-top border-dark border-3">
+        <a href="/fuso-insular"><div style="background-color: #f826fb;" class="fuso-insular-banner d-flex flex-column py-5 px-4 border-top border-dark border-3">
             <img src="/assets/img/logo.svg" alt="Fuso 25-29 August" class="hero-insular">
             
             <div class="d-flex align-items-center justify-content-between">
@@ -125,7 +125,7 @@ if (window.netlifyIdentity) {
 
     document.addEventListener("DOMContentLoaded", function() {
         // Get the text from the insular_data
-        var insularData = "24 — 27 Outubro";
+        var insularData = "23 — 26 Outubro";
         
         // Check if the text contains "—" or "-" and split accordingly
         var parts = insularData.includes("—") ? insularData.split("—") : insularData.split("-");
@@ -134,7 +134,7 @@ if (window.netlifyIdentity) {
         document.getElementById("insular-before").textContent = parts[0].trim();
         document.getElementById("insular-after").textContent = parts[1].trim();
 
-        var fusoData = "27 Ago — 01 Set";
+        var fusoData = "26 — 31 Agosto";
         
         // Check if the text contains "—" or "-" and split accordingly
         var parts = fusoData.includes("—") ? fusoData.split("—") : fusoData.split("-");
