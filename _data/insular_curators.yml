@@ -16,42 +16,6 @@ intro_eng: >-
 
   The Moving Image Laboratory, FUSO INSULAR's Creative Residency Programme, invites artists with extensive experience in the field of the moving image, who are responsible for the theoretical training and practical tutoring of the participants.
 curadores:
-  - title: Jean-François Chougnet
-    bio_pt: Jean-François Chougnet (França) é diretor artístico do FUSO, e tem
-      dedicado sua carreira às políticas culturais. Foi diretor-geral do Parc de
-      la Villette, Paris (2001-2006). Dirigiu o Museu Berardo, em Lisboa, de
-      2007 a 2011. Em 2011, Jean-François Chougnet tornou-se diretor da
-      Marseille-Provence 2013, Capital Europeia da Cultura. De 2014 a 2022 foi
-      presidente do Musée des Civilisations de l’Europe et de la Méditerranée
-      (Mucem), em Marselha, França. É curador e consultor em projetos de museus
-      e diretor do festival « Lille 3000 ».
-    bio_eng: Jean-François Chougnet (France) is the artistic director of FUSO and
-      has dedicated his career to cultural policies. He was Managing Director of
-      Villette, Paris (2001-2006). In 2005, he was the General Commissioner of
-      the Year of Brazil in France. He directed the Berardo Foundation in Lisbon
-      from 2007 to 2011. In 2011, Jean-François Chougnet became CEO of
-      Marseille-Provence Capital of European Culture 2013. From 2014 to 2022 he
-      was president of the Musée des Civilizations de l’Europe et de la
-      Méditerranée (Mucem), in Marseille, France. Jean-François Chougnet is a
-      curator and consultant on museum projects and director of the « Lille 3000
-      » festival.
-    retrato: /assets/img/foto-jean-françois-chougnet.png
-  - title: "André Laranjinha "
-    bio_pt: "André Laranjinha (n. 1977) vive e trabalha em São Miguel. É formado em
-      Belas-Artes pela Universidade de Lisboa e desenvolve trabalhos em cinema,
-      vídeo, artes plásticas, artes gráficas e ilustração. É cofundador do
-      atelier Alice’s House, juntamente com a designer gráfica Júlia
-      Garcia.</p><p>Entre seus filmes destacam-se: Vinho (2018); Muros de Pedra
-      (2017); Clarissas (2016); Pão (2014); Matança (2011); A Ilha do Preto
-      (2010); A Natureza e o Engenho (2009) e Romarias de São Miguel (2009)."
-    bio_eng: "André Laranjinha (b. 1977) lives and works in São Miguel. He has a
-      degree in Fine Arts from the University of Lisbon and works in cinema,
-      video, visual arts, graphic arts and illustration. He is co-founder of
-      Alice ’s House atelier, together with graphic designer Júlia
-      Garcia.</p><p>Among his films are: Wine (2018); Stone Walls (2017);
-      Clarissas (2016); Bread (2014); Slaughter (2011); Negro Island (2010);
-      Nature and Ingeniousness (2009) and Pilgrimages from São Miguel (2009)."
-    retrato: /assets/img/foto.jpeg
   - title: Cláudia Varejão
     bio_pt: >-
       Cláudia Varejão nasceu no Porto e estudou realização no Programa de
@@ -99,3 +63,19 @@ curadores:
 
       ph: © Catarina Vasconcelos
     retrato: /assets/img/©-catarina-vasconcelos.jpg
+  - title: "André Laranjinha "
+    bio_pt: "André Laranjinha (n. 1977) vive e trabalha em São Miguel. É formado em
+      Belas-Artes pela Universidade de Lisboa e desenvolve trabalhos em cinema,
+      vídeo, artes plásticas, artes gráficas e ilustração. É cofundador do
+      atelier Alice’s House, juntamente com a designer gráfica Júlia
+      Garcia.</p><p>Entre seus filmes destacam-se: Vinho (2018); Muros de Pedra
+      (2017); Clarissas (2016); Pão (2014); Matança (2011); A Ilha do Preto
+      (2010); A Natureza e o Engenho (2009) e Romarias de São Miguel (2009)."
+    bio_eng: "André Laranjinha (b. 1977) lives and works in São Miguel. He has a
+      degree in Fine Arts from the University of Lisbon and works in cinema,
+      video, visual arts, graphic arts and illustration. He is co-founder of
+      Alice ’s House atelier, together with graphic designer Júlia
+      Garcia.</p><p>Among his films are: Wine (2018); Stone Walls (2017);
+      Clarissas (2016); Bread (2014); Slaughter (2011); Negro Island (2010);
+      Nature and Ingeniousness (2009) and Pilgrimages from São Miguel (2009)."
+    retrato: /assets/img/foto.jpeg
