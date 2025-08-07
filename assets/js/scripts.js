@@ -48,14 +48,36 @@ $('.language').on( "click", function() {
     }
 });
 
+// Function to get URL parameters
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+}
+
+// Function to set language based on URL parameter or localStorage
+function setLanguageFromUrl() {
+    var urlLang = getUrlParameter('lang');
+    var storedLang = localStorage.getItem('selectedLanguage');
+    
+    // If URL has language parameter, use it and store it
+    if (urlLang && (urlLang === 'eng' || urlLang === 'pt')) {
+        localStorage.setItem('selectedLanguage', urlLang);
+        return urlLang;
+    }
+    
+    // Otherwise use stored language or default to 'pt'
+    return storedLang || 'pt';
+}
 
 $(function() {
-    var x = localStorage.getItem("selectedLanguage");
+    var x = setLanguageFromUrl();
 
     // If not set, default to 'pt'
     if (!x) {
-        selectedLanguage = 'pt';
-        localStorage.setItem('selectedLanguage', selectedLanguage);
+        x = 'pt';
+        localStorage.setItem('selectedLanguage', x);
     }
     console.log(x)
     if (x == 'pt') {
