@@ -255,7 +255,8 @@ curadores:
       3000 » festival. Jean-François Chougnet is a curator and consultant on
       museum projects.
     retrato: /assets/img/foto-jean-françois-chougnet.png
-  - bio_pt: Rachel Korman é coordenadora geral e curatorial do FUSO - Festival
+  - bio_pt: >-
+      Rachel Korman é coordenadora geral e curatorial do FUSO - Festival
       Internacional de Videoarte de Lisboa e diretora artística do FUSO Insular
       - Mostra de Videoarte dos Açores. Brasileira de origem polaca, vive e
       trabalha na ilha de São Miguel, Açores. É graduada em Comunicação Social
@@ -267,6 +268,9 @@ curadores:
       investigação em arte contemporânea e colaborou com o Hangar - Centro de
       Investigação e Arte como diretora de comunicação e gestora de residências
       artísticas.
+
+
+      f﻿oto: © Alipio Padilha
     title: Rachel Korman
     bio_eng: >-
       Rachel Korman is curatorial and general coordinator at FUSO -
@@ -278,4 +282,7 @@ curadores:
       She is graduated in Social Communication (PUC-MG), with a degree in arts from Parque Lage School of Visual Arts, Rio de Janeiro. In 2007 she moved to Lisbon, Portugal where she attended the Advanced Photography Course at Ar.Co and the Independent Study Program on Contemporary Art at Maumaus. \
 
       Cofounded with Paulo Reis (in memory), Carpe Diem Art & Research, a center for residencies, exhibitions and investigation in contemporary art and collaborated with Hangar - Center for Research and Art as communication Diretor and manager of artistic residencies.
+
+
+      p﻿h: © Alipio Padilha
     retrato: /assets/img/rac-fuso.jpg
